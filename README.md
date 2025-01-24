@@ -4,9 +4,7 @@ A curated RSS Feed of HumbleBundle bundles, generated using Go. 🐭
 
 ## About
 
-Go Humble! RSS is available on my personal homepage via [shimst3r.xyz/go-humble](https://shimst3r.xyz/go-humble/). It is [a Go script](cmd/gohumble.go) that parses data from [HumbleBundle](https://www.humblebundle.com) for each bundle (books, games, and software) and generates a RSS feed per bundle.
-
-To keep the feed up to date, I am using [a schedule GitHub Action](.github/workflows/update_rss.yml) that updates each feed once per day.
+Hello, this is my first repo in Github and I am very new. I created this, because I want to use a Discord Bot that will use .rss to post the newest Humble Bundles to my Discord. The original code ist from "https://github.com/shimst3r/go-humble" sadly his site is not working anymore. Thats why I created my own to use the .rss site.
 
 ## Disclaimer
 
