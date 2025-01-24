@@ -1,4 +1,4 @@
-module github.com/shimst3r/go-humble
+module github.com/Feuerlord2/Humble-RSS-Site
 
 go 1.20
 
