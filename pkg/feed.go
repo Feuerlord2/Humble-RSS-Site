@@ -28,9 +28,9 @@ func Run() {
 func createFeed(products []Product, category string) (feeds.Feed, error) {
 	feed := feeds.Feed{
 		Title:       fmt.Sprintf("Go Humble! RSS %s", strings.ToTitle(category)),
-		Link:        &feeds.Link{Href: "https://go-humble.github.io"},
+		Link:        &feeds.Link{Href: "https://feuerlord2.github.io/Humble-RSS-Site/"},
 		Description: fmt.Sprintf("Awesome RSS Feeds about HumbleBundle %s bundles!", category),
-		Author:      &feeds.Author{Name: "Nils Müller", Email: "shimst3r+rss@gmail.com"},
+		Author:      &feeds.Author{Name: "Daniel Winter", Email: "DanielWinterEmsdetten+rss@gmail.com"},
 		Created:     time.Now(),
 	}
 	feed.Items = make([]*feeds.Item, len(products))
