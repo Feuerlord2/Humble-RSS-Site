@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 27 Jan 2025 18:24:57 +0000</pubDate>
+    <pubDate>Mon, 27 Jan 2025 19:53:47 +0000</pubDate>
+    <item>
+      <title>The Complete Godot 2025 Course Bundle</title>
+      <link>https://humblebundle.com/software/complete-godot-2025-course-bundle-software</link>
+      <description>Go get the ultimate Godot bundle </description>
+      <content:encoded><![CDATA[Learning everything there is to know about Godot is simple with this comprehensive bundle. Perfect for beginners and experienced developers alike, it covers foundational concepts, programming patterns, shaders, and mechanics like crafting shops and state machines. Create diverse games, such as roguelikes, Metroidvanias, and tower defense games, using the latest Godot 4 features. Build engaging experiences with multiplayer functionality, procedural generation, and fully-fledged game systems, including civilization-style mechanics. Explore mobile game development, narrative-driven walking simulators, and visually striking projects with custom plugins and advanced optimization techniques. Start your game development journey today while supporting educational charities!]]></content:encoded>
+      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Elites: Creator&#39;s Superbundle 4000+ Assets</title>
       <link>https://humblebundle.com/software/elites-creators-superbundle-4000-assets-software</link>
@@ -53,13 +60,6 @@
       <description>Learn to code games like a pro</description>
       <content:encoded><![CDATA[Achieve your New Year's resolution and learn to code! This comprehensive curriculum will help you level up your skills with courses like Unreal Engine 5.5 Game Developer's Toolbox - Essential Templates and Assets, Godot 4 Game Creator's Pack - Essential Templates for Instant Game Development, and many more. Our collection of 40+ courses includes Humble Bundle-exclusive content available only to our community. Familiarize yourself with popular tools like Python and Unreal Engine, all while supporting Direct Relief with your purchase!  ]]></content:encoded>
       <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vegas Pro 2024</title>
-      <link>https://humblebundle.com/software/vegas-pro-2024-software</link>
-      <description>Our best-selling Vegas Pro bundle is back!</description>
-      <content:encoded><![CDATA[Content creators, influencers, and other video savvy friends—we’ve curated the ultimate bundle for you. Get the Vegas Pro Bundle by MAGIX and take your video editing to the next level. You’ll get the renowned and easy to learn video editing package <em>VEGAS Pro Edit 21</em>, packed with sophisticated compositing features as well as integrated audio and effects. Also included is <em>SOUND FORGE Pro 17</em>, a powerhouse audio editing suite with extensive plugin support, designed to deliver flawless masters. Start using these, and other easy to learn video editing software today. Pay what you want for this astounding bundle and help Make A Wish with your purchase!]]></content:encoded>
-      <pubDate>Thu, 19 Dec 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
