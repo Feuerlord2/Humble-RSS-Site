@@ -9,8 +9,6 @@ on:
     - cron: "0 */6 * * *"
     - cron: "0 20 * * *"
 
-    
-
 jobs:
   update_rss_feeds:
     runs-on: ubuntu-latest
