@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 06 Feb 2025 18:25:25 +0000</pubDate>
+    <pubDate>Thu, 06 Feb 2025 20:21:33 +0000</pubDate>
+    <item>
+      <title>MORE Tabletop RPG Resources by Dicegeeks</title>
+      <link>https://humblebundle.com/books/more-tabletop-rpg-resources-dicegeeks-books</link>
+      <description>D&amp;D resources suited for any style</description>
+      <content:encoded><![CDATA[Gather up your party for endless adventure with this bundle of tabletop role-playing books from Dicegeeks. This TTRPG explorer’s kit contains an amazing variety of rulebooks, sourcebooks, and campaign resources that enhance your favorite <em>Dungeons & Dragons</em> games—we’ve included standouts like <em>The Book of Random Tables: Festivals and Fairs</em> and <em>The Book of Random Tables: Superheroes</em>. Get everything you need to embark on an epic journey together, and help support Children's Miracle Network with your purchase!]]></content:encoded>
+      <pubDate>Thu, 06 Feb 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Game Programming by Pearson</title>
       <link>https://humblebundle.com/books/game-programming-pearson-books</link>
@@ -55,13 +62,6 @@
       <pubDate>Mon, 20 Jan 2025 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sports Trailblazers: Legends Who Changed the Game</title>
-      <link>https://humblebundle.com/books/sports-trailblazers-legends-who-changed-game-books</link>
-      <description>You won’t believe these sports stories</description>
-      <content:encoded><![CDATA[Get a collection of amazing sports tales with our latest book bundle in partnership with Sports Publishing. Read the untold stories of sports greatest giants at highest, lowest, and most shocking. Gripping titles like <em>Banned: How I Squandered An All-Star NBA Career Before Finding My Redemption</em>, <em>Champions Of The Octagon: One-On-One With MMA And UFC Greats</em>, and <em>Tomlin: The Soul Of A Football Coach</em>. Help support the BINC Foundation and get great books too!]]></content:encoded>
-      <pubDate>Thu, 16 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>5th Edition Adventures, Crafting, Monsters and VTT Assets</title>
       <link>https://humblebundle.com/books/5th-edition-adventures-crafting-monsters-and-vtt-assets-books</link>
       <description>Elevate your next D&amp;D adventure </description>
@@ -74,13 +74,6 @@
       <description>Machine learning solutions for the future</description>
       <content:encoded><![CDATA[Master machine learning with this comprehensive bundle of in-depth lessons from Packt. Inside this expertly curated library of 21 books, you'll uncover industry-leading insights from our newest resources like LLM Engineer's Handbook, Python Machine Learning By Example, The Machine Learning Solutions Architect Handbook, and many more! Whether you're starting your journey or advancing your expertise, this bundle offers everything you need to excel in areas like natural language processing, neural networks, and real-world ML applications. Transform your understanding of machine learning and help support Direct Relief, providing life-saving medical aid across the globe, with your purchase!]]></content:encoded>
       <pubDate>Mon, 06 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piano and More for Dummies by Wiley</title>
-      <link>https://humblebundle.com/books/piano-and-more-for-dummies-wiley-books</link>
-      <description>Piano playing made easy</description>
-      <content:encoded><![CDATA[Hit all the right keys with our latest music bundle from Wiley! Get ebooks to teach you piano and other general musical skills like <em>Piano & Keyboard All-in-One For Dummies</em>, <em>Music Composition For Dummies</em>, <em>Songwriting For Dummies</em>, and <em>Piano Exercises For Dummies</em>. The experts behind the <em>For Dummies</em> series have been helping with reading and learning a variety of skills for more than 30 years, and their lessons will have you creating original music with ease. Plus, your purchase directly helps support Music Will— a nonprofit supporting future generations of musicians.]]></content:encoded>
-      <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
