@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 10 Feb 2025 18:25:52 +0000</pubDate>
+    <pubDate>Mon, 10 Feb 2025 20:21:53 +0000</pubDate>
+    <item>
+      <title>Excel to Impact by Mr. Excel</title>
+      <link>https://humblebundle.com/books/excel-to-impact-mr-excel-books</link>
+      <description>Excel to impact by Mr. Excel </description>
+      <content:encoded><![CDATA[Learn the skills and knowledge you need to be the best Excel user in your office, home, and anywhere in between. Our latest bundle from Mr. Excel will teach you the shortcuts, techniques, insider tips to elevate your Excel expertise. Inside this comprehensive library, you’ll gain expert insights from books like <em>MrExcel 2024</em>, <em>Power BI for the Excel Analyst</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Alzheimer’s Research UK with your purchase!]]></content:encoded>
+      <pubDate>Mon, 10 Feb 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sex, Love, and Everything In Between</title>
       <link>https://humblebundle.com/books/sex-love-and-everything-in-between-books</link>
@@ -74,20 +81,6 @@
       <description>Your next career is only a bundle away</description>
       <content:encoded><![CDATA[Unlock your potential and learn the skills and knowledge you need to succeed in a variety of desirable industries. Our Masters at Work Career Guide Bundle by Simon & Schuster contains 25+ ebooks that can help transform your professional pursuits with outstanding books including <em>Becoming a Video Game Designer</em>, <em>Becoming an Ethical Hacker</em>, <em>Becoming a Crime Scene Investigator</em>, and more! Begin your new career journey today and help support Worldreader with your purchase.]]></content:encoded>
       <pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mastering Every Database by Packt</title>
-      <link>https://humblebundle.com/books/mastering-every-database-packt-books</link>
-      <description>Become a database mastermind</description>
-      <content:encoded><![CDATA[Learn the skills and knowledge you need to master every database with this curated collection by the professionals at Packt. Inside this 15+ course library, you’ll get pro quality lessons like <em>Mastering PostgreSQL 17</em>, <em>Amazon DynamoDB - The Definitive Guide</em>, <em>Database Design and Modeling with Google Cloud</em>, and more! Deepen your understanding whether you’re a novice or a seasoned professional, and help support the International Medical Corps with your purchase!]]></content:encoded>
-      <pubDate>Mon, 20 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine Learning Engineer Masterclass by Packt</title>
-      <link>https://humblebundle.com/books/machine-learning-engineer-masterclass-packt-books</link>
-      <description>Machine learning solutions for the future</description>
-      <content:encoded><![CDATA[Master machine learning with this comprehensive bundle of in-depth lessons from Packt. Inside this expertly curated library of 21 books, you'll uncover industry-leading insights from our newest resources like LLM Engineer's Handbook, Python Machine Learning By Example, The Machine Learning Solutions Architect Handbook, and many more! Whether you're starting your journey or advancing your expertise, this bundle offers everything you need to excel in areas like natural language processing, neural networks, and real-world ML applications. Transform your understanding of machine learning and help support Direct Relief, providing life-saving medical aid across the globe, with your purchase!]]></content:encoded>
-      <pubDate>Mon, 06 Jan 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
