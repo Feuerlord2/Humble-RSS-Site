@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 13 Feb 2025 18:26:08 +0000</pubDate>
+    <pubDate>Thu, 13 Feb 2025 20:22:23 +0000</pubDate>
+    <item>
+      <title>Pathfinder Kingmaker Bundle from Paizo Inc.</title>
+      <link>https://humblebundle.com/books/pathfinder-kingmaker-bundle-from-paizo-inc-books</link>
+      <description>Elevate your Pathfinder campaigns </description>
+      <content:encoded><![CDATA[Gather your party of trusty friends for countless adventures with our latest <em>Pathfinder</em> bundle from Paizo Inc. Enhance your existing <em>Pathfinder</em> collection with new rulebooks, sourcebooks, and campaign resources. Highlights from the Pathfinder Kingmaker Bundle include <em>Pathfinder: Kingmaker Enhanced Plus Edition</em> and <em>Pathfinder Kingmaker Companion Guide</em>. Get everything you need to embark on an epic high fantasy journey together, and help support World Central Kitchen with your purchase!]]></content:encoded>
+      <pubDate>Thu, 13 Feb 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comics and Graphic Novel Audio Adaptations by GraphicAudio</title>
       <link>https://humblebundle.com/books/comics-and-graphic-novel-audio-adaptations-graphicaudio-books</link>
@@ -88,13 +95,6 @@
       <description>Discover your new favorite comic series</description>
       <content:encoded><![CDATA[Addicting page-turning comics are only a click away with our latest bundle. Within our Witchblade and Darkness Bundle, you’ll find amazing graphic novel-style storytelling catering to an adult audience. Experience rich stories of pain, power, and triumph in 100 issues of the original <em>Witchblade</em>, <em>Witchblade 2024 #1-#6</em>, <em>Artifacts #0</em>, <em>Darkness #1-#20</em>, and more! Top Cow Comics offers some of the best indie comics—take a leap and try them today. Your purchase helps support the Hero Initiative too!]]></content:encoded>
       <pubDate>Sat, 25 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Masters at Work Career Guides by Simon &amp; Schuster</title>
-      <link>https://humblebundle.com/books/masters-at-work-career-guides-simon-schuster-books</link>
-      <description>Your next career is only a bundle away</description>
-      <content:encoded><![CDATA[Unlock your potential and learn the skills and knowledge you need to succeed in a variety of desirable industries. Our Masters at Work Career Guide Bundle by Simon & Schuster contains 25+ ebooks that can help transform your professional pursuits with outstanding books including <em>Becoming a Video Game Designer</em>, <em>Becoming an Ethical Hacker</em>, <em>Becoming a Crime Scene Investigator</em>, and more! Begin your new career journey today and help support Worldreader with your purchase.]]></content:encoded>
-      <pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
