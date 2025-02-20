@@ -6,8 +6,9 @@ on:
     branches:
     - main
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */8 * * *"
     - cron: "0 20 * * *"
+    - cron: "0 22 * * *"
 
 jobs:
   update_rss_feeds:
