@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 24 Feb 2025 16:26:46 +0000</pubDate>
+    <pubDate>Mon, 24 Feb 2025 20:23:32 +0000</pubDate>
+    <item>
+      <title>GODOT4 Mega Polygon Assets Bundle</title>
+      <link>https://humblebundle.com/software/godot4-mega-polygon-assets-bundle-software</link>
+      <description>GODOT4? Yeah, we got that!</description>
+      <content:encoded><![CDATA[Curious about game creation? New and established game developers—build unique and beautiful worlds with our GODOT 4 Mega Polygon Assets Bundle from Animpic Studio. Add style and flare to your next project with original polygon vehicles, tools, villages, characters, and more. Break from the traditional hyper-realistic looks of modern gaming–unleash your inner creativity, and help support Save the Children with your purchase!]]></content:encoded>
+      <pubDate>Mon, 24 Feb 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FALLOUT: The Roleplaying Game Complete Collection for Alchemy VTT</title>
       <link>https://humblebundle.com/software/fallout-roleplaying-game-complete-collection-for-alchemy-vtt-software</link>
@@ -46,13 +53,6 @@
       <description>Supersize your soundscape today</description>
       <content:encoded><![CDATA[How your audience interacts with the sound design of your work is extremely important—add the best sounds possible to your vision with our latest bundle! Create the perfect audioscape for your game, film, or creative project with this mega bundle of 3000+ sounds from Ovani Sound! This massive library features <em>Dark Fantasy Music Pack Vol. 2</em>, <em>Electricity Sound FX Pack</em>, and more! Get the assets you need to achieve the sound you’re looking for, and help support the Children's Miracle Network with your purchase!]]></content:encoded>
       <pubDate>Mon, 03 Feb 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Godot 2025 Course Bundle</title>
-      <link>https://humblebundle.com/software/complete-godot-2025-course-bundle-software</link>
-      <description>Go get the ultimate Godot bundle </description>
-      <content:encoded><![CDATA[Learning everything there is to know about Godot is simple with this comprehensive bundle. Perfect for beginners and experienced developers alike, it covers foundational concepts, programming patterns, shaders, and mechanics like crafting shops and state machines. Create diverse games, such as roguelikes, Metroidvanias, and tower defense games, using the latest Godot 4 features. Build engaging experiences with multiplayer functionality, procedural generation, and fully-fledged game systems, including civilization-style mechanics. Explore mobile game development, narrative-driven walking simulators, and visually striking projects with custom plugins and advanced optimization techniques. Start your game development journey today while supporting educational charities!]]></content:encoded>
-      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
