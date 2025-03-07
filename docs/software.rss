@@ -4,7 +4,7 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Fri, 07 Mar 2025 16:25:29 +0000</pubDate>
+    <pubDate>Fri, 07 Mar 2025 20:23:06 +0000</pubDate>
     <item>
       <title>The Best of Synty Game Dev Assets</title>
       <link>https://humblebundle.com/software/best-synty-game-dev-assets-software</link>
@@ -60,13 +60,6 @@
       <description>Game development in a new dimension</description>
       <content:encoded><![CDATA[Opportunities like this don’t come often! Learn how to create your own VR games with this bundle of courses from Mammoth Interactive! This comprehensive curriculum will help you level up your skills in VR game development, with Humble Bundle exclusives like <em>Godot 4 VR Development with WebXR</em> and <em>VR Unreal 5.5 Game Development Bootcamp</em>. This 30+ course bundle will give you the expert advice and knowledge you seek. Create in a new dimension and help support Children's Miracle Network with your purchase!]]></content:encoded>
       <pubDate>Mon, 10 Feb 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Godot 2025 Course Bundle</title>
-      <link>https://humblebundle.com/software/complete-godot-2025-course-bundle-software</link>
-      <description>Go get the ultimate Godot bundle </description>
-      <content:encoded><![CDATA[Learning everything there is to know about Godot is simple with this comprehensive bundle. Perfect for beginners and experienced developers alike, it covers foundational concepts, programming patterns, shaders, and mechanics like crafting shops and state machines. Create diverse games, such as roguelikes, Metroidvanias, and tower defense games, using the latest Godot 4 features. Build engaging experiences with multiplayer functionality, procedural generation, and fully-fledged game systems, including civilization-style mechanics. Explore mobile game development, narrative-driven walking simulators, and visually striking projects with custom plugins and advanced optimization techniques. Start your game development journey today while supporting educational charities!]]></content:encoded>
-      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
