@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 17 Mar 2025 16:27:36 +0000</pubDate>
+    <pubDate>Mon, 17 Mar 2025 20:24:14 +0000</pubDate>
+    <item>
+      <title>Self-Reliance and Off-Grid Skills for Dummies</title>
+      <link>https://humblebundle.com/books/selfreliance-and-offgrid-skills-for-dummies-books</link>
+      <description>Thriving in nature &amp; beyond—For Dummies</description>
+      <content:encoded><![CDATA[Don’t just survive in the modern outdoors—thrive. Our newest <em>For Dummies</em> bundle features some of the hottest and most useful ebooks for individuals looking to have fun in the wild or start a craft career. Get amazing titles like <em>Home Maintenance For Dummies</em>, <em>Van Life For Dummies</em>, <em>How to Fix Everything For Dummies</em>, and <em>Bread Making For Dummies</em>. Plus, your purchase helps support Covenant House.</p>]]></content:encoded>
+      <pubDate>Mon, 17 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The World of Dragonlance by Wizards of the Coast</title>
       <link>https://humblebundle.com/books/world-dragonlance-wizards-coast-books</link>
@@ -60,20 +67,6 @@
       <description>The Marvel universe from A-Z</description>
       <content:encoded><![CDATA[With great power comes great responsibility, and with great comics comes great lore. Go beyond the movies, TV, and comics and dive into The Ultimate Marvel Guidebook Collection. This 20 book collection is perfectly curated for new Marvel fans and longtime brand loyalists. Read amazing books like <em>Marvel Year By Year A Visual History New Edition</em>, <em>Marvel Myths and Legends</em>, and <em>Ultimate Marvel</em>—and help support First Book with your purchase!]]></content:encoded>
       <pubDate>Thu, 27 Feb 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Engineering and Management by Pragmatic</title>
-      <link>https://humblebundle.com/books/data-engineering-and-management-pragmatic-books</link>
-      <description>Step up your data engineering game</description>
-      <content:encoded><![CDATA[Become a pro or lead the pros in data engineering and management with our latest bundle from Pragmatic. Learn the skills and knowledge you need to succeed inside this 15+ course library. You’ll get expert insights from programs like <em>Machine Learning in Elixir</em>, <em>Practical A/B Testing</em>, <em>Designing Data Governance from the Ground Up</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Save the Children with your purchase!]]></content:encoded>
-      <pubDate>Mon, 24 Feb 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Full Stack Development with Apress</title>
-      <link>https://humblebundle.com/books/full-stack-development-with-apress-books</link>
-      <description>Comprehensive full stack development tools</description>
-      <content:encoded><![CDATA[Our latest bundle offers everything you need for comprehensive web development—from front-end to back-end. Learn the skills and knowledge you need to succeed in web application creation with this bundle of elite courses from Apress. Inside this 20+ program library, you’ll get expert insights from <em>Master Vue.js in just 6 Days</em>, <em>Angular For Business</em>, <em>Mastering MYSQL Administration</em>, and much more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Girls Who Code with your purchase!]]></content:encoded>
-      <pubDate>Mon, 17 Feb 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
