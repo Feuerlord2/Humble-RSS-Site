@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 24 Mar 2025 16:27:55 +0000</pubDate>
+    <pubDate>Mon, 24 Mar 2025 20:21:55 +0000</pubDate>
+    <item>
+      <title>Head First Programming and Patterns by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/head-first-programming-and-patterns-oreilly-books</link>
+      <description>Try the Head First approach to programming</description>
+      <content:encoded><![CDATA[Dive in Head First—learn the skills and knowledge you need to succeed in modern programming and patterns with this bundle of courses from O’Reilly. Inside this in-depth library, you’ll get expert insights from courses like <em>Head First JavaScript Programming</em>, <em>Head First C#</em>, <em>Head First Software Architecture</em>, and more. Develop the skills you need to test the waters of this fruitful career field today. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
+      <pubDate>Mon, 24 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Heroic Hoard of 5E Power by Kobold Press</title>
       <link>https://humblebundle.com/books/heroic-hoard-5e-power-kobold-press-books</link>
@@ -60,13 +67,6 @@
       <description>D&amp;D, DCC, and an amazing mega bundle</description>
       <content:encoded><![CDATA[Mages and Elves rejoice! Gather up your party for endless adventure with this mega bundle of tabletop role-playing games by Goodman Games! This TTRPG explorer’s kit contains rulebooks, sourcebooks, and campaign resources for <em>Dungeons & Dragons</em> and <em>Dungeon Crawl Classics</em>. Play hot campaigns like <em>Dungeon Crawl Classics - Dark Tower</em>, <em>Dungeon Crawl Classics #83: The Chained Coffin</em> and help support World Central Kitchen with your purchase. Embark on new quests with your friends and make your ordinary night extraordinary.]]></content:encoded>
       <pubDate>Thu, 06 Mar 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Computer Science the Fun Way by No Starch</title>
-      <link>https://humblebundle.com/books/computer-science-fun-way-no-starch-books</link>
-      <description>Master computer science the fun way</description>
-      <content:encoded><![CDATA[Learn the skills and knowledge you need to succeed when you take on computer science the fun way. Our latest bundle by No Starch features 15+ books with expert insights on the foundational and advanced skills you need to start a new career in computer science. Standout books like <em>Graph Algorithms the Fun Way</em> and <em>Data Structures the Fun Way</em> will help deepen your understanding whether you’re a novice or seasoned professional. Plus, your purchase helps support the Electronic Frontier Foundation.]]></content:encoded>
-      <pubDate>Mon, 03 Mar 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
