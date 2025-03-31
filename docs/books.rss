@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 31 Mar 2025 16:27:08 +0000</pubDate>
+    <pubDate>Mon, 31 Mar 2025 20:25:05 +0000</pubDate>
+    <item>
+      <title>Embedded Intelligence by Packt</title>
+      <link>https://humblebundle.com/books/embedded-intelligence-packt-books</link>
+      <description>Reflect on technological brilliance</description>
+      <content:encoded><![CDATA[Expand your automation toolkit with the exciting field of Embedded Intelligence through this bundle of ebooks from Packt. This package features twenty guides and manuals including <em>The FPGA Programming Handbook</em>, <em>Embedded Systems Architecture</em>, <em>Artificial Intelligence for Robotics</em>, plus more. These are the perfect materials regardless of whether you're a software developer looking to learn about embedded programming, or a less experienced programmer on a quest to expand your knowledge on embedded systems. Each purchase also supports Room to Read, who endeavor to create a world free from illiteracy and gender inequality!]]></content:encoded>
+      <pubDate>Mon, 31 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The BattleTech RPG Collection by Catalyst Game Labs</title>
       <link>https://humblebundle.com/books/battletech-rpg-collection-catalyst-game-labs-books</link>
@@ -60,13 +67,6 @@
       <description>Forge your own legends</description>
       <content:encoded><![CDATA[A world of adventure & danger awaits, and the only thing missing is your heroism. Gather your party of trusty friends for countless adventures with our latest <em>Pathfinder</em> bundle from Frog God Games. Mix up your fun with hot <em>Pathfinder</em> TTRPG campaigns like <em>Adventures in Tehuatl</em>, <em>The Northlands Saga Complete</em>, <em>The Grey Citadel</em>, and more. Get everything you need to embark on an epic high fantasy journey together, and help support Children’s Miracle Network Hospitals with your purchase!]]></content:encoded>
       <pubDate>Thu, 13 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python: From Beginner to Advanced by Packt</title>
-      <link>https://humblebundle.com/books/python-from-beginner-to-advanced-packt-books</link>
-      <description>Perfect your skills in Python</description>
-      <content:encoded><![CDATA[Level up your coding skills with the Python: From Beginner to Advanced Bundle by Packt. Learn to code using one of the most popular and widely used formats within the industry and gain amazing insights from courses like <em>Learn Python Programming</em>, <em>Building AI Intensive Python Applications</em>, <em>Modern Time Series Forecasting with Python</em>, and more. This library of 20+ programming guides are perfect for novice coders and seasoned pros in growing your career. Plus, your purchase helps support the Python Software Foundation.]]></content:encoded>
-      <pubDate>Mon, 10 Mar 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Iron Kingdoms Collection by Steamforged</title>
