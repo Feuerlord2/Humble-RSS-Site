@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 03 Apr 2025 16:26:36 +0000</pubDate>
+    <pubDate>Thu, 03 Apr 2025 20:24:33 +0000</pubDate>
+    <item>
+      <title>Map Making MEGA Bundle</title>
+      <link>https://humblebundle.com/software/map-making-mega-bundle-software</link>
+      <description>The complete cartographic collection</description>
+      <content:encoded><![CDATA[Passionate about building maps to great game worlds? Say hello to the Map Making MEGA Bundle. Whether it's starships and solar systems, entire worlds, historical maps or fantasy floorplans, this treasure trove of assets and apps has what you need for your cartography. It includes practically everything ever released by map-making experts ProFantasy Software, including the latest CC3+, seventeen Cartographer's Annual, every symbol set, dungeon, city and overland app they've ever released. Map your world and help Save the Children at the same time!]]></content:encoded>
+      <pubDate>Thu, 03 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Adventurers and Adversaries STL Miniatures Bundle</title>
       <link>https://humblebundle.com/software/adventurers-and-adversaries-stl-miniatures-bundle-software</link>
@@ -48,13 +55,6 @@
       <pubDate>Mon, 17 Mar 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Skills Hub: Get that Promotion</title>
-      <link>https://humblebundle.com/software/skills-hub-get-that-promotion-software</link>
-      <description>Big promotions only a bundle away</description>
-      <content:encoded><![CDATA[The Growth Mindset should be at the forefront of every career-minded individual. With hot courses like <em>Winning at Sales</em> and <em>Managing Conflict</em>—the Humble Skills Hub: Get That Promotion Bundle is a one-stop-shop for go-getters. This 20+ course bundle will give you the knowledge you seek to take your career in sales, marketing, and more to the next level. Take your passion for productivity and growth to a new frontier and help support Alzheimer's Research UK with your purchase. ]]></content:encoded>
-      <pubDate>Thu, 13 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Become a 3D Artist - Mega Tutorial Bundle</title>
       <link>https://humblebundle.com/software/become-3d-artist-mega-tutorial-bundle-software</link>
       <description>Creativity unlocked with a digital paintbrush</description>
@@ -67,13 +67,6 @@
       <description>The magic of RPG Maker unleashed</description>
       <content:encoded><![CDATA[Love RPGs? Start making your own with the all new RPG Maker Beyond Expectations Bundle by Gotcha Gotcha Games. Unlock your creativity through the powerful medium of video games—you’ll be surprised how user-friendly <em>RPG Maker</em> is too. Within this amazing bundle, you’ll gain access to premium engine tools like <em>RPG Maker Unite</em>, <em>Pixel Game Maker MV</em>, <em>RPG MAKER VX Ace</em>, and more! Feel the freedom of expressing your personal style through game development—show off your love for anime, high-fantasy, steam-punk, and more. Make your own games and help support Extra Life with your purchase! <br><br>Check out the RPG Maker 2025 Game Jam <a href="https://itch.io/jam/rpg-maker-2025-game-jam">here</a>!</p>]]></content:encoded>
       <pubDate>Tue, 11 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Best of Synty Game Dev Assets</title>
-      <link>https://humblebundle.com/software/best-synty-game-dev-assets-software</link>
-      <description>Turbo charge your game dev skills</description>
-      <content:encoded><![CDATA[Game developers, build amazing worlds with this bundle of Synty polygon assets and more! Bring your projects to life quicker and make your dream game a reality while supporting a great cause. Synty assets are fully customizable and easy to use, making them accessible for game developers of all levels. *Compatible with Unity and Unreal game engines—this high-quality collection features environments, characters, meshes, models, animations, and more for use. These Synty game dev assets are sure to inspire beginners and seasoned developers alike!]]></content:encoded>
-      <pubDate>Thu, 06 Mar 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
