@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 05 Apr 2025 16:24:41 +0000</pubDate>
+    <pubDate>Sat, 05 Apr 2025 20:21:51 +0000</pubDate>
+    <item>
+      <title>The Essential Writing Guides by Adams Media</title>
+      <link>https://humblebundle.com/books/essential-writing-guides-adams-media-books</link>
+      <description>Win with elite writing guides</description>
+      <content:encoded><![CDATA[A gripping script and great gameplay are the winning ingredients to a memorable project—master the written portion with the Essential Writing Guide Bundle by Adams Media. Tackle proper grammar, plot formatting, and other cornerstone skills that define the art of writing and content. Learn from the best with professional quality courses like <em>Only Grammar Book You'll Ever Need</em>, <em>Big Book Of Words You Should Know To Sound Smart</em>, and more. Master the art of the pen and help support Worldreader with your purchase!]]></content:encoded>
+      <pubDate>Sat, 05 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gardening Mastery by Quarto</title>
       <link>https://humblebundle.com/books/gardening-mastery-quarto-books</link>
@@ -67,13 +74,6 @@
       <description>Feel the strength of Dragonlance </description>
       <content:encoded><![CDATA[Embark on an epic adventure through the land of Krynn with the ultimate <em>Dragonlance</em> Collection from Wizards of the Coast.   Follow the perilous journey to protect the mystical Blue Crystal Staff from an evil dragon goddess in <em>Dragons of Autumn Twilight</em>. Untangle dwarven political tensions, hidden dangers, and long-lost secrets with The Companions in <em>Dragons of the Dwarven Depths</em>. The battle of the gods comes to a dramatic climax in <em>Amber and Ashes</em>. Get 25+ amazing page-turners and help support Room to Read with your purchase!]]></content:encoded>
       <pubDate>Sat, 15 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iron Kingdoms Collection by Steamforged</title>
-      <link>https://humblebundle.com/books/iron-kingdoms-collection-steamforged-books</link>
-      <description>Journey to the fabled Iron Kingdoms</description>
-      <content:encoded><![CDATA[Gather your friends for countless hours of adventure with the Iron Kingdoms Collection by Steamforged Games. Our TTRPG explorer’s kit contains rulebooks, sourcebooks, and campaign resources for the Iron Kingdoms Roleplaying Game and Iron Kingdoms 5e. Explore rich lands powered by steam and magic, encounter beasts and constructs, and engage in epic battles in a full metal fantasy universe. Get everything you need to embark on an epic journey together, and help support Child’s Play Charity with your purchase!]]></content:encoded>
-      <pubDate>Sat, 08 Mar 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
