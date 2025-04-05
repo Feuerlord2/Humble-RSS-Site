@@ -4,7 +4,7 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle games bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Fri, 04 Apr 2025 22:07:48 +0000</pubDate>
+    <pubDate>Sat, 05 Apr 2025 01:41:17 +0000</pubDate>
     <item>
       <title>Armor Games Bundle</title>
       <link>https://humblebundle.com/games/armor-games-bundle</link>
@@ -41,6 +41,13 @@
       <pubDate>Wed, 26 Mar 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Tactical Triumph</title>
+      <link>https://humblebundle.com/games/tactical-triumph</link>
+      <description>Let’s get tactical </description>
+      <content:encoded><![CDATA[Challenge and strategy—what more could you want in a game? Dive into the Tactical Triumph Bundle and see if you have what it takes to conquer these great titles. Embark on an epic journey across the land of Caelum one tile at a time in <em>The Iron Oath</em>. Master magic with the perfect mix of tactical team-based combat and deck building in <em>Abalon</em>. Tame monsters and explore dungeons with precision in <em>Siralim Ultimate</em>. Try new and tactical titles plus help support buildOn with your purchase!]]></content:encoded>
+      <pubDate>Wed, 26 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Leisure Suit Larry Complete Collection Bundle 2025</title>
       <link>https://humblebundle.com/games/leisure-suit-larry-complete-collection-bundle-2025</link>
       <description>Three decades of Larry adventures</description>
@@ -60,13 +67,6 @@
       <description>Celebrate kick-ass female protagonists </description>
       <content:encoded><![CDATA[Celebrate Women's History Month with Humble Heroines: Rebels, Curses, and Mystery. Take charge as powerful protagonists including Seelah from <em>Pathfinder: Wrath of the Righteous - Enhanced Edition</em>, Jesse Faden from <em>Control: Ultimate Edition</em>, and Fury from <em>Darksiders 3</em>!]]></content:encoded>
       <pubDate>Wed, 19 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fulqrum Publishing Spring Break</title>
-      <link>https://humblebundle.com/games/fulqrum-publishing-spring-break</link>
-      <description>Freaky fun times with Fulqrum Publishing</description>
-      <content:encoded><![CDATA[Explore the games of epic international devs, Fulqrum Publishing with our newest bundle of great titles. This collection brings the heat—survive a moody Lovecraftian FPS world in <em>Forgive Me Father</em>. Get tactical with a fantasy setting and engaging RPG mechanics in <em>Fell Seal: Arbiter's Mark</em>. Embrace the darkness with the retro inspired RPG <em>Stygian: Reign of the Old Ones</em>. Play great games and help support nPower and The Global Foodbanking Network with your purchase!]]></content:encoded>
-      <pubDate>Fri, 14 Mar 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
