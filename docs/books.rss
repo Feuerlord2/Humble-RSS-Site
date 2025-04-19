@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 19 Apr 2025 16:25:49 +0000</pubDate>
+    <pubDate>Sat, 19 Apr 2025 20:22:19 +0000</pubDate>
+    <item>
+      <title>The Ultimate Cosplay Library</title>
+      <link>https://humblebundle.com/books/ultimate-cosplay-library-books</link>
+      <description>Start crafting your own cosplays</description>
+      <content:encoded><![CDATA[The cosplay community is enormous and passionate, but the barrier to entry can feel overwhelming to newcomers. Remove the stress of buying an expensive, poorly fitting costume and create your own looks with The Ultimate Cosplay Library Bundle! Learn to design awesome cosplays with foam, textiles, and more from 30+ ebooks like <em>Perfect Plan of a Cosplayer</em>, <em>Creative Cosplay</em>, and <em>Cosplay Foundations</em>. Make your cosplay dreams a reality and help support the charity of your choice with your purchase!]]></content:encoded>
+      <pubDate>Sat, 19 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Connecting with Nature by Chronicle Books</title>
       <link>https://humblebundle.com/books/connecting-with-nature-chronicle-books-books</link>
@@ -88,13 +95,6 @@
       <description>Try the Head First approach to programming</description>
       <content:encoded><![CDATA[Dive in Head First—learn the skills and knowledge you need to succeed in modern programming and patterns with this bundle of courses from O’Reilly. Inside this in-depth library, you’ll get expert insights from courses like <em>Head First JavaScript Programming</em>, <em>Head First C#</em>, <em>Head First Software Architecture</em>, and more. Develop the skills you need to test the waters of this fruitful career field today. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
       <pubDate>Mon, 24 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The World of Dragonlance by Wizards of the Coast</title>
-      <link>https://humblebundle.com/books/world-dragonlance-wizards-coast-books</link>
-      <description>Feel the strength of Dragonlance </description>
-      <content:encoded><![CDATA[Embark on an epic adventure through the land of Krynn with the ultimate <em>Dragonlance</em> Collection from Wizards of the Coast.   Follow the perilous journey to protect the mystical Blue Crystal Staff from an evil dragon goddess in <em>Dragons of Autumn Twilight</em>. Untangle dwarven political tensions, hidden dangers, and long-lost secrets with The Companions in <em>Dragons of the Dwarven Depths</em>. The battle of the gods comes to a dramatic climax in <em>Amber and Ashes</em>. Get 25+ amazing page-turners and help support Room to Read with your purchase!]]></content:encoded>
-      <pubDate>Sat, 15 Mar 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
