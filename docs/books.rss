@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 21 Apr 2025 16:26:29 +0000</pubDate>
+    <pubDate>Mon, 21 Apr 2025 20:24:41 +0000</pubDate>
+    <item>
+      <title>DevOps 2025 by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/devops-2025-oreilly-books</link>
+      <description>Complex infrastructures made easy</description>
+      <content:encoded><![CDATA[Need to change your career prospects? Then acquire new skills—we’ve partnered with the pros at O’Reilly for a 10+ course collection of hot tech guides! Our latest bundle is tailored for DevOps professionals and rookies alike—learn from a diverse library of hot courses like <em>Terraform Cookbook</em>, <em>Continuous Deployment</em>, <em>Policy as Code</em> and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
+      <pubDate>Mon, 21 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Ultimate Cosplay Library</title>
       <link>https://humblebundle.com/books/ultimate-cosplay-library-books</link>
@@ -69,13 +76,6 @@
       <pubDate>Thu, 03 Apr 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Embedded Intelligence by Packt</title>
-      <link>https://humblebundle.com/books/embedded-intelligence-packt-books</link>
-      <description>Reflect on technological brilliance</description>
-      <content:encoded><![CDATA[Expand your automation toolkit with the exciting field of Embedded Intelligence through this bundle of ebooks from Packt. This package features twenty guides and manuals including <em>The FPGA Programming Handbook</em>, <em>Embedded Systems Architecture</em>, <em>Artificial Intelligence for Robotics</em>, plus more. These are the perfect materials regardless of whether you're a software developer looking to learn about embedded programming, or a less experienced programmer on a quest to expand your knowledge on embedded systems. Each purchase also supports Room to Read, who endeavor to create a world free from illiteracy and gender inequality!]]></content:encoded>
-      <pubDate>Mon, 31 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The BattleTech RPG Collection by Catalyst Game Labs</title>
       <link>https://humblebundle.com/books/battletech-rpg-collection-catalyst-game-labs-books</link>
       <description>Become a legend of mechanized mayhem</description>
@@ -88,13 +88,6 @@
       <description>Modern shonen’s biggest &amp; brightest series </description>
       <content:encoded><![CDATA[<p>Say goodbye to winter and welcome the warmer weather with Spring Shonen Special Bundle by Kodansha. The shonen genre is full of action-packed stories, with amazing world building, memorable characters and exciting battles&mdash;including the series found in this bundle. Witness Yoh Asakura&rsquo;s journey challenging adversaries around the world to win the Shaman Tournament and become <em>SHAMAN KING</em>, Shinra Kusakabe and his pyro powered comrades fight demons and shadowy organizations in <em>Fire Force</em>, and follow Yato, a down-on-his-luck god struggling to find worshipers in <em>Noragami</em>. This bundle offers nearly 100 digital volumes, giving you every volume of these outstanding series to the very last one. Act now&mdash;get the Spring Shonen Special Bundle and help support The BINC Foundation.</p>]]></content:encoded>
       <pubDate>Thu, 27 Mar 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Head First Programming and Patterns by O&#39;Reilly</title>
-      <link>https://humblebundle.com/books/head-first-programming-and-patterns-oreilly-books</link>
-      <description>Try the Head First approach to programming</description>
-      <content:encoded><![CDATA[Dive in Head First—learn the skills and knowledge you need to succeed in modern programming and patterns with this bundle of courses from O’Reilly. Inside this in-depth library, you’ll get expert insights from courses like <em>Head First JavaScript Programming</em>, <em>Head First C#</em>, <em>Head First Software Architecture</em>, and more. Develop the skills you need to test the waters of this fruitful career field today. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
-      <pubDate>Mon, 24 Mar 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
