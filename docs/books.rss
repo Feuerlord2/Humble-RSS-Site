@@ -4,7 +4,21 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 05 May 2025 16:28:33 +0000</pubDate>
+    <pubDate>Mon, 05 May 2025 20:25:38 +0000</pubDate>
+    <item>
+      <title>C# and .NET Mega Bundle by Packt</title>
+      <link>https://humblebundle.com/books/c-and-net-mega-bundle-packt-books</link>
+      <description>The programmer &amp; developer dream bundle</description>
+      <content:encoded><![CDATA[We’ve teamed up with the professionals at Packt to help you fine-tune your skills in C# and .NET with a fresh Mega Bundle. Master the ins and outs of these high-level, object-oriented systems with incredibly useful courses like <em>Tools and Skills for .NET 8</em>, <em>Effective .NET Memory Management</em>, and <em>Apps and Services with .NET 8</em>. This is the perfect bundle for both novice programmers and seasoned pros looking to grow their careers—plus, a portion of your purchase helps support Save the Children.]]></content:encoded>
+      <pubDate>Mon, 05 May 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JavaScript, Scripting, and Web Development by Pragmatic</title>
+      <link>https://humblebundle.com/books/javascript-scripting-and-web-development-pragmatic-books</link>
+      <description>A pot of JavaScript courses &amp; more</description>
+      <content:encoded><![CDATA[Pour yourself a hot cup of JavaScript and open up our latest Humble Tech Book Bundle—it’s time to improve your web development and scripting skills. Unlock the latest coding techniques with this library of tech courses highlighted by <em>Clojure Brain Teasers</em>, <em>Serverless Apps on Cloudflare</em>, and <em>Test-Driven React, Second Edition</em>. Get elite resources for novice coders and seasoned pros alike, and help support Save the Children with your purchase!]]></content:encoded>
+      <pubDate>Mon, 05 May 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Essential Star Wars Insider Collection</title>
       <link>https://humblebundle.com/books/essential-star-wars-insider-collection-books</link>
@@ -62,13 +76,6 @@
       <pubDate>Thu, 17 Apr 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Networking Mastery by Packt</title>
-      <link>https://humblebundle.com/books/networking-mastery-packt-books</link>
-      <description>Connecting your present to your future</description>
-      <content:encoded><![CDATA[Become a networking mastermind and lock in the skills and knowledge you need to succeed with our latest Humble Tech Book Bundle by Packt. Inside this 20 lesson networking library, you’ll gain expert insights from hot courses like <em>Network Automation with Nautobot</em>, <em>Network Architect's Handbook</em>, <em>Designing and Implementing Microsoft Azure Networking Solutions</em>, and more! Take control of your future and start a new career in connectivity or polish your existing skills while supporting Make-A-Wish with your purchase.]]></content:encoded>
-      <pubDate>Mon, 14 Apr 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hellboy Expanded Universe 2025</title>
       <link>https://humblebundle.com/books/hellboy-expanded-universe-2025-books</link>
       <description>That&#39;s all for you!</description>
@@ -81,13 +88,6 @@
       <description>Now extended through May 22nd!</description>
       <content:encoded><![CDATA[Enter the world of The Wheel of Time, a fantasy series like no other. Our latest bundle includes every volume of the international bestselling The Wheel of Time and connected titles, a groundbreaking epic fantasy series by Robert Jordan and completed by Brandon Sanderson. The Wheel of Time turns and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. What was, what will be, and what is, may yet fall under the Shadow.<br><br>Since its debut in 1990, The Wheel of Time has captivated millions of readers around the globe with its scope, originality, and compelling characters, and is the basis for the original series on Prime Video. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read. Robert Jordan's epic saga traces an entire world's struggle to deal with war and destruction while one man prepares to face the embodiment of pure evil.<br><br>Enjoy these amazing titles and help support the American Civil Liberties Union (ACLU) with your purchase.</p>]]></content:encoded>
       <pubDate>Thu, 10 Apr 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Networking and Security Cert Prep by Pearson IT Certification &amp; Exam Cram</title>
-      <link>https://humblebundle.com/books/networking-and-security-cert-prep-pearson-it-certification-exam-cram-books</link>
-      <description>In a jam? Time to cram!</description>
-      <content:encoded><![CDATA[Don’t stress the test—to prepare for your networking and security exams with confidence all you need are the right teachers. Our latest exam cram bundle by Pearson is bursting with timely courses designed to help you ace your tests in record time. Soak in the knowledge from lessons like <em>31 Days Before your CCNA Exam</em>, <em>CISSP Cert Guide</em>, and more. Study with efficiency and help support Xperience Studios with your purchase!]]></content:encoded>
-      <pubDate>Mon, 07 Apr 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
