@@ -52,7 +52,13 @@ Visit the live website: [**Go Humble RSS**](https://feuerlord2.github.io/Humble-
 
 Simply add the feed URLs to your preferred RSS reader:
 ```
-https://Feuerlord2.github.io/go-humble-rss/games.rss
+https://Feuerlord2.github.io/Humble-RSS-Site/books.rss
+```
+```
+https://Feuerlord2.github.io/Humble-RSS-Site/games.rss
+```
+```
+https://Feuerlord2.github.io/Humble-RSS-Site/software.rss
 ```
 
 ## 🤝 Contributing
