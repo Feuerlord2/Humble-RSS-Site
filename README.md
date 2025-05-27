@@ -22,9 +22,9 @@ Visit the live website: [**Go Humble RSS**](https://feuerlord2.github.io/Humble-
 
 | Feed Type | Description | RSS Link |
 |-----------|------------|----------|
-| 📚 **Books** | E-book bundles and digital publications | [`/books.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/books.rss) |
-| 🎮 **Games** | Video game bundles and indie collections | [`/games.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/games.rss) |
-| 💻 **Software** | Development tools and creative software | [`/software.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/software.rss) |
+| 📚 **Books** | E-book bundles | [`/books.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/books.rss) |
+| 🎮 **Games** | Video game bundles | [`/games.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/games.rss) |
+| 💻 **Software** | Software bundles | [`/software.rss`](https://Feuerlord2.github.io/Humble-RSS-Site/software.rss) |
 
 ## 🛠️ Technology Stack
 
@@ -43,7 +43,7 @@ Visit the live website: [**Go Humble RSS**](https://feuerlord2.github.io/Humble-
 ## 🎯 Use Cases
 
 - **Discord Bots** - Integrate with Discord RSS bots for automatic notifications
-- **RSS Readers** - Add to your favorite RSS reader (Feedly, Inoreader, etc.)
+- **RSS Readers** - Add to your favorite RSS reader
 - **Personal Dashboard** - Integrate into your personal news aggregator
 
 ## 🔗 Integration Examples
