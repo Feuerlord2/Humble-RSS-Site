@@ -2,7 +2,7 @@
 
 > A modern, automated RSS feed generator for Humble Bundle deals, built with Go and hosted on GitHub Pages.
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=flat-square&logo=github)](https://your-username.github.io/go-humble-rss)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=flat-square&logo=github)](https://Feuerlord2.github.io/Humble-RSS-Site)
 [![Go](https://img.shields.io/badge/Go-1.19+-00ADD8?style=flat-square&logo=go)](https://golang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
