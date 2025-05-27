@@ -1,98 +1,487 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="de">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <title>Humble Bundle RSS-Site</title>
+    <title>Humble Bundle RSS Feed</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Roboto', sans-serif;
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #6366f1;
+            --secondary: #8b5cf6;
+            --accent: #06b6d4;
+            --bg-dark: #0f0f23;
+            --bg-card: rgba(255, 255, 255, 0.08);
+            --text-primary: #ffffff;
+            --text-secondary: #a1a1aa;
+            --gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            --gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            overflow-x: hidden;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        /* Animated Background */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: linear-gradient(-45deg, #0f0f23, #1a1a3a, #2d1b69, #0f0f23);
+            background-size: 400% 400%;
+            animation: gradientShift 15s ease infinite;
+        }
+
+        .bg-animation::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 80%, rgba(120, 219, 255, 0.3) 0%, transparent 50%);
+            animation: float 20s ease-in-out infinite;
+        }
+
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            33% { transform: translateY(-20px) rotate(1deg); }
+            66% { transform: translateY(10px) rotate(-1deg); }
+        }
+
+        /* Floating Particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 50%;
+            animation: floatParticle 10s linear infinite;
+        }
+
+        @keyframes floatParticle {
+            0% {
+                transform: translateY(100vh) rotate(0deg);
+                opacity: 0;
+            }
+            10% {
+                opacity: 1;
+            }
+            90% {
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(-100px) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        /* Main Container */
+        .container {
+            min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
-            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
-            color: #333;
+            justify-content: center;
+            padding: 2rem;
+            position: relative;
         }
 
-        header {
+        /* Header */
+        .header {
             text-align: center;
-            margin: 2rem 0;
+            margin-bottom: 4rem;
+            position: relative;
         }
 
-        header h1 {
-            font-size: 2.5rem;
-            color: #2c3e50;
+        .logo {
+            font-size: clamp(2.5rem, 8vw, 4.5rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+            animation: glow 3s ease-in-out infinite alternate;
+            position: relative;
         }
 
-        header p {
-            font-size: 1.2rem;
-            color: #34495e;
-            margin: 0.5rem 0;
+        .logo::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: blur(20px);
+            opacity: 0.5;
+            z-index: -1;
         }
 
-        header a {
-            color: #1abc9c;
+        @keyframes glow {
+            0% { text-shadow: 0 0 20px rgba(102, 126, 234, 0.5); }
+            100% { text-shadow: 0 0 40px rgba(102, 126, 234, 0.8), 0 0 60px rgba(118, 75, 162, 0.6); }
+        }
+
+        .subtitle {
+            font-size: clamp(1rem, 4vw, 1.25rem);
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            font-weight: 400;
+            line-height: 1.6;
+            max-width: 600px;
+        }
+
+        /* RSS Cards */
+        .rss-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            max-width: 1000px;
+            width: 100%;
+            margin-bottom: 4rem;
+        }
+
+        .rss-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            cursor: pointer;
             text-decoration: none;
-            margin: 0 1rem;
-            font-weight: 700;
-            padding: 0.5rem 1rem;
-            border: 2px solid #1abc9c;
-            border-radius: 8px;
-            transition: all 0.3s ease;
+            color: inherit;
         }
 
-        header a:hover {
-            background-color: #1abc9c;
-            color: white;
+        .rss-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 50%, rgba(240, 147, 251, 0.1) 100%);
+            opacity: 0;
+            transition: opacity 0.4s ease;
+            z-index: -1;
         }
 
-        footer {
-            margin-top: auto;
-            padding: 1rem;
-            text-align: center;
-            width: 500%;
-            background-color: #2c3e50;
-            color: #ecf0f1;
+        .rss-card:hover::before {
+            opacity: 1;
         }
 
-        footer small {
+        .rss-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            border-color: rgba(102, 126, 234, 0.5);
+            box-shadow: 
+                0 20px 40px rgba(0, 0, 0, 0.3),
+                0 0 0 1px rgba(102, 126, 234, 0.2),
+                inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+        }
+
+        .rss-card:nth-child(1) {
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%);
+        }
+
+        .rss-card:nth-child(2) {
+            background: linear-gradient(135deg, rgba(240, 147, 251, 0.15) 0%, rgba(245, 87, 108, 0.15) 100%);
+        }
+
+        .rss-card:nth-child(3) {
+            background: linear-gradient(135deg, rgba(79, 172, 254, 0.15) 0%, rgba(0, 242, 254, 0.15) 100%);
+        }
+
+        .card-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .card-description {
+            color: var(--text-secondary);
             font-size: 0.9rem;
+            line-height: 1.5;
         }
 
-        hr {
-            border: none;
-            border-top: 2px solid #1abc9c;
-            margin: 1rem 0;
-            width: 80%;
+        /* Footer */
+        .footer {
+            position: relative;
+            padding: 2rem;
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(20px);
+            width: 100%;
+            margin-top: auto;
+        }
+
+        .footer-text {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .rss-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .rss-card {
+                padding: 1.5rem;
+            }
+        }
+
+        /* Scroll Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        /* Additional Visual Effects */
+        .glow-effect {
+            position: relative;
+        }
+
+        .glow-effect::after {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #667eea);
+            border-radius: 22px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+            animation: rotate 4s linear infinite;
+        }
+
+        .rss-card:hover .glow-effect::after {
+            opacity: 0.7;
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
     </style>
 </head>
-
 <body>
-    <header>
-        <h1>Humble Bundle RSS-Site</h1>
-        <p>Your <b>humble</b> RSS feed for getting the latest news on Humble
-            bundles!</p>
-            <br>
-            
-        <p>
-            <a href="./books.rss"><b>Book Bundles</b></a>
-            <a href="./games.rss"><b>Game Bundles</b></a>
-            <a href="./software.rss"><b>Software Bundles</b></a>
-        </p>
-    </header>
+    <div class="bg-animation"></div>
+    
+    <div class="particles" id="particles"></div>
 
-    <footer>
-        <hr>
-        <p>
-            <small>Not affiliated with Humble Bundle, Inc. This website is for my personal use</small>
+    <div class="container">
+        <header class="header fade-in-up">
+            <h1 class="logo">Humble Bundle RSS</h1>
+            <p class="subtitle">
+                Deine <strong>elegante</strong> RSS-Feed-Sammlung für die neuesten 
+                Humble Bundle Angebote – immer aktuell, immer verfügbar
+            </p>
+        </header>
+
+        <div class="rss-grid">
+            <a href="./books.rss" class="rss-card glow-effect fade-in-up">
+                <span class="card-icon">📚</span>
+                <h3 class="card-title">Book Bundles</h3>
+                <p class="card-description">
+                    Entdecke die besten E-Book-Sammlungen und erweitere deine digitale Bibliothek
+                </p>
+            </a>
+
+            <a href="./games.rss" class="rss-card glow-effect fade-in-up">
+                <span class="card-icon">🎮</span>
+                <h3 class="card-title">Game Bundles</h3>
+                <p class="card-description">
+                    Die neuesten Spiele-Bundles für endlosen Gaming-Spaß zu unschlagbaren Preisen
+                </p>
+            </a>
+
+            <a href="./software.rss" class="rss-card glow-effect fade-in-up">
+                <span class="card-icon">💻</span>
+                <h3 class="card-title">Software Bundles</h3>
+                <p class="card-description">
+                    Professionelle Software-Pakete für Entwickler, Designer und Kreative
+                </p>
+            </a>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p class="footer-text">
+            Nicht mit Humble Bundle, Inc. verbunden. Diese Website dient ausschließlich persönlichen Zwecken 
+            und wird mit ❤️ für die Community bereitgestellt.
         </p>
     </footer>
-</body>
 
+    <script>
+        // Animated Particles
+        function createParticles() {
+            const particlesContainer = document.getElementById('particles');
+            const particleCount = 50;
+
+            for (let i = 0; i < particleCount; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 10 + 's';
+                particle.style.animationDuration = (Math.random() * 10 + 5) + 's';
+                particlesContainer.appendChild(particle);
+            }
+        }
+
+        // Scroll Animations
+        function animateOnScroll() {
+            const elements = document.querySelectorAll('.fade-in-up');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.animationPlayState = 'running';
+                    }
+                });
+            });
+
+            elements.forEach(el => {
+                observer.observe(el);
+            });
+        }
+
+        // Parallax Effect for Background
+        function parallaxEffect() {
+            const bgAnimation = document.querySelector('.bg-animation');
+            let ticking = false;
+
+            function updateParallax() {
+                const scrolled = window.pageYOffset;
+                const parallax = scrolled * 0.5;
+                bgAnimation.style.transform = `translateY(${parallax}px)`;
+                ticking = false;
+            }
+
+            function requestTick() {
+                if (!ticking) {
+                    requestAnimationFrame(updateParallax);
+                    ticking = true;
+                }
+            }
+
+            window.addEventListener('scroll', requestTick);
+        }
+
+        // Mouse Movement Effect
+        function mouseMovementEffect() {
+            const cards = document.querySelectorAll('.rss-card');
+            
+            cards.forEach(card => {
+                card.addEventListener('mousemove', (e) => {
+                    const rect = card.getBoundingClientRect();
+                    const x = e.clientX - rect.left;
+                    const y = e.clientY - rect.top;
+                    
+                    const centerX = rect.width / 2;
+                    const centerY = rect.height / 2;
+                    
+                    const rotateX = (y - centerY) / 10;
+                    const rotateY = (centerX - x) / 10;
+                    
+                    card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-10px) scale(1.02)`;
+                });
+                
+                card.addEventListener('mouseleave', () => {
+                    card.style.transform = '';
+                });
+            });
+        }
+
+        // Initialize all effects
+        document.addEventListener('DOMContentLoaded', () => {
+            createParticles();
+            animateOnScroll();
+            parallaxEffect();
+            mouseMovementEffect();
+        });
+
+        // Performance optimization
+        let resizeTimer;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(() => {
+                // Reinitialize effects on resize if needed
+            }, 250);
+        });
+    </script>
+</body>
 </html>
