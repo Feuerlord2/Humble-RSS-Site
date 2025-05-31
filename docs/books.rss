@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 31 May 2025 16:26:03 +0000</pubDate>
+    <pubDate>Sat, 31 May 2025 20:23:41 +0000</pubDate>
+    <item>
+      <title>RPG Game Master Book Series</title>
+      <link>https://humblebundle.com/books/rpg-game-master-book-series-books</link>
+      <description>Teach a Game Master new tricks</description>
+      <content:encoded><![CDATA[What makes a great Game Master? Experience, knowledge, resources, and excitement! Become a legendary GM with our all-new RPG Game Master Book Bundle. Elevate your skillset with endless insights from robust ebooks like <em>The Game Master's Book of Random Encounters</em>, <em>The Game Master's Book of Traps, Puzzles and Dungeons</em>, and <em>The Game Master's Book of Astonishing Random Tables</em>. Pay what you want and help support the Breast Cancer Research Foundation with your purchase!]]></content:encoded>
+      <pubDate>Sat, 31 May 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Witcher X Cyberpunk 2025 by Dark Horse</title>
       <link>https://humblebundle.com/books/witcher-x-cyberpunk-2025-dark-horse-books</link>
@@ -69,13 +76,6 @@
       <pubDate>Mon, 12 May 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bushcraft &amp; Homestead Handbook Series by Adams Media</title>
-      <link>https://humblebundle.com/books/bushcraft-homestead-handbook-series-adams-media-books</link>
-      <description>The skills to keep you alive</description>
-      <content:encoded><![CDATA[Don’t just survive in the wild—thrive. The Bushcraft & Homestead Handbook Bundle by Adams Media is our newest collection of nature books designed to teach you valuable life and survival skills. Get the latest and most useful bushcraft ebooks around including <em>Bushcraft Essentials Field Guide</em>, <em>Disaster Survival 101</em>, <em>Bushcraft Field Guide to Trapping, Gathering, and Cooking in the Wild</em>, and many more. Conquer the outdoors, develop a new sense of confidence, and help support World Reader with your purchase. ]]></content:encoded>
-      <pubDate>Sat, 10 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>C# and .NET Mega Bundle by Packt</title>
       <link>https://humblebundle.com/books/c-and-net-mega-bundle-packt-books</link>
       <description>The programmer &amp; developer dream bundle</description>
@@ -88,13 +88,6 @@
       <description>A pot of JavaScript courses &amp; more</description>
       <content:encoded><![CDATA[Pour yourself a hot cup of JavaScript and open up our latest Humble Tech Book Bundle—it’s time to improve your web development and scripting skills. Unlock the latest coding techniques with this library of tech courses highlighted by <em>Clojure Brain Teasers</em>, <em>Serverless Apps on Cloudflare</em>, and <em>Test-Driven React, Second Edition</em>. Get elite resources for novice coders and seasoned pros alike, and help support Save the Children with your purchase!]]></content:encoded>
       <pubDate>Mon, 05 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pathfinder Second Edition Asian Fantasy Bundle by Paizo</title>
-      <link>https://humblebundle.com/books/pathfinder-second-edition-asian-fantasy-bundle-paizo-books</link>
-      <description>Become the hero of Golarion</description>
-      <content:encoded><![CDATA[A world of adventure & magic awaits, and the only thing missing is your hero’s courage. Gather your party of trusty companions for epic adventures with our latest <em>Pathfinder</em> bundle from Paizo Inc. The new Pathfinder Second Edition Asian Fantasy Bundle contains countless hours of new campaigns and guides like <em>Pathfinder Adventure Path: Fists of the Ruby Phoenix</em> and <em>Pathfinder Lost Omens: Tian Xia Character Guide</em>. Get everything you need to embark on an epic high fantasy journey together, and help support Stop AAPI Hate with your purchase!]]></content:encoded>
-      <pubDate>Thu, 01 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
