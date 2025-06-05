@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 05 Jun 2025 16:29:12 +0000</pubDate>
+    <pubDate>Thu, 05 Jun 2025 20:21:35 +0000</pubDate>
+    <item>
+      <title>Monsters, Traps, &amp; DM Tricks For DnD &amp; DCC</title>
+      <link>https://humblebundle.com/books/monsters-traps-dm-tricks-for-dnd-dcc-books</link>
+      <description>Monsters, traps, tricks, and more!</description>
+      <content:encoded><![CDATA[Teach an old Dungeon Master new tricks with our most epic DM bundle yet! Surprise your companions and foes with new techniques, traps, and tactics from hot books and guides. Create your own original campaigns, get inspired by <em>How to Write Adventure Modules That Don't Suck</em>, and gain access to a limited-quantity supply of <em>Grimtooth's Trapsylvania</em> hardback books! Get everything you need to embark on an epic journey together, and help support The Trevor Project with your purchase!]]></content:encoded>
+      <pubDate>Thu, 05 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cybersecurity and Forensics by Pearson</title>
       <link>https://humblebundle.com/books/cybersecurity-and-forensics-pearson-books</link>
@@ -60,13 +67,6 @@
       <description>The ultimate home improvement resource</description>
       <content:encoded><![CDATA[Empower yourself with the skills to do what needs doing around the house with this bundle of handy how-to guides from Black+Decker! You’ll get a comprehensive library of detailed instructions covering anything that might come up around the house. Need to lay pipe for a new bathroom? Looking for a step-by-step guide on how to frame a wall? Are you at a loss trying to set up your patios and walkways? You’re covered for all these topics and more. Pay what you want for a lifetime of home improvement confidence and help support It Gets Better with your purchase.]]></content:encoded>
       <pubDate>Sat, 17 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warren Ellis by Image Comics</title>
-      <link>https://humblebundle.com/books/warren-ellis-image-comics-books</link>
-      <description>Introducing an award-winning graphic novelist</description>
-      <content:encoded><![CDATA[Lose yourself in the renowned stories of Image Comics with our latest Humble Comics Bundle featuring 10+ graphic novels showcasing the award-winning works of Warren Ellis. This collection includes gripping noir like <em>Fell</em>, slow-burning sci-fi like <em>Trees</em>, and suspenseful horror like <em>Injection</em>. Discover worlds beyond the familiar, add iconic graphic novels to your personal collection, and help support the charity of your choice with your purchase!]]></content:encoded>
-      <pubDate>Thu, 15 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
