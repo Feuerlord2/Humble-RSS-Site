@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 07 Jun 2025 16:26:13 +0000</pubDate>
+    <pubDate>Sat, 07 Jun 2025 20:24:13 +0000</pubDate>
+    <item>
+      <title>Usagi Yojimbo: The Rabbit Ronin Bundle</title>
+      <link>https://humblebundle.com/books/usagi-yojimbo-rabbit-rnin-bundle-books</link>
+      <description>Read the Rabbit Rōnin’s journey today</description>
+      <content:encoded><![CDATA[Ready yourself for the most unique and original story set in classic Japan. The Usagi Yojimbo: The Rabbit Rōnin Bundle is unlike any other, focusing on the life and journey of a legendary anthropomorphic rōnin, Miyamoto Usagi. Set in the Edo period and based on a real-life masterless samurai, this series created by Stan Sakai is thrilling and perfect for readers of all ages. Move with haste—read 20 <em>Usagi Yojimbo</em> comics and help support the Hero Initiative with your purchase!]]></content:encoded>
+      <pubDate>Sat, 07 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Monsters, Traps, &amp; DM Tricks For DnD &amp; DCC</title>
       <link>https://humblebundle.com/books/monsters-traps-dm-tricks-for-dnd-dcc-books</link>
@@ -60,13 +67,6 @@
       <description>Unlock your programming superpower!</description>
       <content:encoded><![CDATA[Start coding with confidence using our latest programming bundle. This 25+ course library will help you master Python, JavaScript, C, C++, SQL, and many other essential languages. Whether you're writing your first line of code or refining your logic, you’ll build real skills with guidance from programming experts featured in <em>Learn Python the Hard Way</em>, <em>Absolute Beginner's Guide to Algorithms</em>, <em>Captain Code</em>, and more. Get outstanding programming resources, and help support Girls Who Code with your purchase!]]></content:encoded>
       <pubDate>Mon, 19 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black+Decker Home How-To Guides-Encore</title>
-      <link>https://humblebundle.com/books/blackdecker-home-howto-guides-books-encore-2025</link>
-      <description>The ultimate home improvement resource</description>
-      <content:encoded><![CDATA[Empower yourself with the skills to do what needs doing around the house with this bundle of handy how-to guides from Black+Decker! You’ll get a comprehensive library of detailed instructions covering anything that might come up around the house. Need to lay pipe for a new bathroom? Looking for a step-by-step guide on how to frame a wall? Are you at a loss trying to set up your patios and walkways? You’re covered for all these topics and more. Pay what you want for a lifetime of home improvement confidence and help support It Gets Better with your purchase.]]></content:encoded>
-      <pubDate>Sat, 17 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
