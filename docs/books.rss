@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 09 Jun 2025 16:29:49 +0000</pubDate>
+    <pubDate>Mon, 09 Jun 2025 20:27:02 +0000</pubDate>
+    <item>
+      <title>Coding for the Curious by No Starch</title>
+      <link>https://humblebundle.com/books/coding-for-curious-no-starch-books</link>
+      <description>Learn JavaScript, PHP, C++ and more—all in one go.</description>
+      <content:encoded><![CDATA[Exploring the mysteries of programming just got a whole lot easier. Try out any of 10+ languages—from Kotlin to JavaScript and C++ to PHP—with the latest bundle from No Starch Press. Pick up 18 ebooks that will turn you into the ultimate polyglot programmer, plus support the EFF as they fight for your rights online!]]></content:encoded>
+      <pubDate>Mon, 09 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Usagi Yojimbo: The Rabbit Ronin Bundle</title>
       <link>https://humblebundle.com/books/usagi-yojimbo-rabbit-rnin-bundle-books</link>
@@ -60,13 +67,6 @@
       <description>The ultimate Western TTRPG</description>
       <content:encoded><![CDATA[Gather your posse for an awesome TTRPG party with <em>Deadlands: Reloaded</em>. Roleplay as a squinty-eyed gunfighter or card-chucking hexslinger in this alternate-history, fantasy-based retelling of the American West before the end of the 19th century. Our Deadlands: Reloaded Megabundle offers countless hours of action-packed adventures, expansions, and more—like <em>Deadlands Reloaded: The Flood</em> and <em>Deadlands Reloaded: Stone and a Hard Place</em>. Pay what you want and help support the American Cancer Society with your purchase.]]></content:encoded>
       <pubDate>Thu, 22 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn to Program 2025 by Pearson</title>
-      <link>https://humblebundle.com/books/learn-to-program-2025-pearson-books</link>
-      <description>Unlock your programming superpower!</description>
-      <content:encoded><![CDATA[Start coding with confidence using our latest programming bundle. This 25+ course library will help you master Python, JavaScript, C, C++, SQL, and many other essential languages. Whether you're writing your first line of code or refining your logic, you’ll build real skills with guidance from programming experts featured in <em>Learn Python the Hard Way</em>, <em>Absolute Beginner's Guide to Algorithms</em>, <em>Captain Code</em>, and more. Get outstanding programming resources, and help support Girls Who Code with your purchase!]]></content:encoded>
-      <pubDate>Mon, 19 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
