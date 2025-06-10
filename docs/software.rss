@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 10 Jun 2025 16:29:39 +0000</pubDate>
+    <pubDate>Tue, 10 Jun 2025 20:26:43 +0000</pubDate>
+    <item>
+      <title>Learn Game Dev with Unity, Godot, Unreal, GameMaker, Blender &amp; C#</title>
+      <link>https://humblebundle.com/software/learn-game-dev-with-unity-godot-unreal-gamemaker-blender-c-software</link>
+      <description>Make games like a pro</description>
+      <content:encoded><![CDATA[Passionate about video games? Then start making your own! Our latest bundle will help you learn vital game development skills. Master the most popular creation platforms like Unity, Godot, Unreal, GameMaker, Blender, and C#—now that’s a sharp-lookin’ bundle! Build a 2.5D farming RPG with Unreal Engine, create a micro turn-based RPG in Godot, explore game optimization, and so much more. Get the expert advice and knowledge you need to become an elite game creator, and help support CARE with your purchase!]]></content:encoded>
+      <pubDate>Tue, 10 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Python, Machine Learning, Bots and AI Mega Bundle+</title>
       <link>https://humblebundle.com/software/complete-python-machine-learning-bots-and-ai-mega-bundle-software</link>
@@ -53,13 +60,6 @@
       <description>The sweet sounds of savings</description>
       <content:encoded><![CDATA[Create the perfect audioscape for your game, film, or creative project with this amazing bundle of royalty-free sounds from Audio Hero! This massive library features 100+ samples, tracks, instruments, and more. Get the tools you need to achieve the sound you’re looking for with unique audio assets like the <em>Global Creator Mix</em>, <em>YouTube Creator’s SFX</em>, and <em>YouTube Creator’s Music</em>. Pay what you want and help support Children's Miracle Network Hospitals with your purchase!]]></content:encoded>
       <pubDate>Thu, 22 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biggest Graphics Bundle 2025</title>
-      <link>https://humblebundle.com/software/biggest-graphics-bundle-2025-software</link>
-      <description>The Biggest Graphics Bundle of 2025</description>
-      <content:encoded><![CDATA[<iframe width="400" height="315" src="https://www.youtube.com/embed/_6GvnxH8O8k?si=PuW5zthkrQs9mR-p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></br>Are you a game designer looking to level up your project’s visuals? Then you need The Biggest Graphics Bundle of 2025 by Eldamar Studio. Get 70,000+ overlays, backgrounds, patterns, textures, and more from 80+ asset packs—standouts include <em>7700+ High-Resolution Backgrounds Bundle</em>, <em>3000+ Space Backgrounds and Textures Collection - Vol.1</em>, and <em>2500+ Massive Photo Overlays Bundle</em>. Get professional-quality tools compatible with Photoshop, Lightroom, Affinity, Premiere, After Effects, Final Cut, DaVinci Resolve, Unreal Engine, Unity, GIMP, and others—and help support Save the Children with your purchase!]]></content:encoded>
-      <pubDate>Tue, 20 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
