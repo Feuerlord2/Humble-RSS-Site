@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 12 Jun 2025 16:28:58 +0000</pubDate>
+    <pubDate>Thu, 12 Jun 2025 20:26:28 +0000</pubDate>
+    <item>
+      <title>Fresh Ink: IDW&#39;s Latest and Greatest Comics</title>
+      <link>https://humblebundle.com/books/fresh-ink-idws-latest-and-greatest-comics-books</link>
+      <description>Fresh ink from the pages to you</description>
+      <content:encoded><![CDATA[Pay what you want and get the latest and greatest comics from world-renowned publisher IDW. The ink’s still fresh on hot new titles like <em>Dark Spaces: Wildfire</em>, <em>Beneath the Trees Where Nobody Sees</em>, <em>Earthdivers, Vol. 1: Kill Columbus</em>, and more! If you love graphic novels and comics, this is the perfect way to expand your digital comic collection with 20+ outstanding titles. Plus—your purchase helps support The Hero Initiative!]]></content:encoded>
+      <pubDate>Thu, 12 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Coding for the Curious by No Starch</title>
       <link>https://humblebundle.com/books/coding-for-curious-no-starch-books</link>
@@ -60,13 +67,6 @@
       <description>Bendis’ best indie works</description>
       <content:encoded><![CDATA[Want to expand your graphic novel library? Discover the complex characters, worlds, and stories of Brian Michael Bendis in the all-new Jinxworld Bundle, in partnership with Dark Horse Comics. Bendis’s catalog spans more than a quarter century and includes timeless comics and graphic novels, including <em>Jinx</em>, <em>Powers</em>, and <em>Murder Inc</em>. Lose yourself in these unforgettable works and help support Charity: Water with your purchase!]]></content:encoded>
       <pubDate>Sat, 24 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deadlands Reloaded Megabundle</title>
-      <link>https://humblebundle.com/books/deadlands-reloaded-megabundle-books</link>
-      <description>The ultimate Western TTRPG</description>
-      <content:encoded><![CDATA[Gather your posse for an awesome TTRPG party with <em>Deadlands: Reloaded</em>. Roleplay as a squinty-eyed gunfighter or card-chucking hexslinger in this alternate-history, fantasy-based retelling of the American West before the end of the 19th century. Our Deadlands: Reloaded Megabundle offers countless hours of action-packed adventures, expansions, and more—like <em>Deadlands Reloaded: The Flood</em> and <em>Deadlands Reloaded: Stone and a Hard Place</em>. Pay what you want and help support the American Cancer Society with your purchase.]]></content:encoded>
-      <pubDate>Thu, 22 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
