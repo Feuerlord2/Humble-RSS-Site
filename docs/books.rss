@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 14 Jun 2025 16:26:01 +0000</pubDate>
+    <pubDate>Sat, 14 Jun 2025 20:23:51 +0000</pubDate>
+    <item>
+      <title>The Rick Remender Collection from Image Comics</title>
+      <link>https://humblebundle.com/books/rick-remender-collection-from-image-comics-books</link>
+      <description>Remember the name—Rick Remender</description>
+      <content:encoded><![CDATA[Lose yourself in the renowned works of comic book writer and animator Rick Remender with the latest Humble Comics Bundle. Get 30+ volumes of amazing Image Comics titles like <em>SEVEN TO ETERNITY, Vol. 1</em>, <em>DEADLY CLASS, Vol. 1</em>, <em>BLACK SCIENCE, Vol. 1</em>, and more. Read the very best from this legendary creator and help support The BINC Foundation with your purchase. Style, story, and mystique—this bundle has it all!]]></content:encoded>
+      <pubDate>Sat, 14 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fresh Ink: IDW&#39;s Latest and Greatest Comics</title>
       <link>https://humblebundle.com/books/fresh-ink-idws-latest-and-greatest-comics-books</link>
@@ -60,13 +67,6 @@
       <description>Master Machine Learning</description>
       <content:encoded><![CDATA[Level up your coding skills and build your own bots with this comprehensive library from the pros at O’Reilly. Harness the power of machine learning to create digital agents and more with hot courses like <em>Learning LangChain</em>, <em>The Developer's Playbook for Large Language Model Security</em>, <em>Designing Large Language Model Applications</em>, and more. Get elite resources for both novice coders and seasoned pros to grow your career—and help support Code for America with your purchase!]]></content:encoded>
       <pubDate>Mon, 26 May 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brian Michael Bendis&#39; Jinxworld Bundle</title>
-      <link>https://humblebundle.com/books/brian-michael-bendis-jinxworld-bundle-books</link>
-      <description>Bendis’ best indie works</description>
-      <content:encoded><![CDATA[Want to expand your graphic novel library? Discover the complex characters, worlds, and stories of Brian Michael Bendis in the all-new Jinxworld Bundle, in partnership with Dark Horse Comics. Bendis’s catalog spans more than a quarter century and includes timeless comics and graphic novels, including <em>Jinx</em>, <em>Powers</em>, and <em>Murder Inc</em>. Lose yourself in these unforgettable works and help support Charity: Water with your purchase!]]></content:encoded>
-      <pubDate>Sat, 24 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
