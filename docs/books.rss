@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 16 Jun 2025 16:29:17 +0000</pubDate>
+    <pubDate>Mon, 16 Jun 2025 20:26:32 +0000</pubDate>
+    <item>
+      <title>Modern Back End Web Development by Packt</title>
+      <link>https://humblebundle.com/books/modern-back-end-web-development-packt-books</link>
+      <description>Build scalable apps &amp; APIs with Python, Java, Node.js &amp; Go.</description>
+      <content:encoded><![CDATA[Unlock the art of backend development with this all-in-one bundle! Featuring over 20 powerful books, you'll master essential tech stack including Python, Node.js, Go, and Java to craft robust APIs and microservices. Explore frameworks like Django, Spring Boot, FastAPI and more through hands-on guides and cookbooks. Whether you’re starting out or scaling up, this bundle delivers the tools and knowledge to create production-ready, scalable applications. Ideal for developers and tech enthusiasts ready to dive into modern backend technologies and best practices]]></content:encoded>
+      <pubDate>Mon, 16 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Rick Remender Collection from Image Comics</title>
       <link>https://humblebundle.com/books/rick-remender-collection-from-image-comics-books</link>
