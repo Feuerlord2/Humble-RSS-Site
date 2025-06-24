@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 24 Jun 2025 16:29:49 +0000</pubDate>
+    <pubDate>Tue, 24 Jun 2025 20:27:12 +0000</pubDate>
+    <item>
+      <title>Becoming a C++ and Unreal Game Developer by Packt</title>
+      <link>https://humblebundle.com/software/becoming-c-and-unreal-game-developer-packt-software</link>
+      <description>Unreal tools for game devs</description>
+      <content:encoded><![CDATA[Learn how to create video games in Unreal Engine and C++ from the pros at Packt with our latest Humble Video Learning Bundle. Master modern game development with comprehensive courses designed to help you succeed quickly—like <em>Creating Stunning Environments in Unreal Engine 5 – A Game Artist Bootcamp</em> and <em>Complete Modern C++</em>. Get the expert education you seek from the professionals at Packt, and help support Alzheimer's Research UK with your purchase!]]></content:encoded>
+      <pubDate>Tue, 24 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miniac presents An Intergalactic SkullForge STL Bundle</title>
       <link>https://humblebundle.com/software/miniac-presents-an-intergalactic-skullforge-stl-bundle-software</link>
