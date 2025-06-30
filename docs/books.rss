@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 30 Jun 2025 16:29:38 +0000</pubDate>
+    <pubDate>Mon, 30 Jun 2025 20:25:58 +0000</pubDate>
+    <item>
+      <title>Roll Big or Go Home RPG Megabundle</title>
+      <link>https://humblebundle.com/books/roll-big-or-go-home-rpg-megabundle-books</link>
+      <description>Roll big or go home!</description>
+      <content:encoded><![CDATA[Gather up your party for the ultimate TTRPG adventure with the Roll Big or Go Home RPG Megabundle. This legendary 50+ title bundle is jam-packed with rulebooks, auxiliary resources, soundtracks, and more for you to enjoy. Help Aang bring elemental balance to the world in Magpie Games’ <em>Avatar Legends: The Roleplaying Game</em>, use your best chrome to smoke Corpos in R. Talsorian Games’ <em>Cyberpunk RED</em>, and roleplay as a robot in disguise in Renegade Game Studios’ <em>Transformers Roleplaying Game</em>. Play the best games from the best publishers within our biggest TTRPG bundle ever! Plus, a portion of your purchase helps support Extra Life.]]></content:encoded>
+      <pubDate>Mon, 30 Jun 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Numenera RPG Collection by Monte Cook Games</title>
       <link>https://humblebundle.com/books/numenera-rpg-collection-monte-cook-games-books</link>
@@ -76,25 +83,11 @@
       <pubDate>Thu, 12 Jun 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Coding for the Curious by No Starch</title>
-      <link>https://humblebundle.com/books/coding-for-curious-no-starch-books</link>
-      <description>Learn JavaScript, PHP, C++ and more—all in one go.</description>
-      <content:encoded><![CDATA[Exploring the mysteries of programming just got a whole lot easier. Try out any of 10+ languages—from Kotlin to JavaScript and C++ to PHP—with the latest bundle from No Starch Press. Pick up 18 ebooks that will turn you into the ultimate polyglot programmer, plus support the EFF as they fight for your rights online!]]></content:encoded>
-      <pubDate>Mon, 09 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Usagi Yojimbo: The Rabbit Ronin Bundle</title>
       <link>https://humblebundle.com/books/usagi-yojimbo-rabbit-rnin-bundle-books</link>
       <description>Read the Rabbit Rōnin’s journey today</description>
       <content:encoded><![CDATA[Ready yourself for the most unique and original story set in classic Japan. The Usagi Yojimbo: The Rabbit Rōnin Bundle is unlike any other, focusing on the life and journey of a legendary anthropomorphic rōnin, Miyamoto Usagi. Set in the Edo period and based on a real-life masterless samurai, this series created by Stan Sakai is thrilling and perfect for readers of all ages. Move with haste—read 20 <em>Usagi Yojimbo</em> comics and help support the Hero Initiative with your purchase!]]></content:encoded>
       <pubDate>Sat, 07 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine Learning, AI, and Bots by O&#39;Reilly 2025</title>
-      <link>https://humblebundle.com/books/machine-learning-ai-and-bots-oreilly-2025-books</link>
-      <description>Master Machine Learning</description>
-      <content:encoded><![CDATA[Level up your coding skills and build your own bots with this comprehensive library from the pros at O’Reilly. Harness the power of machine learning to create digital agents and more with hot courses like <em>Learning LangChain</em>, <em>The Developer's Playbook for Large Language Model Security</em>, <em>Designing Large Language Model Applications</em>, and more. Get elite resources for both novice coders and seasoned pros to grow your career—and help support Code for America with your purchase!]]></content:encoded>
-      <pubDate>Mon, 26 May 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
