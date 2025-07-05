@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 05 Jul 2025 16:26:29 +0000</pubDate>
+    <pubDate>Sat, 05 Jul 2025 20:24:19 +0000</pubDate>
+    <item>
+      <title>Get Good with Money</title>
+      <link>https://humblebundle.com/books/get-good-with-money-books</link>
+      <description>Level up your financial literacy</description>
+      <content:encoded><![CDATA[Stop wasting your money—start mastering it. Learn the financial skills you need to succeed with the all-new Get Good With Money Bundle. Shift your money mindset with top ebooks like <em>Money Hacks Handbook</em>, <em>Prepper's Financial Guide</em>, <em>Think Like a Self-Made Millionaire</em>, and more. You won’t get rich overnight, but you’ll gain the tools to flip your financial script. Pay what you want to level up your financial literacy and help support Child’s Play Charity!]]></content:encoded>
+      <pubDate>Sat, 05 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fandom and Pop Culture Cookbooks</title>
       <link>https://humblebundle.com/books/fandom-and-pop-culture-cookbooks-books</link>
@@ -74,20 +81,6 @@
       <description>Build scalable apps &amp; APIs with Python, Java, Node.js &amp; Go.</description>
       <content:encoded><![CDATA[Unlock the art of backend development with this all-in-one bundle! Featuring over 20 powerful books, you'll master essential tech stack including Python, Node.js, Go, and Java to craft robust APIs and microservices. Explore frameworks like Django, Spring Boot, FastAPI and more through hands-on guides and cookbooks. Whether you’re starting out or scaling up, this bundle delivers the tools and knowledge to create production-ready, scalable applications. Ideal for developers and tech enthusiasts ready to dive into modern backend technologies and best practices]]></content:encoded>
       <pubDate>Mon, 16 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Rick Remender Collection from Image Comics</title>
-      <link>https://humblebundle.com/books/rick-remender-collection-from-image-comics-books</link>
-      <description>Remember the name—Rick Remender</description>
-      <content:encoded><![CDATA[Lose yourself in the renowned works of comic book writer and animator Rick Remender with the latest Humble Comics Bundle. Get 30+ volumes of amazing Image Comics titles like <em>SEVEN TO ETERNITY, Vol. 1</em>, <em>DEADLY CLASS, Vol. 1</em>, <em>BLACK SCIENCE, Vol. 1</em>, and more. Read the very best from this legendary creator and help support The BINC Foundation with your purchase. Style, story, and mystique—this bundle has it all!]]></content:encoded>
-      <pubDate>Sat, 14 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usagi Yojimbo: The Rabbit Ronin Bundle</title>
-      <link>https://humblebundle.com/books/usagi-yojimbo-rabbit-rnin-bundle-books</link>
-      <description>Read the Rabbit Rōnin’s journey today</description>
-      <content:encoded><![CDATA[Ready yourself for the most unique and original story set in classic Japan. The Usagi Yojimbo: The Rabbit Rōnin Bundle is unlike any other, focusing on the life and journey of a legendary anthropomorphic rōnin, Miyamoto Usagi. Set in the Edo period and based on a real-life masterless samurai, this series created by Stan Sakai is thrilling and perfect for readers of all ages. Move with haste—read 20 <em>Usagi Yojimbo</em> comics and help support the Hero Initiative with your purchase!]]></content:encoded>
-      <pubDate>Sat, 07 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
