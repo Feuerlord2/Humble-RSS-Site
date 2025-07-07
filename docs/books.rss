@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 07 Jul 2025 16:30:09 +0000</pubDate>
+    <pubDate>Mon, 07 Jul 2025 20:27:06 +0000</pubDate>
+    <item>
+      <title>The Pentesting &amp; Hacking Toolkit by Packt</title>
+      <link>https://humblebundle.com/books/pentesting-hacking-toolkit-packt-books</link>
+      <description>Build real-world hacking skills and stay ahead of cyber threats</description>
+      <content:encoded><![CDATA[Master the art of offensive security with The Pentesting & Hacking Toolkit. This curated bundle features hands-on guides and expert resources for ethical hackers, red teamers, and aspiring pentesters. Covering everything from vulnerability discovery to exploitation and post-exploitation techniques, these books provide practical skills to identify and fix security gaps before attackers do. Perfect for all skill levels aiming to level up in cybersecurity.]]></content:encoded>
+      <pubDate>Mon, 07 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Get Good with Money</title>
       <link>https://humblebundle.com/books/get-good-with-money-books</link>
@@ -74,13 +81,6 @@
       <description>A constellation of star-studded Disney Comics</description>
       <content:encoded><![CDATA[Calling all Disney fans! Step into the magical world of Disney Comics with our latest collaboration with Dynamite Entertainment. All your favorite critters, heroes, and goofballs are here to entertain fans of all ages. Dive into a vibrant library featuring 50 comics starring beloved characters like <em>Lilo & Stitch</em>, <em>Gargoyles</em>, <em>Hercules</em>, and more. Discover amazing page-turners based on your favorite stories—and help support First Book with every purchase.]]></content:encoded>
       <pubDate>Wed, 18 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modern Back End Web Development by Packt</title>
-      <link>https://humblebundle.com/books/modern-back-end-web-development-packt-books</link>
-      <description>Build scalable apps &amp; APIs with Python, Java, Node.js &amp; Go.</description>
-      <content:encoded><![CDATA[Unlock the art of backend development with this all-in-one bundle! Featuring over 20 powerful books, you'll master essential tech stack including Python, Node.js, Go, and Java to craft robust APIs and microservices. Explore frameworks like Django, Spring Boot, FastAPI and more through hands-on guides and cookbooks. Whether you’re starting out or scaling up, this bundle delivers the tools and knowledge to create production-ready, scalable applications. Ideal for developers and tech enthusiasts ready to dive into modern backend technologies and best practices]]></content:encoded>
-      <pubDate>Mon, 16 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
