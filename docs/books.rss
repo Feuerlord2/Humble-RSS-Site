@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 14 Jul 2025 16:30:59 +0000</pubDate>
+    <pubDate>Mon, 14 Jul 2025 20:28:12 +0000</pubDate>
+    <item>
+      <title>Serious Web Development with React, JavaScript, and modern APIs by Manning</title>
+      <link>https://humblebundle.com/books/serious-web-development-with-react-javascript-and-modern-apis-manning-books</link>
+      <description>Get serious about web dev</description>
+      <content:encoded><![CDATA[Bear down on your fields of expertise with these guides from Manning. Learn everything you need to know about React, JavaScript, and more modern APIs. Through a mix of how-to guides, and expert advice, you’ll learn key concepts and fundamentals, explore design patterns and best practices, and get a handle on a range of applications and scenarios. Plus, your purchase helps support Girls Who Code! ]]></content:encoded>
+      <pubDate>Mon, 14 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Star Trek Comics Megabundle</title>
       <link>https://humblebundle.com/books/star-trek-comics-megabundle-books</link>
@@ -67,13 +74,6 @@
       <description>Hot and exciting romantasy novels</description>
       <content:encoded><![CDATA[Fall in love with the hot and steamy fantasy novels of renowned romance author Scarlett St. Clair. This all-new ebook bundle features a rich mix of her best works including <em>A Touch of Darkness</em>, <em>A Game of Fate</em>, and <em>King of Battle and Blood</em>. Lose yourself in the love and lust of this expansive romantasy library. Plus—a portion of your purchase helps support Native Forward Scholars Fund!]]></content:encoded>
       <pubDate>Tue, 24 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sybex Certification by Wiley</title>
-      <link>https://humblebundle.com/books/sybex-certification-wiley-books</link>
-      <description>Sybex prep for IT pros</description>
-      <content:encoded><![CDATA[Dominate your IT certification exams with the latest Sybex prep bundle by Wiley. For over 200 years, Wiley has empowered individuals with the tools to succeed in the digital world. Their Sybex prep series offers top-tier training to help you keep your skillset current in the ever-changing IT landscape. Get study guides like <em>CompTIA Security+ Practice Tests: Exam SY0-701, 3rd Edition</em>, and access industry-leading resources today—plus, help support The Hidden Genius Project with your purchase!]]></content:encoded>
-      <pubDate>Mon, 23 Jun 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lilo &amp; Stitch, Gargoyles, and More Disney Comics!</title>

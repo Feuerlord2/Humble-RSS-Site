@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 14 Jul 2025 16:30:59 +0000</pubDate>
+    <pubDate>Mon, 14 Jul 2025 20:28:12 +0000</pubDate>
+    <item>
+      <title>Ultimate Linux Developer Collection by Packt</title>
+      <link>https://humblebundle.com/software/ultimate-linux-developer-collection-packt-software</link>
+      <description>Limitless possibilities in Linux</description>
+      <content:encoded><![CDATA[The Ultimate Linux Developer Collection Bundle by Packt offers budding IT professionals the tools they need to compete with the best in the field. Learn how to bend Linux to your will and create the most optimized operating systems around. This curated library of courses includes <em>Linux Foundation Certified System Administrator</em>, <em>Linux Essentials: Hands-On Course with Labs</em>, <em>Mastering Linux Admin with Rocky - A Hands-On Approach</em>, and more. Pay what you want and help support Alzheimer's Research UK with your purchase!]]></content:encoded>
+      <pubDate>Mon, 14 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Opus FX: Superior Plugins &amp; Orchestral Elegance</title>
       <link>https://humblebundle.com/software/opus-fx-superior-plugins-orchestral-elegance-software</link>
@@ -67,20 +74,6 @@
       <description>Hot new assets for Unity</description>
       <content:encoded><![CDATA[Dive into our latest Humble Software Bundle and add hot new assets to your next game or creative project! The Unity Asset Mega Mix Bundle offers 25+ outstanding asset packs bursting with style. Pay what you want and get amazing asset packs like the <em>Modular Castle & Dungeon</em> pack, <em>Blood Effects Pack</em>, <em>Mystify FX</em> pack, and more. Get the professional-quality assets you need to help bring your game to life, and help support Girls Who Code with your purchase!]]></content:encoded>
       <pubDate>Thu, 19 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Complete Python, Machine Learning, Bots and AI Mega Bundle+</title>
-      <link>https://humblebundle.com/software/complete-python-machine-learning-bots-and-ai-mega-bundle-software</link>
-      <description>Data engineering made easier </description>
-      <content:encoded><![CDATA[Looking to break into data science or land your first data engineering role? This exclusive bundle is your complete toolkit for building a job-ready portfolio using Python, Pandas, and Scikit-Learn! Ideal for beginners and career-switchers—every lesson is practical, approachable, and focused on real outcomes. Actively learn from hands-on projects that mirror the challenges faced by real-world data professionals. Get hot courses that’ll prepare you for the field like today and help support The American Cancer Society with your purchase!]]></content:encoded>
-      <pubDate>Mon, 09 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Bang Unreal &amp; Unity Asset Packs Bundle ( 75 Products )</title>
-      <link>https://humblebundle.com/software/big-bang-unreal-unity-asset-packs-bundle-75-products-software</link>
-      <description>5000+ unrivaled assets in one bundle</description>
-      <content:encoded><![CDATA[<iframe width="400" height="315" src="https://www.youtube.com/embed/B0WOTr5_vDQ?si=8ONHLg499EaXT6MM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></br>Calling all game devs—build your worlds with this gigantic bundle of over 5000 assets, including realistic and stylized environments, SFX packs, and powerful tools. Perfect for hobbyists, beginners, and professional developers alike, you'll gain access to essential resources, tutorials, and beta-testing–ready content to start building immediately. The experts at Leartes Studios have curated an amazing library packed with value, featuring environments, VFX packs, and tutorial courses on Unreal Engine, Blender, Substance Painter, and ZBrush.  Get the assets you need to bring your game to life—and help support One Tree Planted with your purchase!  This bundle provides Unity Asset Store keys directly with your purchase, and FAB keys via redemption through Cosmos, if the product is available on those platforms.]]></content:encoded>
-      <pubDate>Mon, 02 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
