@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 17 Jul 2025 16:31:07 +0000</pubDate>
+    <pubDate>Thu, 17 Jul 2025 20:28:00 +0000</pubDate>
+    <item>
+      <title>Open World Adventures Kit</title>
+      <link>https://humblebundle.com/software/open-world-adventures-kit-software</link>
+      <description>Expand your horizons with real-world assets</description>
+      <content:encoded><![CDATA[Level up your game creation with our latest asset bundle from Dekogon! Choose from a massive selection of premium-quality environments and set pieces—subways, safe houses, grocery stores, police stations, and more—with the versatile Open World Adventures Kit. Unlock game-ready assets like the <em>Military Training Facility</em>, <em>1996 Police Headquarters</em>, and others, perfect for expanding environmental storytelling and themed level design. Add style to your next project—and help support Whale and Dolphin Conservation with your purchase!]]></content:encoded>
+      <pubDate>Thu, 17 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Audio Odyssey Vol. 2</title>
       <link>https://humblebundle.com/software/audio-odyssey-vol-2-software</link>
@@ -55,25 +62,11 @@
       <pubDate>Mon, 30 Jun 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Become a 3D Environment/Prop Artist - Mega Tutorial Bundle</title>
-      <link>https://humblebundle.com/software/become-3d-environmentprop-artist-mega-tutorial-bundle-software</link>
-      <description>Create your own immersive 3D environments</description>
-      <content:encoded><![CDATA[Curious about advanced game development and creation? Then become a 3D environmental artist with our latest Mega Tutorial Bundle! Get hot courses and asset packs like the <em>Japanese Environment</em> pack, <em>Large Game Environment Creation</em> guide, <em>Creating Low-Poly Stylized 3D Weapons</em> course, and more. Learn how to build beautiful cherry blossom fields, develop open-world maps, and manipulate low-polygon assets for added style. Pay what you want for professional-quality tools and help support Special Effect with your purchase!]]></content:encoded>
-      <pubDate>Thu, 26 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Miniac presents An Intergalactic SkullForge STL Bundle</title>
       <link>https://humblebundle.com/software/miniac-presents-an-intergalactic-skullforge-stl-bundle-software</link>
       <description>Models from galaxies far, far away</description>
       <content:encoded><![CDATA[Passionate about printables? Miniac presents the Intergalactic SkullForge STL Bundle. Pay what you want and get 20+ hot figure sets that bring life to your games—spend hours perfecting your own playables then show them off to your friends! Print, paint, and customize your own model figures from galaxies far, far away. Add new companions to your collection and help support Oceana with your purchase!]]></content:encoded>
       <pubDate>Mon, 23 Jun 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MEGA MIX Unity Asset Store Pack</title>
-      <link>https://humblebundle.com/software/mega-mix-unity-asset-store-pack-software</link>
-      <description>Hot new assets for Unity</description>
-      <content:encoded><![CDATA[Dive into our latest Humble Software Bundle and add hot new assets to your next game or creative project! The Unity Asset Mega Mix Bundle offers 25+ outstanding asset packs bursting with style. Pay what you want and get amazing asset packs like the <em>Modular Castle & Dungeon</em> pack, <em>Blood Effects Pack</em>, <em>Mystify FX</em> pack, and more. Get the professional-quality assets you need to help bring your game to life, and help support Girls Who Code with your purchase!]]></content:encoded>
-      <pubDate>Thu, 19 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
