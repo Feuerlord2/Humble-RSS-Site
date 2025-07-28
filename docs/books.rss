@@ -4,12 +4,19 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 28 Jul 2025 16:32:36 +0000</pubDate>
+    <pubDate>Mon, 28 Jul 2025 20:29:23 +0000</pubDate>
+    <item>
+      <title>Security by Apress</title>
+      <link>https://humblebundle.com/books/security-apress-books</link>
+      <description>Start securing your systems</description>
+      <content:encoded><![CDATA[Let's be realistic—fraud isn’t slowing down. Start protecting your online systems in no time with the latest Humble Tech Book Bundle from the experts at Apress. This comprehensive library of cybersecurity courses is designed to streamline your security studies and save you money—with standout lessons like <em>The Business of Hacking</em>, <em>Firewalls Don't Stop Dragons</em>, and <em>Privacy in the Age of Innovation</em>. Learn to identify a phishing attack, fraudster, or security breach with ease and help support Worldreader with your purchase.]]></content:encoded>
+      <pubDate>Mon, 28 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Everything Works by DK</title>
       <link>https://humblebundle.com/books/how-everything-works-dk-books</link>
       <description>The why behind your favorite topics</description>
-      <content:encoded><![CDATA[Did you know it took Picasso 12 years to complete the Mona Lisa’s lips? Spoiler: It wasn't Picasso. Uncover the <em>why</em> behind your favorite topics with the all-new How Everything Works Bundle by DK. Fill your summer reading list with a visually informative library that includes titles like <em>How Economics Works</em>, <em>How Art Works</em>, <em>How Space Works</em>, and <em>How Money Works</em>. Pay what you want to unlock a wealth of knowledge and help support First Book with your purchase!]]></content:encoded>
+      <content:encoded><![CDATA[Did you know it took Picasso 12 years to complete the Mona Lisa’s lips? Spoiler: It wasn't Picasso. Uncover the <em>why</em> behind your favorite topics with the all-new How Everything Works Bundle by DK. Fill your summer reading list with a visually informative library that includes titles like <em>How Economics Works</em>, <em>How Art Works</em>, <em>How Space Works</em>, and <em>How Money Works</em>. Pay what you want to unlock a wealth of knowledge and help support First Book with your purchase! <br><br> <a style="color:#EF9741"><strong><em>The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account.</em></strong></a>]]></content:encoded>
       <pubDate>Sat, 26 Jul 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -88,13 +95,6 @@
       <description>From the big screen to your kitchen table</description>
       <content:encoded><![CDATA[Learn how to cook a wide variety of foods from your favorite shows, movies, games, and more with the all-new Pop Culture and Fandom Cookbook Bundle! Take your meals from block to plate with the <em>Minecrafter's Cookbook</em>. Craft food even a zombie would eat with the <em>The Walking Dead: The Official Cookbook and Survival Guide</em>. And ewww, David—you got the <em>Tastes Like Schitt: The Unofficial Schitt's Creek Cookbook</em>? Pay what you want for the most fun cookbook collection around and help support The Global FoodBanking Network with your purchase.]]></content:encoded>
       <pubDate>Thu, 03 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roll Big or Go Home RPG Megabundle</title>
-      <link>https://humblebundle.com/books/roll-big-or-go-home-rpg-megabundle-books</link>
-      <description>Roll big or go home!</description>
-      <content:encoded><![CDATA[Gather up your party for the ultimate TTRPG adventure with the Roll Big or Go Home RPG Megabundle. This legendary 50+ title bundle is jam-packed with rulebooks, auxiliary resources, soundtracks, and more for you to enjoy. Help Aang bring elemental balance to the world in Magpie Games’ <em>Avatar Legends: The Roleplaying Game</em>, use your best chrome to smoke Corpos in R. Talsorian Games’ <em>Cyberpunk RED</em>, and roleplay as a robot in disguise in Renegade Game Studios’ <em>Transformers Roleplaying Game</em>. Play the best games from the best publishers within our biggest TTRPG bundle ever! Plus, a portion of your purchase helps support Extra Life.<br/><br/><a style="color: #ef9741;"><strong><em>The titles in this bundle are available through DriveThruRPG.</em></strong></a>]]></content:encoded>
-      <pubDate>Mon, 30 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

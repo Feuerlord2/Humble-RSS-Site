@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 28 Jul 2025 16:32:36 +0000</pubDate>
+    <pubDate>Mon, 28 Jul 2025 20:29:23 +0000</pubDate>
+    <item>
+      <title>Million Dollar Web Developer - The Complete 100-HOUR Deluxe Bundle</title>
+      <link>https://humblebundle.com/software/million-dollar-web-developer-complete-100hour-deluxe-bundle-software</link>
+      <description>Become a million dollar web developer</description>
+      <content:encoded><![CDATA[Master an array of web development techniques from Fullstack to Python and now: AI with Llama Stack! This powerhouse collection features our most in-demand courses, including the exclusive debut of Llama Stack Essentials – The Foundation for Smarter AI Apps, TensorFlow, React Three Fiber, Google AI Studio, VR and MORE. Learn to build intelligent, private, open-source AI applications using tools like LlamaIndex, LangChain, Ollama, and RAG pipelines—all with no prior experience required. Whether you're coding your first app or upgrading your AI skillset, this is your launchpad. Pay what you want for expert-led training and help support Girls Who Code with your purchase!]]></content:encoded>
+      <pubDate>Mon, 28 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Concept Art Training Bundle Encore</title>
       <link>https://humblebundle.com/software/the-complete-concept-art-training-bundle-software-encore</link>
@@ -24,13 +31,6 @@
       <link>https://humblebundle.com/software/learn-programming-in-2025-mega-bundle-software</link>
       <description>Program like a pro today</description>
       <content:encoded><![CDATA[Learn to program like a pro with our latest Mega Bundle! This gigantic library of programming courses is designed to teach you the fundamentals of the craft and prepare you for a bright future in the field. Standout lessons include <em>Learn Vibe Coding with Cursor</em>, <em>Intro to Algorithms with Python</em>, <em>Intro to C++ Data Structures</em>, and more. Become an expert in a variety of programming fundamentals and help support NPower with your purchase! ]]></content:encoded>
-      <pubDate>Mon, 21 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Norton &amp; Laplink Solid Security Flash Sale</title>
-      <link>https://humblebundle.com/software/norton-laplink-solid-security-flash-sale-software</link>
-      <description>Be everywhere at once with Norton VPN</description>
-      <content:encoded><![CDATA[Don’t wait—protect your PC with our Norton Flash Sale Bundle! Get the latest edition of Norton Antivirus to stop threats before they strike and mask your digital footprint with Norton VPN. Act fast and also receive PCmover Pro Use 1 & 2 and DiskImage 64-bit—essential tools for backup, transfer, and security. Our all-new Norton Flash Sale is tough to beat—pay what you want to safeguard your computer and help support the American Cancer Society with your purchase.]]></content:encoded>
       <pubDate>Mon, 21 Jul 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -81,13 +81,6 @@
       <description>Animate like a big-time pro</description>
       <content:encoded><![CDATA[Calling all animators—it’s time to level up your digital toolbox! Prepare to be blown away by the ultimate animation bundle from Graphixly LLC! Pay what you want for the Moho Pro 12.5 Bundle featuring <em>100 Brushes Content Pack</em>, <em>Characters Content Pack</em>, and <em>School Days Content Pack</em>. Take your skills from novice to pro in no time and help support No Kid Hungry with your purchase.]]></content:encoded>
       <pubDate>Thu, 03 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miniac presents An Intergalactic SkullForge STL Bundle</title>
-      <link>https://humblebundle.com/software/miniac-presents-an-intergalactic-skullforge-stl-bundle-software</link>
-      <description>Models from galaxies far, far away</description>
-      <content:encoded><![CDATA[Passionate about printables? Miniac presents the Intergalactic SkullForge STL Bundle. Pay what you want and get 20+ hot figure sets that bring life to your games—spend hours perfecting your own playables then show them off to your friends! Print, paint, and customize your own model figures from galaxies far, far away. Add new companions to your collection and help support Oceana with your purchase!]]></content:encoded>
-      <pubDate>Mon, 23 Jun 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
