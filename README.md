@@ -105,3 +105,4 @@ If you encounter any issues or have questions:
 **⭐ If this project helped you, please consider giving it a star!**
 
 Made with ❤️ by [Daniel](https://github.com/Feuerlord2)
+
