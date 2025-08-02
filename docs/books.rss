@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 02 Aug 2025 16:28:35 +0000</pubDate>
+    <pubDate>Sat, 02 Aug 2025 20:26:32 +0000</pubDate>
+    <item>
+      <title>The Millarworld Collection</title>
+      <link>https://humblebundle.com/books/millarworld-collection-books</link>
+      <description>Mark Millar’s world of amazing comics</description>
+      <content:encoded><![CDATA[Lose yourself in comic book legend Mark Millar’s exceptional catalog with our latest Humble Book Bundle: The Millarworld Collection. Headlined by the acclaimed <em>The Magic Order</em> series—following five secret wizard families protecting the world from dark forces—this bundle delivers hours of thrilling, high-stakes storytelling. Other standout titles include <em>Nemesis: Reloaded</em> and the <em>Wanted & Big Game Library Edition</em>. Pay what you want for these incredible Mark Millar comics and help support The Hero Initiative with your purchase!]]></content:encoded>
+      <pubDate>Sat, 02 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Award-Winning &amp; Nominated Tabletop RPGs presented by the ENNIE Awards</title>
       <link>https://humblebundle.com/books/awardwinning-nominated-tabletop-rpgs-presented-ennie-awards-books</link>
@@ -81,13 +88,6 @@
       <description>Build real-world hacking skills and stay ahead of cyber threats</description>
       <content:encoded><![CDATA[Master the art of offensive security with The Pentesting & Hacking Toolkit. This curated bundle features hands-on guides and expert resources for ethical hackers, red teamers, and aspiring pentesters. Covering everything from vulnerability discovery to exploitation and post-exploitation techniques, these books provide practical skills to identify and fix security gaps before attackers do. Perfect for all skill levels aiming to level up in cybersecurity.]]></content:encoded>
       <pubDate>Mon, 07 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get Good with Money</title>
-      <link>https://humblebundle.com/books/get-good-with-money-books</link>
-      <description>Level up your financial literacy</description>
-      <content:encoded><![CDATA[Stop wasting your money—start mastering it. Learn the financial skills you need to succeed with the all-new Get Good With Money Bundle. Shift your money mindset with top ebooks like <em>Money Hacks Handbook</em>, <em>Prepper's Financial Guide</em>, <em>Think Like a Self-Made Millionaire</em>, and more. You won’t get rich overnight, but you’ll gain the tools to flip your financial script. Pay what you want to level up your financial literacy and help support Child’s Play Charity!]]></content:encoded>
-      <pubDate>Sat, 05 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
