@@ -4,7 +4,7 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 05 Aug 2025 02:06:58 +0000</pubDate>
+    <pubDate>Tue, 05 Aug 2025 08:34:46 +0000</pubDate>
     <item>
       <title>The Ultimate C++ Developer Masterclass by Packt</title>
       <link>https://humblebundle.com/books/ultimate-c-developer-masterclass-packt-books</link>
@@ -88,13 +88,6 @@
       <description>Space: The final frontier—of comics</description>
       <content:encoded><![CDATA[Captain the Starship Enterprise from the comfort of your own home with the Star Trek Comics Megabundle! Since 1966, <em>Star Trek</em> has inspired generations with bold, scifi-defining stories told across TV, film, games—and comics. Now, explore nearly 100 titles in this epic library, including <em>Star Trek: Strange New Worlds—The Illyrian Enigma</em>, <em>Star Trek: Defiant, Vol. 1</em>, <em>Star Trek, Vol. 1: Godshock</em>, and many more. Pay what you want for stellar comics and help support The Comic Book Legal Defense Fund with your purchase!]]></content:encoded>
       <pubDate>Sat, 12 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pentesting &amp; Hacking Toolkit by Packt</title>
-      <link>https://humblebundle.com/books/pentesting-hacking-toolkit-packt-books</link>
-      <description>Build real-world hacking skills and stay ahead of cyber threats</description>
-      <content:encoded><![CDATA[Master the art of offensive security with The Pentesting & Hacking Toolkit. This curated bundle features hands-on guides and expert resources for ethical hackers, red teamers, and aspiring pentesters. Covering everything from vulnerability discovery to exploitation and post-exploitation techniques, these books provide practical skills to identify and fix security gaps before attackers do. Perfect for all skill levels aiming to level up in cybersecurity.]]></content:encoded>
-      <pubDate>Mon, 07 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
