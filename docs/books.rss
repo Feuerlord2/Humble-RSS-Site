@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 09 Aug 2025 16:27:55 +0000</pubDate>
+    <pubDate>Sat, 09 Aug 2025 20:26:09 +0000</pubDate>
+    <item>
+      <title>The Witcher Tabletop RPG by R. Talsorian Games</title>
+      <link>https://humblebundle.com/books/witcher-tabletop-rpg-r-talsorian-games-books</link>
+      <description>Spare a coin for The Witcher TTRPG</description>
+      <content:encoded><![CDATA[Evil is evil—and great games are great games. Pay what you want to explore The Continent like never before. Will you fight with strength and valor like Geralt of Rivia? Or forge your own path as an elf, dwarf, gnome, werebbubb, or vran, and set off on unknown adventures with your party. Get the The Witcher Tabletop RPG core rulebook, the <em>The Witcher: Tome of Chaos</em> campaign, and more for a price you choose. Spare a coin and help support the Children's Miracle Network Hospitals with your purchase. <br><br><a style="color: #EF9741;"><strong><em>The titles in this bundle are available through: DriveThruRPG</em></strong></a></p>]]></content:encoded>
+      <pubDate>Sat, 09 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comfort Crochet, Amigurumi, and Knitting by Open Road Media</title>
       <link>https://humblebundle.com/books/comfort-crochet-amigurumi-and-knitting-open-road-media-books</link>
@@ -81,13 +88,6 @@
       <description>Get serious about web dev</description>
       <content:encoded><![CDATA[Bear down on your fields of expertise with these guides from Manning. Learn everything you need to know about React, JavaScript, and more modern APIs. Through a mix of how-to guides, and expert advice, you’ll learn key concepts and fundamentals, explore design patterns and best practices, and get a handle on a range of applications and scenarios. Plus, your purchase helps support Girls Who Code! ]]></content:encoded>
       <pubDate>Mon, 14 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Trek Comics Megabundle</title>
-      <link>https://humblebundle.com/books/star-trek-comics-megabundle-books</link>
-      <description>Space: The final frontier—of comics</description>
-      <content:encoded><![CDATA[Captain the Starship Enterprise from the comfort of your own home with the Star Trek Comics Megabundle! Since 1966, <em>Star Trek</em> has inspired generations with bold, scifi-defining stories told across TV, film, games—and comics. Now, explore nearly 100 titles in this epic library, including <em>Star Trek: Strange New Worlds—The Illyrian Enigma</em>, <em>Star Trek: Defiant, Vol. 1</em>, <em>Star Trek, Vol. 1: Godshock</em>, and many more. Pay what you want for stellar comics and help support The Comic Book Legal Defense Fund with your purchase!]]></content:encoded>
-      <pubDate>Sat, 12 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
