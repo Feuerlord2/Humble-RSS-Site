@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 11 Aug 2025 16:31:34 +0000</pubDate>
+    <pubDate>Mon, 11 Aug 2025 20:25:40 +0000</pubDate>
+    <item>
+      <title>Linux Complete by Pearson</title>
+      <link>https://humblebundle.com/books/linux-complete-pearson-books</link>
+      <description>Limitless Linux by Pearson</description>
+      <content:encoded><![CDATA[Level up your Linux skills with the latest Humble Tech Book Bundle with courses by Pearson. Linux offers unparalleled customization, security, and flexibility—all wrapped in a user-friendly, open-source package. Get professional-quality lessons like <em>UNIX® and Linux® System Administration Handbook, Fifth Edition</em>, <em>Learn Enough Developer Tools to Be Dangerous</em>, and more. Pay what you want for a whole new user experience on your favorite machine—and help support The BINC Foundation with your purchase! <br><br><a style="color: #EF9741;"><strong><em>The video courses in this bundle are available through InformIT</em></strong></a></p>]]></content:encoded>
+      <pubDate>Mon, 11 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Witcher Tabletop RPG by R. Talsorian Games</title>
       <link>https://humblebundle.com/books/witcher-tabletop-rpg-r-talsorian-games-books</link>
@@ -69,25 +76,11 @@
       <pubDate>Thu, 24 Jul 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SQL and Databases by O&#39;Reilly</title>
-      <link>https://humblebundle.com/books/sql-and-databases-oreilly-books</link>
-      <description>The scorching hot SQL bundle</description>
-      <content:encoded><![CDATA[Level up your programming skills with the all-new SQL and Databases Bundle by O’Reilly! Learn the industry-standard language for managing and manipulating data in relational databases—and so much more. This expansive course library features essential titles like <em>Learning PHP, MySQL & JavaScript</em> and <em>DuckDB: Up and Running</em>. Whether you're a novice programmer or a seasoned pro, you'll find resources to sharpen your skills and open new doors in tech. Pay what you want and help support Code for America with your purchase!]]></content:encoded>
-      <pubDate>Mon, 21 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Frightening and Fantastic Worlds of James Tynion IV</title>
       <link>https://humblebundle.com/books/frightening-and-fantastic-worlds-james-tynion-iv-books</link>
       <description>The most frightening and fantastic graphic novels</description>
       <content:encoded><![CDATA[Take a walk off the beaten literary path and explore the eerie, frightening worlds of James Tynion IV. Our latest comics bundle offers atmospheric and unique ebooks that will surely spice up your summer reading—dive into acclaimed series like <em>The Nice House on the Lake </em>, <em>Something is Killing the Children</em>, <em>The Oddly Pedestrian Life of Christopher Chaos</em>, and more. Don’t be scared—explore the frightening and fantastic worlds of James Tynion IV and help support The BINC Foundation with your purchase!<br/><br/><a style="color: #ef9741;"><strong><em>The Nice House on the Lake Vol. 1 and 2 will be available to redeem in August 2025.</em></strong></a>]]></content:encoded>
       <pubDate>Thu, 17 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serious Web Development with React, JavaScript, and modern APIs by Manning</title>
-      <link>https://humblebundle.com/books/serious-web-development-with-react-javascript-and-modern-apis-manning-books</link>
-      <description>Get serious about web dev</description>
-      <content:encoded><![CDATA[Bear down on your fields of expertise with these guides from Manning. Learn everything you need to know about React, JavaScript, and more modern APIs. Through a mix of how-to guides, and expert advice, you’ll learn key concepts and fundamentals, explore design patterns and best practices, and get a handle on a range of applications and scenarios. Plus, your purchase helps support Girls Who Code! ]]></content:encoded>
-      <pubDate>Mon, 14 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
