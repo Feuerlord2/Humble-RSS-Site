@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 18 Aug 2025 16:30:30 +0000</pubDate>
+    <pubDate>Mon, 18 Aug 2025 20:25:02 +0000</pubDate>
+    <item>
+      <title>Software Architecture 2025 by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/software-architecture-2025-oreilly-books</link>
+      <description>Software architecture made easy</description>
+      <content:encoded><![CDATA[Level up your skills in software architecture with the latest Humble Tech Book Bundle. Unlock hundreds of hours of valuable information inside this 25 course library. Gain expert insights from professional-quality lessons like <em>Cloud Application Architecture Patterns</em>, <em>Facilitating Software Architecture</em>, and more—pay what you want to deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
+      <pubDate>Mon, 18 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The New Frontier of Comics from DSTLRY</title>
       <link>https://humblebundle.com/books/new-frontier-comics-from-dstlry-books</link>
@@ -60,13 +67,6 @@
       <description>Celebrate the ENNIE Awards with hot TTRPGs</description>
       <content:encoded><![CDATA[Celebrate the ENNIE Awards with hot TTRPGs.</strong> Celebrate the 2025 ENNIE Awards with a bundle of award-winning and nominated tabletop RPGs! We’ve teamed up with industry-leading publishers including Renegade Games, Free League, and Green Ronin to curate a library of awesome mainline campaigns and auxiliary materials. Play the very best games on the market like <em>Vampire: The Masquerade Auld Sanguine</em>, <em>Call of Cthulhu</em>, <em>The Fall of Delta Green</em>, <em>Dungeon Crawl Classics</em>, <em>The One Ring™</em>, and more. Dip a toe or two into new TTRPGs and add the coolest titles to your games collection—pay what you want and help support Extra Life with your purchase!<br><br><a style="color: #EF9741;"><strong><em>The titles in this bundle are available through two partners: some on DriveThruRPG, and some with Paizo.</em></strong></a></p>]]></content:encoded>
       <pubDate>Thu, 31 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security by Apress</title>
-      <link>https://humblebundle.com/books/security-apress-books</link>
-      <description>Start securing your systems</description>
-      <content:encoded><![CDATA[Let's be realistic—fraud isn’t slowing down. Start protecting your online systems in no time with the latest Humble Tech Book Bundle from the experts at Apress. This comprehensive library of cybersecurity courses is designed to streamline your security studies and save you money—with standout lessons like <em>The Business of Hacking</em>, <em>Firewalls Don't Stop Dragons</em>, and <em>Privacy in the Age of Innovation</em>. Learn to identify a phishing attack, fraudster, or security breach with ease and help support Worldreader with your purchase.]]></content:encoded>
-      <pubDate>Mon, 28 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
