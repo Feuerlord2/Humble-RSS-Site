@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 19 Aug 2025 16:28:47 +0000</pubDate>
+    <pubDate>Tue, 19 Aug 2025 20:25:49 +0000</pubDate>
+    <item>
+      <title>Blender 3D Modeling Course Bundle</title>
+      <link>https://humblebundle.com/software/blender-3d-modeling-course-bundle-software</link>
+      <description>Mix it up with Blender assets</description>
+      <content:encoded><![CDATA[Add open-source 3D creation skills to your toolkit with our latest Software Bundle: Blender 3D Modeling Courses! Whether you’re a beginner or a seasoned pro, get comprehensive, professional-quality training covering every aspect of Blender in one complete library.  Learn from standout sessions from Eldamar Studio like <em>Learn Geometry Nodes Animation in Blender</em>, the <em>Creating a Modern House In Blender Course</em>, the <em>Procedural Materials In Blender Course</em>, and more. Pay what you want for priceless 3D modeling skills—and help support Save the Children with your purchase!]]></content:encoded>
+      <pubDate>Tue, 19 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Materia Collective Original Soundtrack Bundle</title>
       <link>https://humblebundle.com/software/materia-collective-original-soundtrack-bundle-software</link>
@@ -55,13 +62,6 @@
       <pubDate>Thu, 31 Jul 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Complete Data Science Developer Bundle</title>
-      <link>https://humblebundle.com/software/complete-data-science-developer-bundle-software</link>
-      <description>Data Science designed for you</description>
-      <content:encoded><![CDATA[Pay what you want for The Complete Data Science Developer Bundle from Treehouse and kickstart your tech journey with expert-led lessons. This comprehensive curriculum is designed to help you build a strong foundation in Python, SQL, and other essential data science tools. Start learning with core courses like <em>SQL Basics</em>, <em>Intro to Data Analysis</em>, <em>Machine Learning Basics</em>, and more. Get the expert advice and knowledge you seek, and help support Oceana.org with your purchase!]]></content:encoded>
-      <pubDate>Tue, 29 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Complete Concept Art Training Bundle Encore</title>
       <link>https://humblebundle.com/software/the-complete-concept-art-training-bundle-software-encore</link>
       <description>Art training from the pros at Learn Squared</description>
@@ -74,13 +74,6 @@
       <description>Elite graphic design suite supersale</description>
       <content:encoded><![CDATA[Level up your creative toolkit with <em>CorelDRAW Graphics Suite 2024.</em> Save big too—more than $475 off MSRP! Get vector illustration, layout assistance, photo editing, and typography tools with this professional-level software. Pay what you want to create with freedom and help support the Children's Miracle Network via Extra Life with your purchase. Act fast—this special promotion won’t last long]]></content:encoded>
       <pubDate>Thu, 24 Jul 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audio Odyssey Vol. 2</title>
-      <link>https://humblebundle.com/software/audio-odyssey-vol-2-software</link>
-      <description>Embark on an audio odyssey</description>
-      <content:encoded><![CDATA[Want to level up the sound design on your next game or creative project? Stop wasting time and call in the heavy hitters with powerful asset packs like the <em>Anime Music Pack</em>, <em>Mutated Beings Sound FX Pack</em>, <em>Orchestral Ambient Music Pack</em>, and more. Set sail for savings and stellar sound with the Sound Odyssey Bundle from Ovani Sound—your go-to source for crafting the perfect audioscape. Pay what you want for this ultimate audio asset collection and help support the Children's Miracle Network with your purchase!]]></content:encoded>
-      <pubDate>Tue, 15 Jul 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
