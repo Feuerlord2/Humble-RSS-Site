@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 01 Sep 2025 16:26:06 +0000</pubDate>
+    <pubDate>Mon, 01 Sep 2025 20:23:22 +0000</pubDate>
+    <item>
+      <title>Create the Future Now! MEAP Early Access Program Books and liveProjects by Manning</title>
+      <link>https://humblebundle.com/books/create-future-now-meap-early-access-program-books-and-liveprojects-manning-books</link>
+      <description>Create the future now with Python</description>
+      <content:encoded><![CDATA[Learn the skills of the future and beyond with the latest Humble Tech Learning Bundle. This comprehensive library of early access program books and liveProjects courses is designed to help you master Multifunctional Enterprise Application Platforms (MEAP) with lessons like <em>Python Workout, Second Edition</em>, <em>Secrets of the JavaScript Ninja, Third Edition</em>, and more. Start a new career using AI, Python, and more today—plus, a portion of your purchase helps support the charity of your choice.]]></content:encoded>
+      <pubDate>Mon, 01 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dungeon Master’s Guild Top Content from the D&amp;D Community</title>
       <link>https://humblebundle.com/books/dungeon-masters-guild-bestselling-tabletop-dd-community-books</link>
@@ -20,17 +27,17 @@
       <pubDate>Thu, 28 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Ultimate C++ Developer Masterclass by Packt</title>
-      <link>https://humblebundle.com/books/ultimate-c-developer-masterclass-packt-books</link>
-      <description>Get smart in C++</description>
-      <content:encoded><![CDATA[Master the ultimate high-performance, general-purpose programming language with our C++ lessons bundle from the experts at Packt. C++ supports multiple programming paradigms—including procedural, object-oriented, and generic programming—making it the perfect starting point for your journey as a developer. Learn from top-rated courses like <em>C++ Memory Management</em>, <em>C++ in Embedded Systems</em>, <em>Asynchronous Programming with C++</em>, and more. Elevate your C++ skills and help support The Global FoodBanking Network with your purchase!]]></content:encoded>
-      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloud Infrastructure and DevOps Toolkit by Packt</title>
       <link>https://humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books</link>
       <description>Live in the clouds with AWS &amp; Azure</description>
       <content:encoded><![CDATA[Become a 21st-century superstar with the latest Humble Tech Book Bundle: Cloud Infrastructure and DevOps Toolkit. Learn the intricacies of Amazon Web Services with industry-leading courses like <em>AWS for Solutions Architects</em> and <em>AWS Cloud Projects</em>—master Microsoft Azure with professional-quality lessons like <em>Hands-On MLOps on Azure</em> and <em>Azure for Developers</em>. This comprehensive library includes lessons, practice tests, and resources perfect for novices and seasoned professionals alike—build strong foundations in cloud infrastructure and help support No Kid Hungry with your purchase.]]></content:encoded>
+      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate C++ Developer Masterclass by Packt</title>
+      <link>https://humblebundle.com/books/ultimate-c-developer-masterclass-packt-books</link>
+      <description>Get smart in C++</description>
+      <content:encoded><![CDATA[Master the ultimate high-performance, general-purpose programming language with our C++ lessons bundle from the experts at Packt. C++ supports multiple programming paradigms—including procedural, object-oriented, and generic programming—making it the perfect starting point for your journey as a developer. Learn from top-rated courses like <em>C++ Memory Management</em>, <em>C++ in Embedded Systems</em>, <em>Asynchronous Programming with C++</em>, and more. Elevate your C++ skills and help support The Global FoodBanking Network with your purchase!]]></content:encoded>
       <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
       <description>Swords, sorcery &amp; sensational comics</description>
       <content:encoded><![CDATA[Lose yourself in 20 years of action-packed adventures with the iconic antiheroine Red Sonja in the latest Humble Comics Bundle from Dynamite Entertainment! Dive into a massive library filled with fan-favorite titles like <em>Red Sonja Vol. 5 #1–28</em>, <em>Red Sonja: She-Devil With a Sword #1–13</em>, <em>Red Sonja: Birth of the She-Devil #1–4</em>, and more—starring the legendary warrior herself. Get 40+ comics celebrating two decades of sword-swinging excellence—and help support World Central Kitchen with your purchase!]]></content:encoded>
       <pubDate>Thu, 14 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Complete by Pearson</title>
-      <link>https://humblebundle.com/books/linux-complete-pearson-books</link>
-      <description>Limitless Linux by Pearson</description>
-      <content:encoded><![CDATA[Level up your Linux skills with the latest Humble Tech Book Bundle with courses by Pearson. Linux offers unparalleled customization, security, and flexibility—all wrapped in a user-friendly, open-source package. Get professional-quality lessons like <em>UNIX® and Linux® System Administration Handbook, Fifth Edition</em>, <em>Learn Enough Developer Tools to Be Dangerous</em>, and more. Pay what you want for a whole new user experience on your favorite machine—and help support The BINC Foundation with your purchase! <br><br><a style="color: #EF9741;"><strong><em>The video courses in this bundle are available through InformIT</em></strong></a></p>]]></content:encoded>
-      <pubDate>Mon, 11 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Witcher Tabletop RPG by R. Talsorian Games</title>
