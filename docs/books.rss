@@ -4,7 +4,7 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 04 Sep 2025 20:23:49 +0000</pubDate>
+    <pubDate>Thu, 04 Sep 2025 22:08:10 +0000</pubDate>
     <item>
       <title>Pathfinder Primer Bundle by Paizo</title>
       <link>https://humblebundle.com/books/pathfinder-primer-bundle-paizo-books</link>
@@ -34,17 +34,17 @@
       <pubDate>Thu, 28 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloud Infrastructure and DevOps Toolkit by Packt</title>
-      <link>https://humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books</link>
-      <description>Live in the clouds with AWS &amp; Azure</description>
-      <content:encoded><![CDATA[Become a 21st-century superstar with the latest Humble Tech Book Bundle: Cloud Infrastructure and DevOps Toolkit. Learn the intricacies of Amazon Web Services with industry-leading courses like <em>AWS for Solutions Architects</em> and <em>AWS Cloud Projects</em>—master Microsoft Azure with professional-quality lessons like <em>Hands-On MLOps on Azure</em> and <em>Azure for Developers</em>. This comprehensive library includes lessons, practice tests, and resources perfect for novices and seasoned professionals alike—build strong foundations in cloud infrastructure and help support No Kid Hungry with your purchase.]]></content:encoded>
-      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Ultimate C++ Developer Masterclass by Packt</title>
       <link>https://humblebundle.com/books/ultimate-c-developer-masterclass-packt-books</link>
       <description>Get smart in C++</description>
       <content:encoded><![CDATA[Master the ultimate high-performance, general-purpose programming language with our C++ lessons bundle from the experts at Packt. C++ supports multiple programming paradigms—including procedural, object-oriented, and generic programming—making it the perfect starting point for your journey as a developer. Learn from top-rated courses like <em>C++ Memory Management</em>, <em>C++ in Embedded Systems</em>, <em>Asynchronous Programming with C++</em>, and more. Elevate your C++ skills and help support The Global FoodBanking Network with your purchase!]]></content:encoded>
+      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Infrastructure and DevOps Toolkit by Packt</title>
+      <link>https://humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books</link>
+      <description>Live in the clouds with AWS &amp; Azure</description>
+      <content:encoded><![CDATA[Become a 21st-century superstar with the latest Humble Tech Book Bundle: Cloud Infrastructure and DevOps Toolkit. Learn the intricacies of Amazon Web Services with industry-leading courses like <em>AWS for Solutions Architects</em> and <em>AWS Cloud Projects</em>—master Microsoft Azure with professional-quality lessons like <em>Hands-On MLOps on Azure</em> and <em>Azure for Developers</em>. This comprehensive library includes lessons, practice tests, and resources perfect for novices and seasoned professionals alike—build strong foundations in cloud infrastructure and help support No Kid Hungry with your purchase.]]></content:encoded>
       <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
