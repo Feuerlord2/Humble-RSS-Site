@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 06 Sep 2025 16:23:22 +0000</pubDate>
+    <pubDate>Sat, 06 Sep 2025 20:21:27 +0000</pubDate>
+    <item>
+      <title>Image in the 2000s</title>
+      <link>https://humblebundle.com/books/image-in-2000s-books</link>
+      <description>Open the Image Comics vault </description>
+      <content:encoded><![CDATA[Head back to the turn of the millennium, courtesy of Image Comics! Pick up acclaimed series including <em>Chew</em>, <em>I Kill Giants</em>, <em>Age of Bronze</em>, and more. Plus, expand your collection with the continued adventures of legendary characters like Spawn, Savage Dragon, and Witchblade. Thousands of pages await your virtual bookshelf, and each purchase supports The Book Industry Charitable Foundation!]]></content:encoded>
+      <pubDate>Sat, 06 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pathfinder Primer Bundle by Paizo</title>
       <link>https://humblebundle.com/books/pathfinder-primer-bundle-paizo-books</link>
@@ -67,20 +74,6 @@
       <description>Software architecture made easy</description>
       <content:encoded><![CDATA[Level up your skills in software architecture with the latest Humble Tech Book Bundle. Unlock hundreds of hours of valuable information inside this 25 course library. Gain expert insights from professional-quality lessons like <em>Cloud Application Architecture Patterns</em>, <em>Facilitating Software Architecture</em>, and more—pay what you want to deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
       <pubDate>Mon, 18 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Frontier of Comics from DSTLRY</title>
-      <link>https://humblebundle.com/books/new-frontier-comics-from-dstlry-books</link>
-      <description>Refined comics from DSTLRY</description>
-      <content:encoded><![CDATA[Expand your personal library and explore the rich worlds and captivating stories of DSTLRY with the all-new New Frontier of Comics Bundle! This 25+ comic collection features <em>Somna</em>, <em>Gone</em>, <em>Spectregraph</em>, and more from one of the medium’s freshest indie publishers. DSTLRY is creator-owned, offers awesome limited-edition runs, and focuses on digital distribution. Lose yourself in this expansive library and help support BINC with your purchase! ]]></content:encoded>
-      <pubDate>Sat, 16 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Witcher Tabletop RPG by R. Talsorian Games</title>
-      <link>https://humblebundle.com/books/witcher-tabletop-rpg-r-talsorian-games-books</link>
-      <description>Spare a coin for The Witcher TTRPG</description>
-      <content:encoded><![CDATA[Evil is evil—and great games are great games. Pay what you want to explore The Continent like never before. Will you fight with strength and valor like Geralt of Rivia? Or forge your own path as an elf, dwarf, gnome, werebbubb, or vran, and set off on unknown adventures with your party. Get the The Witcher Tabletop RPG core rulebook, the <em>The Witcher: Tome of Chaos</em> campaign, and more for a price you choose. Spare a coin and help support the Children's Miracle Network Hospitals with your purchase. <br><br><a style="color: #EF9741;"><strong><em>The titles in this bundle are available through: DriveThruRPG</em></strong></a></p>]]></content:encoded>
-      <pubDate>Sat, 09 Aug 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
