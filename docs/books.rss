@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 08 Sep 2025 16:26:43 +0000</pubDate>
+    <pubDate>Mon, 08 Sep 2025 20:24:56 +0000</pubDate>
+    <item>
+      <title>Ultimate Programming Languages Bundle by Packt</title>
+      <link>https://humblebundle.com/books/ultimate-programming-languages-bundle-packt-books</link>
+      <description>The Ultimate Programming Bundle</description>
+      <content:encoded><![CDATA[Unlock the world of programming with Packt’s Ultimate Programming Languages Bundle. Whether you’re writing your very first line of code or levelling up your professional skills, this collection of 35 expert books will guide you through today’s most important languages. Start at the foundation with accessible guides to Python and JavaScript, perfect for beginners who want to grasp the essentials quickly. Move up a tier to expand your toolkit with Java, C++, and Go, plus deeper dives into object-oriented programming and clean software design. Pay a little more and gain full access to the complete library of 26 additional titles, covering Rust, Kotlin, Swift, TypeScript, PHP, and Haskell alongside advanced Python, C++, and Java resources. Explore cookbooks, design pattern handbooks, and in-depth problem solvers that help you write cleaner, faster, and more professional code. This bundle is your passport to mastering the full spectrum of modern programming. Whether your goal is to build software from scratch, explore functional and object-oriented paradigms, or sharpen your craft with advanced techniques, you’ll find the resources here. Best of all, your purchase helps support charity while you expand your coding skills.]]></content:encoded>
+      <pubDate>Mon, 08 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Image in the 2000s</title>
       <link>https://humblebundle.com/books/image-in-2000s-books</link>
@@ -39,13 +46,6 @@
       <description>Level up your TTRPG life-stats (+10)</description>
       <content:encoded><![CDATA[Add new tabletop RPG skills, techniques, and knowledge to your gaming toolbelt with the all-new Humble Book Bundle: The Ultimate Guide to Tabletop RPGs, Worldbuilding, and Folklore. This massive library of curated titles from Adams Media is perfect for TTRPG mega-fans and newcomers alike. Discover exciting insights from ebooks like <em>Ultimate RPG Game Master's Guide</em>, <em>Norse Mythology: The Gods, Goddesses, and Heroes Handbook</em>, and more. Level up your TTRPG life-stats (+10) and help support Worldreader with your purchase!]]></content:encoded>
       <pubDate>Thu, 28 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ultimate C++ Developer Masterclass by Packt</title>
-      <link>https://humblebundle.com/books/ultimate-c-developer-masterclass-packt-books</link>
-      <description>Get smart in C++</description>
-      <content:encoded><![CDATA[Master the ultimate high-performance, general-purpose programming language with our C++ lessons bundle from the experts at Packt. C++ supports multiple programming paradigms—including procedural, object-oriented, and generic programming—making it the perfect starting point for your journey as a developer. Learn from top-rated courses like <em>C++ Memory Management</em>, <em>C++ in Embedded Systems</em>, <em>Asynchronous Programming with C++</em>, and more. Elevate your C++ skills and help support The Global FoodBanking Network with your purchase!]]></content:encoded>
-      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cloud Infrastructure and DevOps Toolkit by Packt</title>
