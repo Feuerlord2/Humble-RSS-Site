@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 22 Sep 2025 16:28:07 +0000</pubDate>
+    <pubDate>Mon, 22 Sep 2025 20:24:30 +0000</pubDate>
+    <item>
+      <title>Cisco Networking and Certification by Cisco Press/Pearson</title>
+      <link>https://humblebundle.com/books/cisco-networking-and-certification-cisco-presspearson-books</link>
+      <description>Ace networking certs with ease</description>
+      <content:encoded><![CDATA[Ready to take your Cisco networking certification exams seriously? Then you need the latest Humble Tech Book Bundle from Pearson. Learn everything you need from IT support to security identity management within one curated library of courses. <br><br>Get the hottest and most comprehensive official certification guides like <em>CCNP SPCOR 350-501</em>, <em>CCNP and CCIE Security Core SCOR 350-701</em>, and more—plus, the prep guide, <em>31 Days Before your CCNA Exam</em>. Dominate your exams and help support Active Minds with your purchase.]]></content:encoded>
+      <pubDate>Mon, 22 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Warhammer RPG Starter Bundle by Cubicle7</title>
       <link>https://humblebundle.com/books/warhammer-rpg-starter-bundle-cubicle7-books</link>
@@ -69,13 +76,6 @@
       <pubDate>Thu, 04 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Create the Future Now! MEAP Early Access Program Books and liveProjects by Manning</title>
-      <link>https://humblebundle.com/books/create-future-now-meap-early-access-program-books-and-liveprojects-manning-books</link>
-      <description>Create the future now with early access to these Manning books!</description>
-      <content:encoded><![CDATA[Learn the skills of the future and beyond with the latest Humble Tech Learning Bundle. This comprehensive library of Manning Early Access Program books and hands-on liveProjects will give you a head start on your next big thing. This bundle includes AI Applications Made Easy, Learn Docker in a Monty of Lunches, Python Workout, Second Edition, Secrets of the JavaScript Ninja, Third Edition, and other bestsellers. Start a new career using AI, learn to program in Python or C,  and more today! The future is yours—plus, a portion of your purchase helps support the charity of your choice.]]></content:encoded>
-      <pubDate>Mon, 01 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dungeon Master’s Guild Top Content from the D&amp;D Community</title>
       <link>https://humblebundle.com/books/dungeon-masters-guild-bestselling-tabletop-dd-community-books</link>
       <description>Jump-start your next campaign</description>
@@ -95,13 +95,6 @@
       <description>Live in the clouds with AWS &amp; Azure</description>
       <content:encoded><![CDATA[Become a 21st-century superstar with the latest Humble Tech Book Bundle: Cloud Infrastructure and DevOps Toolkit. Learn the intricacies of Amazon Web Services with industry-leading courses like <em>AWS for Solutions Architects</em> and <em>AWS Cloud Projects</em>—master Microsoft Azure with professional-quality lessons like <em>Hands-On MLOps on Azure</em> and <em>Azure for Developers</em>. This comprehensive library includes lessons, practice tests, and resources perfect for novices and seasoned professionals alike—build strong foundations in cloud infrastructure and help support No Kid Hungry with your purchase.]]></content:encoded>
       <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Software Architecture 2025 by O&#39;Reilly</title>
-      <link>https://humblebundle.com/books/software-architecture-2025-oreilly-books</link>
-      <description>Software architecture made easy</description>
-      <content:encoded><![CDATA[Level up your skills in software architecture with the latest Humble Tech Book Bundle. Unlock hundreds of hours of valuable information inside this 25 course library. Gain expert insights from professional-quality lessons like <em>Cloud Application Architecture Patterns</em>, <em>Facilitating Software Architecture</em>, and more—pay what you want to deepen your understanding whether you’re a novice or a seasoned professional, and help support Code for America with your purchase!]]></content:encoded>
-      <pubDate>Mon, 18 Aug 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
