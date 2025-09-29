@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 29 Sep 2025 16:22:26 +0000</pubDate>
+    <pubDate>Mon, 29 Sep 2025 20:21:56 +0000</pubDate>
+    <item>
+      <title>Cybersecurity Month by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/cybersecurity-month-oreilly-books</link>
+      <description>Buckle up for Cybersecurity Month</description>
+      <content:encoded><![CDATA[Online scams and malware are everywhere in 2025—what are you doing to protect yourself? Prevent security breaches before they happen with the techniques and tools from the Humble Tech Book Bundle: Cybersecurity Month by O’Reilly. Top titles from this curated library include <em>Intelligent Continuous Security</em> and <em>Attack Surface Management</em>. Learn software supply chain security and DevSecOps, build an original cyber risk management program, and more. Pay what you want to gain essential digital defense skills and help support Code for America with your purchase.]]></content:encoded>
+      <pubDate>Mon, 29 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mike Mignola&#39;s Hellboy, Witchfinder and More</title>
       <link>https://humblebundle.com/books/mike-mignolas-hellboy-witchfinder-and-more-books</link>
@@ -67,20 +74,6 @@
       <description>Fall in love with Shojo </description>
       <content:encoded><![CDATA[Fill up on shojo manga this fall as Kodansha and Humble team-up to offer fans digital volumes of dramatic, heartwarming, and surprising sagas during the Fall In Love With Shojo Bundle! Just $30 gets you more than 80 digital volumes and over $900 worth of manga. This includes all volumes of modern classics like the love story steeped in trauma and healing, MARS, the magical girl adventure Shugo Chara!, the frenemies and lovers high school rom-com, Peach Girl, and more. Not only that but fans can catch up on nearly all volumes of the ongoing tender and wholesome school days romance, A Condition Called Love. It’s a perfect bundle for anyone who loves shojo or is curious to try some of Kodansha’s best. Explore amazing shojo manga from Kodansha and help support The BINC Foundation with your purchase!]]></content:encoded>
       <pubDate>Thu, 11 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultimate Programming Languages Bundle by Packt</title>
-      <link>https://humblebundle.com/books/ultimate-programming-languages-bundle-packt-books</link>
-      <description>The Ultimate Programming Bundle</description>
-      <content:encoded><![CDATA[Unlock the world of programming with Packt’s Ultimate Programming Languages Bundle. Whether you’re writing your very first line of code or levelling up your professional skills, this collection of 35 expert books will guide you through today’s most important languages. Start at the foundation with accessible guides to Python and JavaScript, perfect for beginners who want to grasp the essentials quickly. Move up a tier to expand your toolkit with Java, C++, and Go, plus deeper dives into object-oriented programming and clean software design. Pay a little more and gain full access to the complete library of 26 additional titles, covering Rust, Kotlin, Swift, TypeScript, PHP, and Haskell alongside advanced Python, C++, and Java resources. Explore cookbooks, design pattern handbooks, and in-depth problem solvers that help you write cleaner, faster, and more professional code. This bundle is your passport to mastering the full spectrum of modern programming. Whether your goal is to build software from scratch, explore functional and object-oriented paradigms, or sharpen your craft with advanced techniques, you’ll find the resources here. Best of all, your purchase helps support charity while you expand your coding skills.]]></content:encoded>
-      <pubDate>Mon, 08 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Infrastructure and DevOps Toolkit by Packt</title>
-      <link>https://humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books</link>
-      <description>Live in the clouds with AWS &amp; Azure</description>
-      <content:encoded><![CDATA[Become a 21st-century superstar with the latest Humble Tech Book Bundle: Cloud Infrastructure and DevOps Toolkit. Learn the intricacies of Amazon Web Services with industry-leading courses like <em>AWS for Solutions Architects</em> and <em>AWS Cloud Projects</em>—master Microsoft Azure with professional-quality lessons like <em>Hands-On MLOps on Azure</em> and <em>Azure for Developers</em>. This comprehensive library includes lessons, practice tests, and resources perfect for novices and seasoned professionals alike—build strong foundations in cloud infrastructure and help support No Kid Hungry with your purchase.]]></content:encoded>
-      <pubDate>Mon, 25 Aug 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
