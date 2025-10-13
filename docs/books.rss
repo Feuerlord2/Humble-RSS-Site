@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 13 Oct 2025 16:27:49 +0000</pubDate>
+    <pubDate>Mon, 13 Oct 2025 20:25:15 +0000</pubDate>
+    <item>
+      <title>Python Programming by Pearson</title>
+      <link>https://humblebundle.com/books/python-programming-pearson-books</link>
+      <description>Perfect your skills in Python</description>
+      <content:encoded><![CDATA[Build websites and software, automate tasks, analyze data, and more using Python—the star of our latest Tech Book Bundle with Pearson. Get building-block courses like Effective Python, Python for Programmers, and Learn Python the Hard Way, 5th Edition from this 10+ title library! Python’s easy-to-use interface is approachable yet powerful enough to tackle a wide range of complex tasks. Everything you need to dip your toes into programming languages is here in one bundle—pay what you want and help support the charity of your choice with your purchase!]]></content:encoded>
+      <pubDate>Mon, 13 Oct 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete AI &amp; GPT Book Bundle with 7,000 Prompts by Mammoth FLASH SALE</title>
       <link>https://humblebundle.com/books/complete-ai-gpt-book-bundle-with-7000-prompts-mammoth-flash-sale-books</link>
@@ -74,13 +81,6 @@
       <description>Leo, Don, Raph, and Mike in one bundle</description>
       <content:encoded><![CDATA[Follow the iconic adventures of the legendary <em>Teenage Mutant Ninja Turtles</em> with our latest Humble Comics Bundle! The <em>TMNT</em> team of Leonardo, Donatello, Raphael, and Michelangelo has been kicking butt and protecting New York City since 1984—across the big screen, TV, and comics. Order a pizza (without anchovies) and read the very best <em>TMNT</em> comics like <em>Teenage Mutant Ninja Turtles, Vol. 1: Return to New York</em>, <em>Teenage Mutant Ninja Turtles: The Last Ronin</em>, and more. Save some green on awesome comics with Humble Bundle, and help support Make-A-Wish with your purchase—COWABUNGA! <br><br><a style="color: #EF9741;"><strong><em>The titles in this bundle are available through Kobo.com. To access the content, create or log in to your Kobo.com account. </em></strong></a></p>]]></content:encoded>
       <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cisco Networking and Certification by Cisco Press/Pearson</title>
-      <link>https://humblebundle.com/books/cisco-networking-and-certification-cisco-presspearson-books</link>
-      <description>Ace networking certs with ease</description>
-      <content:encoded><![CDATA[Ready to take your Cisco networking certification exams seriously? Then you need the latest Humble Tech Book Bundle from Pearson. Learn everything you need from IT support to security identity management within one curated library of courses. <br><br>Get the hottest and most comprehensive official certification guides like <em>CCNP SPCOR 350-501</em>, <em>CCNP and CCIE Security Core SCOR 350-701</em>, and more—plus, the prep guide, <em>31 Days Before your CCNA Exam</em>. Dominate your exams and help support Active Minds with your purchase.]]></content:encoded>
-      <pubDate>Mon, 22 Sep 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
