@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 20 Oct 2025 16:28:14 +0000</pubDate>
+    <pubDate>Mon, 20 Oct 2025 20:26:49 +0000</pubDate>
+    <item>
+      <title>Programming for Modern Developers by Packt</title>
+      <link>https://humblebundle.com/software/programming-for-modern-developers-packt-software</link>
+      <description>Get Learn to Code with Rust, Complete Modern C++ (C++11/14/17) and more!</description>
+      <content:encoded><![CDATA[Pave your way to new beginnings in computer science. Discover a complete suite of courses by Packt, tailored for modern developers beginning their journey in programming. Learn Java, C++, and Rust through detailed lessons designed to take you from square one to seasoned programming veteran. Build strong fundamentals with courses like Java from Beginner to Expert, Complete Modern C++, and Learn Java from Scratch: A Beginner's Guide Specialization—and help support Cancer Research UK with your purchase.]]></content:encoded>
+      <pubDate>Mon, 20 Oct 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Unreal Engine 5.7 + Assets Deluxe Bundle+</title>
       <link>https://humblebundle.com/software/complete-unreal-engine-57-assets-deluxe-bundle-software</link>
@@ -34,17 +41,17 @@
       <pubDate>Mon, 13 Oct 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ultimate Music Production Bundle Encore</title>
-      <link>https://humblebundle.com/software/ultimate-music-production-bundle-encore-software</link>
-      <description>Total studio essentials for musicians </description>
-      <content:encoded><![CDATA[Rock out or chill out to your own original music with our all-new Ultimate Music Production Bundle by IK Multimedia! Unlock your inner musician and create video game soundtracks, albums, and more with help from professional-quality plugins and programs like Total Studio Essentials and MODO BASS Studio Upright. Get the instruments and tools you need to achieve the sound you’re looking for—and help support Music Will with your purchase!<br><br> <a ><strong><em>Please note that these bundles do not qualify for the IK All-In 2025 Group Buy.</em></strong></a>]]></content:encoded>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ultimate Top Down Adventure Assets Bundle</title>
       <link>https://humblebundle.com/software/ultimate-top-down-adventure-assets-bundle-software</link>
       <description>Amazing game assets working together</description>
       <content:encoded><![CDATA[Crafted by game developers for game developers—the Ultimate Top Down Adventure Assets Bundle by ElvGames is here to make your dev cycle easier. Get 75+ well-organized and properly named asset packs optimized for easy integration into popular game engines like Unity, Godot, GameMaker, and more. The standout feature of this expansive library is that all assets—including characters, sound effects, and music—are created by the same artists, so every element is designed to fit seamlessly with each other. Pay what you want for exceptional assets and help support the Prevent Cancer Foundation with your purchase.]]></content:encoded>
+      <pubDate>Thu, 09 Oct 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultimate Music Production Bundle Encore</title>
+      <link>https://humblebundle.com/software/ultimate-music-production-bundle-encore-software</link>
+      <description>Total studio essentials for musicians </description>
+      <content:encoded><![CDATA[Rock out or chill out to your own original music with our all-new Ultimate Music Production Bundle by IK Multimedia! Unlock your inner musician and create video game soundtracks, albums, and more with help from professional-quality plugins and programs like Total Studio Essentials and MODO BASS Studio Upright. Get the instruments and tools you need to achieve the sound you’re looking for—and help support Music Will with your purchase!<br><br> <a ><strong><em>Please note that these bundles do not qualify for the IK All-In 2025 Group Buy.</em></strong></a>]]></content:encoded>
       <pubDate>Thu, 09 Oct 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -83,13 +90,6 @@
       <pubDate>Mon, 29 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Total Action DevKit</title>
-      <link>https://humblebundle.com/software/total-action-devkit-software</link>
-      <description>Load up on action-packed game assets </description>
-      <content:encoded><![CDATA[Action-packed assets await with the Humble Software Bundle: Total Action DevKit! This massive collection of professional-quality assets is fine-tuned for big explosions, magical mayhem, zombie apocalypses, and more. Get packs like <em>Ultimate Spell System</em>, <em>Elite Soldiers</em>, <em>Customized Post Apocalyptic Characters</em>, and more. The very best assets are here to help bring your game to life—plus, a portion of your purchase goes to support No Kid Hungry. Stop dreaming about building your game—start today!]]></content:encoded>
-      <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Complete Python, Data Science and Machine Learning Mastery with Exams Bundle+</title>
       <link>https://humblebundle.com/software/complete-python-data-science-and-machine-learning-mastery-with-exams-bundle-software</link>
       <description>Get Machine Learning with Python and more!</description>
@@ -97,11 +97,11 @@
       <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Best of Synty Game Dev Assets #5</title>
-      <link>https://humblebundle.com/software/best-synty-game-dev-assets-5-software</link>
-      <description>Simply the best assets from Synty Studios</description>
-      <content:encoded><![CDATA[Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets—from towns, people, and militaries to stylized polygon kaiju, casinos, dungeons, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher to the Synty Studios store to keep creating.]]></content:encoded>
-      <pubDate>Tue, 23 Sep 2025 18:00:00 +0000</pubDate>
+      <title>Total Action DevKit</title>
+      <link>https://humblebundle.com/software/total-action-devkit-software</link>
+      <description>Load up on action-packed game assets </description>
+      <content:encoded><![CDATA[Action-packed assets await with the Humble Software Bundle: Total Action DevKit! This massive collection of professional-quality assets is fine-tuned for big explosions, magical mayhem, zombie apocalypses, and more. Get packs like <em>Ultimate Spell System</em>, <em>Elite Soldiers</em>, <em>Customized Post Apocalyptic Characters</em>, and more. The very best assets are here to help bring your game to life—plus, a portion of your purchase goes to support No Kid Hungry. Stop dreaming about building your game—start today!]]></content:encoded>
+      <pubDate>Thu, 25 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Legendary Soundtrack Suite Encore</title>
@@ -111,18 +111,18 @@
       <pubDate>Tue, 23 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Best of Synty Game Dev Assets #5</title>
+      <link>https://humblebundle.com/software/best-synty-game-dev-assets-5-software</link>
+      <description>Simply the best assets from Synty Studios</description>
+      <content:encoded><![CDATA[Game developers, rejoice! The pros at Synty Studios are here to help you take your project from baseline to beta with our latest Software Bundle. Build your worlds with professional-quality assets—from towns, people, and militaries to stylized polygon kaiju, casinos, dungeons, and more. Add complex interfaces or simple dungeons—anything you need to help bring your dream game to life. You’ll even get a $10 voucher to the Synty Studios store to keep creating.]]></content:encoded>
+      <pubDate>Tue, 23 Sep 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dungeon Master&#39;s Tabletop Essentials - 3D Printable Scenery &amp; Accessories</title>
       <link>https://humblebundle.com/software/dungeon-masters-tabletop-essentials-3d-printable-scenery-accessories-software</link>
       <description>Give life to your next campaign</description>
       <content:encoded><![CDATA[Add new levels of detail and depth to your tabletop adventures with the Humble Software Bundle: Dungeon Master’s Tabletop Essentials – 3D Printable Scenery & Accessories. This jam-packed collection is bursting with printable landscapes, structures, and more. Perfect for a variety of TTRPGs—design and customize elven shrines, crypt bookcases, dungeon traps, and 90+ other detailed scenery pieces, all from the comfort of home. Pay what you want to bring your game nights to life—and help support No Kid Hungry with your purchase.]]></content:encoded>
       <pubDate>Thu, 18 Sep 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 2025 Learn Unity Game Development Bundle</title>
-      <link>https://humblebundle.com/software/2025-learn-unity-game-development-bundle-software</link>
-      <description>Learn Unity—bring your games to life </description>
-      <content:encoded><![CDATA[Get serious about game creation and take your passion to the next level with our latest bundle! Learn essential game development skills for one of today’s most popular platforms—Unity. The Unity Engine is approachable, powerful, and perfect for creators of all skill levels. Dive into top-rated courses like <em>Complete Unity 2D C# Developer Course</em>, <em>Unity Real Time Strategy Course</em>, and <em>Unity Turn Based Strategy Course</em>. Pay what you want for a bundle that can transform your career—and help support Charity: Water with your purchase.]]></content:encoded>
-      <pubDate>Mon, 15 Sep 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gigantic Game Dev Assets &amp; Tools Megabundle</title>
