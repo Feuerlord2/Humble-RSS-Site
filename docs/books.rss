@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 10 Nov 2025 16:31:13 +0000</pubDate>
+    <pubDate>Mon, 10 Nov 2025 20:28:27 +0000</pubDate>
+    <item>
+      <title>Data Engineering &amp; Science by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/data-engineering-science-oreilly-books</link>
+      <description>The ins and outs of data science</description>
+      <content:encoded><![CDATA[With the world becoming more and more digitized, knowing how to use data is the way of the future. This bundle of valuable resources from O’Reilly is a Rosetta stone for aspiring data scientists everywhere, chock-full of information and tools to help you learn the skills you need to become a data engineer. This 20-book library will teach you how to integrate data science into software coding, use data science to design data-driven financial products, use streaming databases to process continuous inputs of data in real time, and more! Whether you’re new to the world of data science or an old hand at building data software of all kinds, this bundle will deepen your knowledge no matter your skill set. You choose what you pay, and all purchases support the federal aid organization Code for America!]]></content:encoded>
+      <pubDate>Mon, 10 Nov 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Modern Sci-Fi Classics: Charles Soule, Joseph Fink, Hugh Howey, and Neal Stephenson by HarperCollins</title>
       <link>https://humblebundle.com/books/modern-scifi-classics-charles-soule-joseph-fink-hugh-howey-and-neal-stephenson-harpercollins-books</link>
@@ -55,17 +62,17 @@
       <pubDate>Sat, 25 Oct 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Human Side of AI by MIT Press</title>
-      <link>https://humblebundle.com/books/human-side-ai-mit-press-books</link>
-      <description>Explore The Human Side of AI</description>
-      <content:encoded><![CDATA[Deepen your understanding of humanity and artificial intelligence so our relationship with machines doesn’t seem so daunting. This curated collection of award-winning titles from MIT Press asks important questions surrounding modern computer science, machine learning, and technology. Featuring insightful authors and scientists, this bundle has the power to change the way you think about AI. Pay what you want for thought-provoking books like AI & I, The Line, and Bots and Beasts—and help support Sandy Hook Promise with your purchase.]]></content:encoded>
-      <pubDate>Thu, 23 Oct 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Vampirella Sinks Her Teeth Into Comics Bundle</title>
       <link>https://humblebundle.com/books/vampirella-sinks-her-teeth-into-comics-bundle-books</link>
       <description>The strongest and sexiest super vampire</description>
       <content:encoded><![CDATA[Minimal clothing—maximum vampiric action. Sink your teeth into the Vampirella Comics Bundle by Dynamite Entertainment! Born the daughter of Lilith, the wife of Adam, Vampirella uses her talents for good against her family’s wishes. Read 40+ comics starring the blood-sucking vixen who lights up the night with her supernatural powers and standout looks, including <em>Vampirella 1969</em>, <em>Vampirella Master Series Vol. 3–8</em>, <em>Vampirella: Seduction of the Innocent Vol. 1–2</em>, and more. Fall in love with the daughter of Lilith, and help support the Comic Book Legal Defense Fund!]]></content:encoded>
+      <pubDate>Thu, 23 Oct 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Human Side of AI by MIT Press</title>
+      <link>https://humblebundle.com/books/human-side-ai-mit-press-books</link>
+      <description>Explore The Human Side of AI</description>
+      <content:encoded><![CDATA[Deepen your understanding of humanity and artificial intelligence so our relationship with machines doesn’t seem so daunting. This curated collection of award-winning titles from MIT Press asks important questions surrounding modern computer science, machine learning, and technology. Featuring insightful authors and scientists, this bundle has the power to change the way you think about AI. Pay what you want for thought-provoking books like AI & I, The Line, and Bots and Beasts—and help support Sandy Hook Promise with your purchase.]]></content:encoded>
       <pubDate>Thu, 23 Oct 2025 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -88,13 +95,6 @@
       <description>Worlds of gods and monsters</description>
       <content:encoded><![CDATA[Dive into the imagination of one of comics’ most ambitious and creative minds with our Kieron Gillen bundle! The collection includes complete sets of Gillen’s best series: <em>The Wicked + The Divine</em> gives a contemporary spin to ancient mythology from around the world. <em>Die</em> follows a group of friends attempting to free their comrade from a roleplaying game. Britpop-influenced <em>Phonogram</em> follows magicians who use music to alter reality. And that’s barely the tip of the iceberg! As always, choose what you want to pay for this great bundle, and a portion of the proceeds will go to BINC to help bookstores and comic stores with their emergency needs.]]></content:encoded>
       <pubDate>Thu, 16 Oct 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Programming by Pearson</title>
-      <link>https://humblebundle.com/books/python-programming-pearson-books</link>
-      <description>Perfect your skills in Python</description>
-      <content:encoded><![CDATA[Build websites and software, automate tasks, analyze data, and more using Python—the star of our latest Tech Book Bundle with Pearson. Get building-block courses like Effective Python, Python for Programmers, and Learn Python the Hard Way, 5th Edition from this 10+ title library! Python’s easy-to-use interface is approachable yet powerful enough to tackle a wide range of complex tasks. Everything you need to dip your toes into programming languages is here in one bundle—pay what you want and help support the charity of your choice with your purchase!]]></content:encoded>
-      <pubDate>Mon, 13 Oct 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
