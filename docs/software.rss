@@ -4,7 +4,21 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 17 Nov 2025 16:31:40 +0000</pubDate>
+    <pubDate>Mon, 17 Nov 2025 20:27:32 +0000</pubDate>
+    <item>
+      <title>Learn To Create Game Art in Blender 2025</title>
+      <link>https://humblebundle.com/software/learn-to-create-game-art-in-blender-2025-software</link>
+      <description>Blender for beginners and beyond </description>
+      <content:encoded><![CDATA[Start your next career as a game art designer with a little help from the Learn to Create Game Art in Blender 2025 Bundle! Learn the basics or polish your existing skill set with expert-led courses like The Blender Sculpting Brushes Course, The Complete Blender Creator Course, and The Blender Animation & Rigging Course. Discover how to export your work directly from Blender to Unity and Godot with ease! Save big on life-changing creative tools and help support One Tree Planted with your purchase.]]></content:encoded>
+      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build your fantasy world with KitBash3D&#39;s Enchanted Collection Encore</title>
+      <link>https://humblebundle.com/software/build-your-fantasy-world-with-kitbash3ds-enchanted-collection-software-encore</link>
+      <description>Craft your own enchanted land</description>
+      <content:encoded><![CDATA[Bring your dream fantasy world to life with this bundle of stunning premium 3D assets from KitBash3D! This bundle consists of KitBash3D’s <em>Enchanted</em> asset kit, which is perfect for any fantasy setting. You’ll get all the buildings you need to craft any number of convincing and authentic medieval fantasy environments—from bustling inns and pubs, to majestic keeps and secluded wizards’ towers. You’ll get a vast toolbox full of props to help make your fantasy world feel cozy and lived-in. Take advantage of this unbelievable value and help support Girls Who Code!]]></content:encoded>
+      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Audio Apocalypse: A World-Ending Collection of Premium Sound &amp; Music</title>
       <link>https://humblebundle.com/software/audio-apocalypse-worldending-collection-premium-sound-music-software</link>
@@ -74,13 +88,6 @@
       <description>Unearth Ultra Unreal Assets</description>
       <content:encoded><![CDATA[The Ultra Unreal Asset Megapack brings together 38 high-end packs, each built for professional use, and designed to deliver AAA-quality visuals straight out of the box. From detailed cityscapes and gothic interiors to vibrant carnivals and sci-fi worlds, everything is fully modular, PBR-ready, and optimized for production. Also included is a Professional License, allowing use in large-scale studio and commercial projects. Expand your project or kickstart the next one, and support No Kid Hungry with your purchase. ]]></content:encoded>
       <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Programming for Modern Developers by Packt</title>
-      <link>https://humblebundle.com/software/programming-for-modern-developers-packt-software</link>
-      <description>Get Learn to Code with Rust, Complete Modern C++ (C++11/14/17) and more!</description>
-      <content:encoded><![CDATA[Pave your way to new beginnings in computer science. Discover a complete suite of courses by Packt, tailored for modern developers beginning their journey in programming. Learn Java, C++, and Rust through detailed lessons designed to take you from square one to seasoned programming veteran. Build strong fundamentals with courses like Java from Beginner to Expert, Complete Modern C++, and Learn Java from Scratch: A Beginner's Guide Specialization—and help support Cancer Research UK with your purchase.]]></content:encoded>
-      <pubDate>Mon, 20 Oct 2025 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
