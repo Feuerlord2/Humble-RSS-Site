@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 01 Dec 2025 16:33:30 +0000</pubDate>
+    <pubDate>Mon, 01 Dec 2025 20:25:54 +0000</pubDate>
+    <item>
+      <title>Hacking by No Starch</title>
+      <link>https://humblebundle.com/books/hacking-no-starch-books</link>
+      <description>Hack for good—never for harm.</description>
+      <content:encoded><![CDATA[Turn your curiosity about computer hacking into a fast-paced, proven, and practical career with our latest collaboration with tech experts at No Starch. Pay what you want for industry-leading instruction from courses like <em>Black Hat Bash</em>, <em>Microcontroller Exploits</em>, and <em>The Art of Cyberwarfare</em>, all designed to help you combat bad hackers and secure your cyberspace. Deepen your understanding whether you’re a novice or a seasoned professional, and help support the Electronic Frontier Foundation with your purchase!]]></content:encoded>
+      <pubDate>Mon, 01 Dec 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Get-Your-Sh*t-Together Growth Bundle by HarperCollins</title>
       <link>https://humblebundle.com/books/getyourshttogether-growth-bundle-harpercollins-books</link>
@@ -76,17 +83,17 @@
       <pubDate>Wed, 19 Nov 2025 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Software Architecture by Pearson</title>
-      <link>https://humblebundle.com/books/software-architecture-pearson-books</link>
-      <description>Discover how everything fits together</description>
-      <content:encoded><![CDATA[A software system is only as good as its architecture—all of the building blocks that make the system work—allows it to function. In order to build better software, you’ll need to understand the fundamentals of how everything fits together, and that’s where this handy ebook bundle of textbooks from Pearson comes in. Learn the importance of coupling in everyday software architecture, how to make your software shift and flow depending on the needs of the system, how to use the fundamentals of software architecture to build your software more efficiently, and much more in this 19-book library. Get a foothold on the basics so that your future projects are foolproof. Every purchase at the price of your choice supports Code.org, ensuring every student has access to computer science.]]></content:encoded>
-      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Math and Physics for Dummies 2025 Encore</title>
       <link>https://humblebundle.com/books/math-and-physics-for-dummies-books-2025-encore</link>
       <description>Math, physics &amp; more… For Dummies</description>
       <content:encoded><![CDATA[Need some help wrapping your head around complex subjects in math and physics? This bundle of books in the popular <em>For Dummies</em> series is here to help with fun and approachable lessons across a number of tricky topics! <em>Statistics All-in-One For Dummies</em> will teach you how to interpret graphs, determine probability, critique data and more! Bone up on the fundamentals and move onto the advanced stuff like graphing functions and approximating area with <em>Calculus For Dummies</em>. <em>Thermodynamics For Dummies</em> will help you wrap your head around complex concepts like entropy and the laws of thermodynamics in an easily digestible and approachable manner. Pay what you want for all these and more—a total of 16 books—and help support buildOn with your purchase!]]></content:encoded>
+      <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software Architecture by Pearson</title>
+      <link>https://humblebundle.com/books/software-architecture-pearson-books</link>
+      <description>Discover how everything fits together</description>
+      <content:encoded><![CDATA[A software system is only as good as its architecture—all of the building blocks that make the system work—allows it to function. In order to build better software, you’ll need to understand the fundamentals of how everything fits together, and that’s where this handy ebook bundle of textbooks from Pearson comes in. Learn the importance of coupling in everyday software architecture, how to make your software shift and flow depending on the needs of the system, how to use the fundamentals of software architecture to build your software more efficiently, and much more in this 19-book library. Get a foothold on the basics so that your future projects are foolproof. Every purchase at the price of your choice supports Code.org, ensuring every student has access to computer science.]]></content:encoded>
       <pubDate>Mon, 17 Nov 2025 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -116,13 +123,6 @@
       <description>The ins and outs of data science</description>
       <content:encoded><![CDATA[With the world becoming more and more digitized, knowing how to use data is the way of the future. This bundle of valuable resources from O’Reilly is a Rosetta stone for aspiring data scientists everywhere, chock-full of information and tools to help you learn the skills you need to become a data engineer. This 20-book library will teach you how to integrate data science into software coding, use data science to design data-driven financial products, use streaming databases to process continuous inputs of data in real time, and more! Whether you’re new to the world of data science or an old hand at building data software of all kinds, this bundle will deepen your knowledge no matter your skill set. You choose what you pay, and all purchases support the federal aid organization Code for America!]]></content:encoded>
       <pubDate>Mon, 10 Nov 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux for Professionals by Apress/Springer</title>
-      <link>https://humblebundle.com/books/linux-for-professionals-apressspringer-books</link>
-      <description>Live the Linux lifestyle</description>
-      <content:encoded><![CDATA[Humble Tech Book Bundles got you covered. Level up your Linux skills, learn to bend its unmatched power to your will, and create the most optimized operating systems around using the expertly crafted tools by Apress and Springer. This curated library of courses includes<em>Supercomputers for Linux SysAdmins</em>, <em>CompTIA Linux+ Certification Companion</em>, <em>Using and Administering Linux: Volume 1-2</em>, and more. Pay what you want and help support Room To Read with your purchase!]]></content:encoded>
-      <pubDate>Mon, 03 Nov 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
