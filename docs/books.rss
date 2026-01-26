@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 26 Jan 2026 16:38:40 +0000</pubDate>
+    <pubDate>Mon, 26 Jan 2026 20:33:19 +0000</pubDate>
+    <item>
+      <title>High Tech Career Playbook Bundle by Manning</title>
+      <link>https://humblebundle.com/books/high-tech-career-playbook-bundle-manning-books</link>
+      <description>Big time savings on high tech teachings</description>
+      <content:encoded><![CDATA[Looking for a new role in tech? Take control of your career and learn the skills you need to succeed with the High Tech Career Playbook Bundle by Manning Publications. Unlock volumes 1–2 of the acclaimed <em>Acing the CCNA</em> series, the savvy <em>Investing for Programmers</em> course, the C-suite–ready <em>Think Like a CTO</em> lesson, and much more. Pay what you want to flip the script on your career prospects and help support Feeding America with your purchase.]]></content:encoded>
+      <pubDate>Mon, 26 Jan 2026 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Quilting and Embroidery by C &amp; T Publishing</title>
       <link>https://humblebundle.com/books/quilting-and-embroidery-c-t-publishing-books</link>
@@ -69,17 +76,17 @@
       <pubDate>Sat, 10 Jan 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dynamite Character Crossover Comics by Dynamite</title>
-      <link>https://humblebundle.com/books/dynamite-character-crossover-comics-dynamite-books</link>
-      <description>Killer character crossovers for the new year</description>
-      <content:encoded><![CDATA[We’ve assembled Dynamite Entertainment’s hottest eComics into a bundle you won’t want to miss. Vampirella, John Carter of Mars, Red Sonja, and the universe’s greatest heroes collide in an epic series of battles across <em>DIE!NAMITE Vols. 1–6</em>. Grab your boomstick for the action-packed mayhem of <em>Army of Darkness: Ash vs. the Classic Monsters, Vols. 1–6</em>. Bad guys beware—the femme fatales of Dynamite unite to stop a legendary evil in <em>Swords of Sorrow: The Complete Saga</em>. Pay what you want and help support the Comic Book Legal Defense Fund!]]></content:encoded>
-      <pubDate>Thu, 08 Jan 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Adulting for Dummies by Wiley</title>
       <link>https://humblebundle.com/books/adulting-for-dummies-wiley-books</link>
       <description>Adulting is hard—let’s help</description>
       <content:encoded><![CDATA[Need some cheat codes for life? We’re here to help you figure out adulting with a little help from our latest For Dummies Bundle. The experts at Wiley can prepare you for anything with their award-winning series of ebooks, including <em>Renting For Dummies</em>, <em>Modern Dating For Dummies</em>, <em>How to Fix Everything For Dummies</em>, and much more. Make 2026 the best year of your adult life and help support Worldreader when you learn new skills and save big.]]></content:encoded>
+      <pubDate>Thu, 08 Jan 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamite Character Crossover Comics by Dynamite</title>
+      <link>https://humblebundle.com/books/dynamite-character-crossover-comics-dynamite-books</link>
+      <description>Killer character crossovers for the new year</description>
+      <content:encoded><![CDATA[We’ve assembled Dynamite Entertainment’s hottest eComics into a bundle you won’t want to miss. Vampirella, John Carter of Mars, Red Sonja, and the universe’s greatest heroes collide in an epic series of battles across <em>DIE!NAMITE Vols. 1–6</em>. Grab your boomstick for the action-packed mayhem of <em>Army of Darkness: Ash vs. the Classic Monsters, Vols. 1–6</em>. Bad guys beware—the femme fatales of Dynamite unite to stop a legendary evil in <em>Swords of Sorrow: The Complete Saga</em>. Pay what you want and help support the Comic Book Legal Defense Fund!]]></content:encoded>
       <pubDate>Thu, 08 Jan 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -109,13 +116,6 @@
       <description>New Year’s resolutions made simple…and fun!</description>
       <content:encoded><![CDATA[The cusp of a new year is a time to reflect and a time to plan. Who do you want to be in 2026? Do you want to hit the gym more? Improve your finances? Make new friends? Whatever your goals, real change starts from the inside out, and this bundle of self improvement ebooks from Berret-Koehler has everything you need to learn how to better yourself while still being you! <em>Fiercely You: Be Fabulous and Confident While Thinking Like a Drag Queen</em> uses the trade secrets of drag culture to teach confidence and self-worth. <em>Eat That Frog! 21 Great Ways to Stop Procrastinating</em> will teach you mental tricks to be more productive. <em>Flux: 8 Superpowers for Thriving in Constant Change</em> will help you master the art of going with the flow, no matter where it takes you. Becoming the best version of yourself is easy with this bundle, and every purchase supports Worldreader’s efforts to keep kids reading!]]></content:encoded>
       <pubDate>Thu, 25 Dec 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JavaScript and TypeScript Mastery by Packt</title>
-      <link>https://humblebundle.com/books/javascript-and-typescript-mastery-packt-books</link>
-      <description>Flip the script on programming languages</description>
-      <content:encoded><![CDATA[Level up your coding skills before the new year strikes with the JavaScript and TypeScript Mastery Bundle by Packt. Flip the script on what you typically do and learn how to speak standard languages used by computer experts with approachable lessons like <em>Responsive Web Design with HTML5 and CSS</em>, <em>Learn React with TypeScript</em>, and <em>JavaScript from Beginner to Professional</em>. Start a new career in tech or sharpen your existing toolset, and help support Safe In Our World with your purchase.]]></content:encoded>
-      <pubDate>Mon, 15 Dec 2025 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
