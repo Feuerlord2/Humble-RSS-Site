@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Wed, 18 Mar 2026 17:05:35 +0000</pubDate>
+    <pubDate>Wed, 18 Mar 2026 20:43:56 +0000</pubDate>
+    <item>
+      <title>The World of Fateforge Megabundle by Studio Agate</title>
+      <link>https://humblebundle.com/books/world-fateforge-megabundle-studio-agate-books</link>
+      <description>A ‘love letter’ to swords &amp; sorcery</description>
+      <content:encoded><![CDATA[An epic bundle of gorgeous original art, thrilling engagements, and countless hours of gameplay has arrived with <em>Fateforge</em>. Your adventures through this comprehensive 5th edition library will transport your party through the grandiose landscapes of Eana, filled with colorful civilizations and exotic locations like the bustling Free City. Strategize with your party to defeat the demon princes from the Melancholian Moon and the brutal barbarian lords of the Kaani Hordes to bring peace to the realm. Discover Studio Agate’s award-winning <em>Fateforge</em> series before it’s gone and help support the charity ComicBooks For Kids!.]]></content:encoded>
+      <pubDate>Wed, 18 Mar 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Python Programming by Wiley</title>
       <link>https://humblebundle.com/books/python-programming-wiley-books</link>
@@ -109,13 +116,6 @@
       <description>The best of indie comics at your fingertips!</description>
       <content:encoded><![CDATA[Indie comics and their publishers are having a moment like never before, and what better way to celebrate this achievement than by putting together a bundle of the best of the best? And even better than that?? You can get all of these comics delivered right to your inbox at the low price of your choice!! We’ve partnered with a bunch of indie publishers: Ablaze, Action Lab, American Mythology Productions, Battle Quest Comics, Drawn & Quarterly, Dynamite Entertainment, Fantagraphics Books, Heavy Metal, Living The Line Books, Valiant Entertainment, Zenescope, Hermes Press, and Green Ronin Publishing to support their shared goal of encouraging bold ideas and creativity in their creators and readers, bringing you some of their most beloved titles, like quirky time travel graphic novel <em>There’s No Time Like the Present</em>, intimate queer family drama <em>Stone Fruit</em>, fairy tale reimagining <em>Grimm Tales of Terror</em>, sci-fi epic <em>Moonray</em>, and the newly revamped <em>Heavy Metal</em>! You choose what you pay for all of these and more, and every purchase supports the Comic Book Legal Defense Fund!]]></content:encoded>
       <pubDate>Thu, 19 Feb 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32, Raspberry Pi, Arduino and Maker Classics by Make</title>
-      <link>https://humblebundle.com/books/esp32-raspberry-pi-arduino-and-maker-classics-make-books</link>
-      <description>Unleash your creativity through technology!</description>
-      <content:encoded><![CDATA[Learn how to create and program your own devices using key open-source technologies with our latest Tech Book Bundle. Master widely adopted and approachable platforms like Raspberry Pi, ESP32, and Arduino inside this 20+ ebook library. Enhance your style with wearable electronics, tap into the hidden universe of radio waves, reclaim personal time through home automation, and more! Pay what you want for this amazing bundle, and help prepare kids for the future through Code.org.]]></content:encoded>
-      <pubDate>Wed, 18 Feb 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
