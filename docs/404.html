@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Page Not Found</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%23dc2626'/><stop offset='100%25' stop-color='%234a5568'/></linearGradient></defs><circle cx='50' cy='50' r='45' fill='url(%23g)'/><path d='M50 25 L50 50 M50 50 L65 42 M35 55 Q50 70 65 55' stroke='white' stroke-width='4' stroke-linecap='round' fill='none'/></svg>">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="preloader">
+        <div class="preloader-logo">Humble <span>Bundle</span></div>
+        <div class="preloader-track"><div class="preloader-bar"></div></div>
+    </div>
+
+    <div class="scene"></div>
+    <div class="grid-lines"></div>
+    <div class="orb"></div>
+    <div class="orb orb-2"></div>
+    <div class="scanline"></div>
+
+    <div class="corner-mark tl"></div>
+    <div class="corner-mark tr"></div>
+    <div class="corner-mark bl"></div>
+    <div class="corner-mark br"></div>
+
+    <div class="page">
+
+        <div class="error-code">404</div>
+        <h1 class="error-title">Page Not Found</h1>
+        <p class="error-desc">
+            This page doesn't exist. It may have been moved
+            or the link might be broken.
+        </p>
+        <a href="./" class="home-btn">
+            <svg viewBox="0 0 24 24"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg>
+            Back to Home
+        </a>
+
+    </div>
+
+    <script>
+        window.addEventListener('load', function() {
+            document.querySelector('.preloader').classList.add('loaded');
+        });
+    </script>
+</body>
+</html>

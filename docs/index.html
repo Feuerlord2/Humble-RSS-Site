@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Humble Bundle RSS Feeds</title>
+    <meta name="description" content="Curated RSS feed collection for the latest Humble Bundles — books, games, and software.">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%23dc2626'/><stop offset='100%25' stop-color='%234a5568'/></linearGradient></defs><circle cx='50' cy='50' r='45' fill='url(%23g)'/><path d='M50 25 L50 50 M50 50 L65 42 M35 55 Q50 70 65 55' stroke='white' stroke-width='4' stroke-linecap='round' fill='none'/></svg>">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="preloader">
+        <div class="preloader-logo">Humble <span>Bundle</span></div>
+        <div class="preloader-track"><div class="preloader-bar"></div></div>
+    </div>
+
+    <div class="scene"></div>
+    <div class="grid-lines"></div>
+    <div class="orb"></div>
+    <div class="orb orb-2"></div>
+    <div class="scanline"></div>
+
+    <div class="corner-mark tl"></div>
+    <div class="corner-mark tr"></div>
+    <div class="corner-mark bl"></div>
+    <div class="corner-mark br"></div>
+
+    <div class="page">
+
+        <header class="header">
+            <div class="eyebrow">
+                <span>RSS Feed Collection</span>
+            </div>
+            <h1 class="logo">
+                Humble<br><span class="accent">Bundle</span>
+                <span class="logo-line-2">RSS Feeds</span>
+            </h1>
+            <p class="subtitle">
+                Your <strong>curated</strong> feed collection for the latest
+                Humble Bundles &mdash; always current, always elegant.
+            </p>
+        </header>
+
+        <div class="feeds">
+            <a href="./books.rss" class="feed-card" data-delay="0">
+                <span class="feed-number">01</span>
+                <div class="feed-icon">
+                    <svg viewBox="0 0 24 24"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/><path d="M8 7h6"/><path d="M8 11h4"/></svg>
+                </div>
+                <div class="feed-tag"><span class="dot"></span>Book Bundles</div>
+                <h3 class="feed-title">Books &amp; eBooks</h3>
+                <p class="feed-desc">
+                    Discover the best eBook collections and expand your digital library.
+                </p>
+                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+            </a>
+
+            <a href="./games.rss" class="feed-card" data-delay="1">
+                <span class="feed-number">02</span>
+                <div class="feed-icon">
+                    <svg viewBox="0 0 24 24"><path d="M6 11h4"/><path d="M8 9v4"/><path d="m15 12 .5.5"/><path d="m17.5 9.5.5.5"/><rect x="2" y="6" width="20" height="12" rx="2"/></svg>
+                </div>
+                <div class="feed-tag"><span class="dot"></span>Game Bundles</div>
+                <h3 class="feed-title">Games &amp; Gaming</h3>
+                <p class="feed-desc">
+                    The latest game bundles for limitless fun at unbeatable prices.
+                </p>
+                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+            </a>
+
+            <a href="./software.rss" class="feed-card" data-delay="2">
+                <span class="feed-number">03</span>
+                <div class="feed-icon">
+                    <svg viewBox="0 0 24 24"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/><line x1="12" y1="2" x2="12" y2="22" opacity="0"/></svg>
+                </div>
+                <div class="feed-tag"><span class="dot"></span>Software Bundles</div>
+                <h3 class="feed-title">Software &amp; Tools</h3>
+                <p class="feed-desc">
+                    Professional software bundles for developers, designers, and creatives.
+                </p>
+                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
+            </a>
+        </div>
+
+        <footer class="footer">
+            <div class="footer-inner">
+                Not affiliated with Humble Bundle, Inc.
+                <span class="heart-icon"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg></span>
+                For the community
+            </div>
+        </footer>
+
+    </div>
+
+    <script>
+        // Preloader
+        window.addEventListener('load', function() {
+            document.querySelector('.preloader').classList.add('loaded');
+        });
+
+        // Staggered card reveal
+        var cards = document.querySelectorAll('.feed-card');
+        cards.forEach(function(card, i) {
+            setTimeout(function() {
+                card.classList.add('visible');
+            }, 1200 + i * 180);
+        });
+
+        // Pointer-follow glow on cards
+        cards.forEach(function(card) {
+            card.addEventListener('mousemove', function(e) {
+                var rect = card.getBoundingClientRect();
+                var x = ((e.clientX - rect.left) / rect.width * 100).toFixed(1);
+                var y = ((e.clientY - rect.top) / rect.height * 100).toFixed(1);
+                card.style.setProperty('--mx', x + '%');
+                card.style.setProperty('--my', y + '%');
+            });
+        });
+
+        // Subtle parallax on orbs
+        var ticking = false;
+        document.addEventListener('mousemove', function(e) {
+            if (ticking) return;
+            ticking = true;
+            requestAnimationFrame(function() {
+                var x = (e.clientX / window.innerWidth - 0.5) * 20;
+                var y = (e.clientY / window.innerHeight - 0.5) * 20;
+                document.querySelector('.orb').style.transform =
+                    'translate(' + x + 'px, ' + y + 'px)';
+                document.querySelector('.orb-2').style.transform =
+                    'translate(' + (-x * 0.6) + 'px, ' + (-y * 0.6) + 'px)';
+                ticking = false;
+            });
+        });
+    </script>
+</body>
+</html>
