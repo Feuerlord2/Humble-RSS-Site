@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 20 Apr 2026 17:06:50 +0000</pubDate>
+    <pubDate>Mon, 20 Apr 2026 20:53:47 +0000</pubDate>
+    <item>
+      <title>Godot Game Development by Zenva</title>
+      <link>https://humblebundle.com/books/godot-game-development-zenva-books</link>
+      <description>Learning Godot just got easier</description>
+      <content:encoded><![CDATA[Get ready to build your game development skills with the all-new Godot Game Development by Zenva! This bundle offers everything you need to succeed using Godot, from beginner-friendly foundations to advanced systems, with 12 expert-led eBooks. Pay what you want for practical and approachable lessons in game design like <em>Create a Complete Bullet Hell in Godot</em>, <em>Learn to Make a Farming Game in Godot</em>, and more. Gain the tools to turn your ideas into playable, polished experiences, and help support Alzheimer’s Research UK when you shop with Humble Bundle.]]></content:encoded>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Strange Romance by Image Comics</title>
       <link>https://humblebundle.com/books/strange-romance-image-comics-books</link>
@@ -83,13 +90,6 @@
       <pubDate>Wed, 01 Apr 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Linux, the Good Stuff by No Starch</title>
-      <link>https://humblebundle.com/books/linux-good-stuff-no-starch-books</link>
-      <description>Unlock your potential with Linux </description>
-      <content:encoded><![CDATA[Looking for more freedom from your operating system? Learn how to bend Linux to your will and create without limits with this awesome tech bundle that focuses on the good stuff. Our curated library of courses, in conjunction with No Starch Press, includes exclusive early access to <em>The Linux Memory Manager</em> and <em>Heavy Wizardry 101</em>, alongside <em>System Programming in Linux</em>; <em>Linux Basics for Hackers, 2nd edition</em>; <em>How Linux Works, 3rd edition</em>; and more. Pay what you want and help support the Electronic Frontier Foundation with your purchase!]]></content:encoded>
-      <pubDate>Mon, 30 Mar 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Collected Peanuts by Fantagraphics</title>
       <link>https://humblebundle.com/books/collected-peanuts-fantagraphics-books</link>
       <description>All of Peanuts in one place?? Good grief!</description>
@@ -102,13 +102,6 @@
       <description>Read award-winning horror today</description>
       <content:encoded><![CDATA[Explore the fabled works of award-winning author James Herbert with the latest Humble Book Bundle. Feast your eyes on <em>The Fog</em>, the international bestseller that has haunted readers since 1975 with its reality-based horror story centered on a madness-inducing fog. Devour <em>The Rats</em>, praised by Stephen King: "The Rats is splatterpunk deluxe. Not only great, gory fun but a prime example of what was once called 'the British nasty.'" Thwart the neo-Nazis’ world-ending plot to use the Spear of Longinus in <em>The Spear</em>—read these iconic James Herbert titles and much more today.]]></content:encoded>
       <pubDate>Tue, 24 Mar 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ethical Hacking &amp; Cyber Defense Bundle by Packt</title>
-      <link>https://humblebundle.com/books/ethical-hacking-cyber-defense-bundle-packt-books</link>
-      <description>Feel-good hacking has arrived</description>
-      <content:encoded><![CDATA[Turn your curiosity about computer hacking into a fast-paced, proven, and ethical career with our latest collaboration with tech experts at Packt. Pay what you want for industry-leading instruction from courses like <em>Agentic AI for Offensive Cybersecurity</em>, <em>Linux Shell Scripting for Hackers</em>, and <em>A Day in the Life of a CISO</em>, all designed to help you combat bad hackers and secure your slice of cyberspace. Deepen your understanding whether you’re a novice or a seasoned professional, and help support The Global FoodBanking Network!]]></content:encoded>
-      <pubDate>Mon, 23 Mar 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
