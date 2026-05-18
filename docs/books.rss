@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 18 May 2026 11:46:09 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 18:02:13 +0000</pubDate>
+    <item>
+      <title>The Ultimate Functional Programming by Pragmatic Programmers</title>
+      <link>https://humblebundle.com/books/ultimate-functional-programming-pragmatic-programmers-books</link>
+      <description>Programming fit for everyday life</description>
+      <content:encoded><![CDATA[Start creating with a function-focused mindset with the all-new Functional Programming Bundle by Pragmatic Programmers. Learn to execute a variety of functions to save time and energy for yourself, a business, or a new programming hobby. Unlock cornerstone eBooks like <em>Domain Modeling Made Functional</em>, <em>Programming Clojure Fourth Edition</em>, <em>From Objects to Functions</em>, and more. Get practical resources for novice coders and seasoned pros, and help support Save the Children with your purchase!]]></content:encoded>
+      <pubDate>Mon, 18 May 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Claude Code Mastery Bundle by Zenva</title>
       <link>https://humblebundle.com/books/claude-code-mastery-bundle-zenva-books</link>
@@ -111,13 +118,6 @@
       <pubDate>Tue, 28 Apr 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>C# and .NET Mega Bundle 2026 by Packt</title>
-      <link>https://humblebundle.com/books/c-and-net-mega-bundle-2026-packt-books</link>
-      <description>Modern C# and .NET with added depth from C based languages</description>
-      <content:encoded><![CDATA[We partnered with Packt experts to bring you a finely tuned C# and .NET Mega Bundle built for modern developers. Master object-oriented development with practical, easy-to-follow titles like C# 14 and .NET 10: Modern Cross-Platform Development Fundamentals and Microservices Design Patterns in .NET. This curated collection also includes select titles from the broader C-Based Languages, introducing systems-level and performance-oriented concepts to deepen your engineering perspective. Ideal for intermediate and experienced developers looking to grow their careers. Plus, a portion of your purchase supports charity: water.]]></content:encoded>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Shells and Scripting for Seasoned Admins by O&#39;Reilly ENCORE</title>
       <link>https://humblebundle.com/books/shells-and-scripting-for-seasoned-admins-oreilly-books-encore</link>
       <description>Shells and scripting for seasoned admins</description>
@@ -130,13 +130,6 @@
       <description>Tales of love, murder, and hi-tech battle suits</description>
       <content:encoded><![CDATA[Discover some of comics’ most indelible characters in the universe of Eisner Award–winning artist & writer Terry Moore! Get caught up in the lives of Katchoo, Francine, and David in the complete run of the groundbreaking series <em>Strangers in Paradise</em>. Meet Julie, whose life changes forever when liquid metal rains from the sky in <em>Echo</em>. Unravel the mystery of a woman who wakes up in her own grave in <em>Rachel Rising</em>. Plus, your purchase helps support World Central Kitchen!]]></content:encoded>
       <pubDate>Thu, 23 Apr 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Godot Game Development by Zenva</title>
-      <link>https://humblebundle.com/books/godot-game-development-zenva-books</link>
-      <description>Learning Godot just got easier</description>
-      <content:encoded><![CDATA[Get ready to build your game development skills with the all-new Godot Game Development by Zenva! This bundle offers everything you need to succeed using Godot, from beginner-friendly foundations to advanced systems, with 12 expert-led eBooks. Pay what you want for practical and approachable lessons in game design like <em>Create a Complete Bullet Hell in Godot</em>, <em>Learn to Make a Farming Game in Godot</em>, and more. Gain the tools to turn your ideas into playable, polished experiences, and help support Alzheimer’s Research UK when you shop with Humble Bundle.]]></content:encoded>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Strange Romance by Image Comics</title>
