@@ -4,7 +4,7 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Wed, 20 May 2026 18:20:52 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 21:59:33 +0000</pubDate>
     <item>
       <title>The Rust Systems Programming Bundle</title>
       <link>https://humblebundle.com/books/rust-systems-programming-bundle-books</link>
@@ -27,17 +27,17 @@
       <pubDate>Mon, 18 May 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Claude Code Mastery Bundle by Zenva</title>
-      <link>https://humblebundle.com/books/claude-code-mastery-bundle-zenva-books</link>
-      <description>Friction-free coding with Claude</description>
-      <content:encoded><![CDATA[Develop software faster and learn the AI workflows modern developers are rapidly adopting with The Claude Code Mastery Bundle. Build full-stack AI apps with Next.js and Python, integrate Stripe subscriptions and modern LLM APIs, automate workflows with MCP and GitHub, and learn how to run fully private local AI systems with Ollama and OpenCode—all in one amazing bundle! Pay what you want for a masterclass collection from Zenva and support Alzheimer’s Research UK while building skills that can immediately improve how you develop software. ]]></content:encoded>
-      <pubDate>Sat, 16 May 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Infinite Dread: Horror Comics by Oni Press</title>
       <link>https://humblebundle.com/books/infinite-dread-horror-comics-oni-press-books</link>
       <description>Dare to be scared</description>
       <content:encoded><![CDATA[Superheroes are all well and good, but oftentimes horror is where comics really shine. To bring you the spookiest stories the medium has to offer, we’ve teamed up with Oni Press for a selection of comics that are sure to keep you up at night! Something horrifically weird is going on and no one will talk about it in <em>Hobtown Mystery Stories</em>. A startling new experiment in comic book storytelling inspired by firsthand accounts of real paranormal encounters awaits in <em>High Strangeness</em>. And you're only alive if you're online in <em>Cemetery Kids Don't Die</em>. There’s even more to explore in this ghoulish library of haunts, so grab it now at the price of your choosing, and support BINC with your purchase!]]></content:encoded>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Claude Code Mastery Bundle by Zenva</title>
+      <link>https://humblebundle.com/books/claude-code-mastery-bundle-zenva-books</link>
+      <description>Friction-free coding with Claude</description>
+      <content:encoded><![CDATA[Develop software faster and learn the AI workflows modern developers are rapidly adopting with The Claude Code Mastery Bundle. Build full-stack AI apps with Next.js and Python, integrate Stripe subscriptions and modern LLM APIs, automate workflows with MCP and GitHub, and learn how to run fully private local AI systems with Ollama and OpenCode—all in one amazing bundle! Pay what you want for a masterclass collection from Zenva and support Alzheimer’s Research UK while building skills that can immediately improve how you develop software. ]]></content:encoded>
       <pubDate>Sat, 16 May 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
