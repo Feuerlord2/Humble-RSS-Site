@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 26 May 2026 03:49:22 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 18:28:25 +0000</pubDate>
+    <item>
+      <title>The Ultimate Linux &amp; SysAdmin Bundle</title>
+      <link>https://humblebundle.com/books/ultimate-linux-sysadmin-bundle-books</link>
+      <description>Level up your Linux skills</description>
+      <content:encoded><![CDATA[Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Linux with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering AI networking, Windows 365, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional with courses like <em>The Ultimate Linux Shell Scripting Guide</em>, <em>Microsoft Intune Cookbook - 2E</em> and help support the Prevent Cancer Foundation with your purchase!]]></content:encoded>
+      <pubDate>Tue, 26 May 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Data Visualization &amp; Storytelling by Wiley</title>
       <link>https://humblebundle.com/books/data-visualization-storytelling-wiley-books</link>
@@ -109,13 +116,6 @@
       <description>A powerhouse of programming courses</description>
       <content:encoded><![CDATA[Prepare for your big coding exam with confidence with our curated bundle of learning courses on <em>C#</em>, <em>Python</em>, and beyond! O’Reilly’s brain-friendly approach to the award-winning <em>Head First</em> series is designed to make complex topics more approachable to newbies and beginners alike. Learn from experts within the topics of courses like <em>Head First JavaScript Programming</em>, <em>Head First Software Architecture</em>, <em>Head First Python</em>, and more. Rethink the way you approach knowledge growth and studying with a little help from O’Reilly, and help support Code for America with your purchase!]]></content:encoded>
       <pubDate>Wed, 06 May 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yarned and Dangerous:  A Knitastic Bundle by C&amp;T</title>
-      <link>https://humblebundle.com/books/knitting-tbd-ct-books</link>
-      <description>Knit just got real</description>
-      <content:encoded><![CDATA[Yarn jockeys, needle noggins, purl pirates, and everyone in between, this is the bundle for you! Contained within is a treasure trove of knitting literature (kniterature?) with instructions on how to make everything under the sun. Learn all the patterns you need to make a menagerie of sweet knitted creatures! Add some new stitches to your arsenal and add some pizzazz to your projects! Study the ins and outs of classic afghans, so you can blanket yourself in your own creations to your heart’s content! There is so much more included in this bundle of over 30 knitting ebooks, so grab it now at the price of your choosing, and support One Tree Planted with your purchase!]]></content:encoded>
-      <pubDate>Tue, 05 May 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The No Kings Library by Berrett-Koehler</title>
