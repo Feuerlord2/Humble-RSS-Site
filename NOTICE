@@ -1,0 +1,19 @@
+Humble Watch
+
+This project is a derivative/fork of Feuerlord2/Humble-RSS-Site:
+https://github.com/Feuerlord2/Humble-RSS-Site
+
+Original project author: Daniel Winter / Feuerlord2.
+
+The upstream project is licensed under the Apache License, Version 2.0.
+This repository retains the upstream license and includes local modifications by ThresholdOps.
+
+Local modifications include, among other changes:
+- bundle end date display in RSS content,
+- time-left calculation fields,
+- combined all.rss output,
+- all.json and urgent.json outputs,
+- static table frontend over all.json,
+- GitHub Actions workflow changes for manual and scheduled generation.
+
+This project is not affiliated with Humble Bundle, Inc.
