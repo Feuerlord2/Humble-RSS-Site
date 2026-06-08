@@ -2,27 +2,55 @@ name: Generate RSS Manual
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "10 18 * * *" # 20:10 CEST
+    - cron: "10 19 * * *" # 20:10 CET
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check Warsaw schedule window
+        id: warsaw_time
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run requested; skipping Warsaw time gate."
+            exit 0
+          fi
+
+          warsaw_hour=$(TZ=Europe/Warsaw date +%H)
+          warsaw_minute=$(TZ=Europe/Warsaw date +%M)
+          echo "Warsaw time: ${warsaw_hour}:${warsaw_minute}"
+
+          if [ "$warsaw_hour" = "20" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping because local Warsaw hour is not 20."
+          fi
+
       - name: Checkout
+        if: steps.warsaw_time.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Go
+        if: steps.warsaw_time.outputs.should_run == 'true'
         uses: actions/setup-go@v5
         with:
           go-version-file: go.mod
 
       - name: Build generator
+        if: steps.warsaw_time.outputs.should_run == 'true'
         run: go build -o gohumble ./cmd/
 
       - name: Generate RSS and JSON files
+        if: steps.warsaw_time.outputs.should_run == 'true'
         run: cd docs && ../gohumble
 
       - name: Show generated files
+        if: steps.warsaw_time.outputs.should_run == 'true'
         run: |
           ls -la docs
           grep -R "Bundle ends:" -n docs/*.rss || true
@@ -31,6 +59,7 @@ jobs:
           test -f docs/all.rss
 
       - name: Upload generated feed artifacts
+        if: steps.warsaw_time.outputs.should_run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: generated-feeds
