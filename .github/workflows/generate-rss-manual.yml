@@ -19,19 +19,25 @@ jobs:
       - name: Build generator
         run: go build -o gohumble ./cmd/
 
-      - name: Generate RSS files
+      - name: Generate RSS and JSON files
         run: cd docs && ../gohumble
 
       - name: Show generated files
         run: |
           ls -la docs
           grep -R "Bundle ends:" -n docs/*.rss || true
+          test -f docs/all.json
+          test -f docs/urgent.json
+          test -f docs/all.rss
 
-      - name: Upload generated RSS
+      - name: Upload generated feed artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: generated-rss
+          name: generated-feeds
           path: |
             docs/books.rss
             docs/games.rss
             docs/software.rss
+            docs/all.rss
+            docs/all.json
+            docs/urgent.json
