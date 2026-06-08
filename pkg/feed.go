@@ -53,10 +53,20 @@ func createFeed(products []Product, category string) feeds.Feed {
 			continue
 		}
 
+		content := product.DetailedMarketingBlurb
+		
+		if product.EndDateDatetime != "" {
+			content = fmt.Sprintf(
+				"%s<br/><br/><strong>Bundle ends:</strong> %s UTC",
+				content,
+				product.EndDateDatetime,
+			)
+		}
+		
 		validProducts = append(validProducts, &feeds.Item{
 			Title:       product.TileShortName,
 			Link:        &feeds.Link{Href: fmt.Sprintf("https://humblebundle.com%s", product.ProductURL)},
-			Content:     product.DetailedMarketingBlurb,
+			Content:     content,
 			Created:     dt,
 			Description: product.ShortMarketingBlurb,
 		})
