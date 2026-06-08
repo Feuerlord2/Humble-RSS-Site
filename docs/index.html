@@ -3,136 +3,206 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Humble Bundle RSS Feeds</title>
-    <meta name="description" content="Curated RSS feed collection for the latest Humble Bundles — books, games, and software.">
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%23dc2626'/><stop offset='100%25' stop-color='%234a5568'/></linearGradient></defs><circle cx='50' cy='50' r='45' fill='url(%23g)'/><path d='M50 25 L50 50 M50 50 L65 42 M35 55 Q50 70 65 55' stroke='white' stroke-width='4' stroke-linecap='round' fill='none'/></svg>">
+    <title>Humble Watch</title>
+    <meta name="description" content="Table view for current Humble Bundle RSS and JSON outputs.">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <div class="preloader">
-        <div class="preloader-logo">Humble <span>Bundle</span></div>
-        <div class="preloader-track"><div class="preloader-bar"></div></div>
-    </div>
-
-    <div class="scene"></div>
-    <div class="grid-lines"></div>
-    <div class="orb"></div>
-    <div class="orb orb-2"></div>
-    <div class="scanline"></div>
-
-    <div class="corner-mark tl"></div>
-    <div class="corner-mark tr"></div>
-    <div class="corner-mark bl"></div>
-    <div class="corner-mark br"></div>
-
-    <div class="page">
-
-        <header class="header">
-            <div class="eyebrow">
-                <span>RSS Feed Collection</span>
-            </div>
-            <h1 class="logo">
-                Humble<br><span class="accent">Bundle</span>
-                <span class="logo-line-2">RSS Feeds</span>
-            </h1>
+    <main class="watch-page">
+        <header class="watch-header">
+            <p class="eyebrow">Humble Watch</p>
+            <h1>Current Humble Bundle radar</h1>
             <p class="subtitle">
-                Your <strong>curated</strong> feed collection for the latest
-                Humble Bundles &mdash; always current, always elegant.
+                Static table view generated from <code>all.json</code>. Not affiliated with Humble Bundle, Inc.
             </p>
+            <nav class="feed-links" aria-label="Feed links">
+                <a href="./all.rss">All RSS</a>
+                <a href="./games.rss">Games RSS</a>
+                <a href="./books.rss">Books RSS</a>
+                <a href="./software.rss">Software RSS</a>
+                <a href="./all.json">all.json</a>
+                <a href="./urgent.json">urgent.json</a>
+            </nav>
         </header>
 
-        <div class="feeds">
-            <a href="./books.rss" class="feed-card" data-delay="0">
-                <span class="feed-number">01</span>
-                <div class="feed-icon">
-                    <svg viewBox="0 0 24 24"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/><path d="M8 7h6"/><path d="M8 11h4"/></svg>
-                </div>
-                <div class="feed-tag"><span class="dot"></span>Book Bundles</div>
-                <h3 class="feed-title">Books &amp; eBooks</h3>
-                <p class="feed-desc">
-                    Discover the best eBook collections and expand your digital library.
-                </p>
-                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
-            </a>
+        <section class="summary-grid" aria-label="Summary">
+            <div class="summary-card"><span id="count-all">—</span><small>all bundles</small></div>
+            <div class="summary-card"><span id="count-urgent">—</span><small>ending within 72h</small></div>
+            <div class="summary-card"><span id="count-today">—</span><small>ending within 24h</small></div>
+            <div class="summary-card"><span id="generated-at">—</span><small>generated UTC</small></div>
+        </section>
 
-            <a href="./games.rss" class="feed-card" data-delay="1">
-                <span class="feed-number">02</span>
-                <div class="feed-icon">
-                    <svg viewBox="0 0 24 24"><path d="M6 11h4"/><path d="M8 9v4"/><path d="m15 12 .5.5"/><path d="m17.5 9.5.5.5"/><rect x="2" y="6" width="20" height="12" rx="2"/></svg>
-                </div>
-                <div class="feed-tag"><span class="dot"></span>Game Bundles</div>
-                <h3 class="feed-title">Games &amp; Gaming</h3>
-                <p class="feed-desc">
-                    The latest game bundles for limitless fun at unbeatable prices.
-                </p>
-                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
-            </a>
-
-            <a href="./software.rss" class="feed-card" data-delay="2">
-                <span class="feed-number">03</span>
-                <div class="feed-icon">
-                    <svg viewBox="0 0 24 24"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/><line x1="12" y1="2" x2="12" y2="22" opacity="0"/></svg>
-                </div>
-                <div class="feed-tag"><span class="dot"></span>Software Bundles</div>
-                <h3 class="feed-title">Software &amp; Tools</h3>
-                <p class="feed-desc">
-                    Professional software bundles for developers, designers, and creatives.
-                </p>
-                <span class="feed-cta">Subscribe to feed <svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
-            </a>
-        </div>
-
-        <footer class="footer">
-            <div class="footer-inner">
-                Not affiliated with Humble Bundle, Inc.
-                <span class="heart-icon"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg></span>
-                For the community
+        <section class="controls" aria-label="Filters">
+            <div class="button-row" id="category-buttons">
+                <button class="active" data-category="all">All</button>
+                <button data-category="games">Games</button>
+                <button data-category="books">Books</button>
+                <button data-category="software">Software</button>
+                <button data-urgent="72">Urgent &lt;72h</button>
             </div>
-        </footer>
+            <label class="search-box">
+                <span>Search</span>
+                <input id="search" type="search" placeholder="title, description, category…">
+            </label>
+        </section>
 
-    </div>
+        <section class="table-wrap" aria-label="Bundle table">
+            <table>
+                <thead>
+                    <tr>
+                        <th data-sort="category">Category</th>
+                        <th data-sort="title">Title</th>
+                        <th data-sort="days_left">Days left</th>
+                        <th data-sort="end_at">Ends</th>
+                        <th>Description</th>
+                        <th data-sort="bundles_sold">Sold</th>
+                    </tr>
+                </thead>
+                <tbody id="bundle-table">
+                    <tr><td colspan="6" class="loading">Loading all.json…</td></tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
 
     <script>
-        // Preloader
-        window.addEventListener('load', function() {
-            document.querySelector('.preloader').classList.add('loaded');
+        const state = {
+            items: [],
+            category: 'all',
+            urgentHours: null,
+            search: '',
+            sortKey: 'days_left',
+            sortDirection: 'asc'
+        };
+
+        const formatter = new Intl.DateTimeFormat(undefined, {
+            year: 'numeric', month: 'short', day: '2-digit',
+            hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
         });
 
-        // Staggered card reveal
-        var cards = document.querySelectorAll('.feed-card');
-        cards.forEach(function(card, i) {
-            setTimeout(function() {
-                card.classList.add('visible');
-            }, 1200 + i * 180);
+        function cleanText(value) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = value || '';
+            return tmp.textContent || tmp.innerText || '';
+        }
+
+        function formatDate(value) {
+            if (!value) return '—';
+            const date = new Date(value.endsWith('Z') ? value : value + 'Z');
+            if (Number.isNaN(date.getTime())) return value;
+            return formatter.format(date);
+        }
+
+        function formatNumber(value) {
+            if (value === null || value === undefined || value === 0) return '—';
+            return new Intl.NumberFormat().format(value);
+        }
+
+        function getFilteredItems() {
+            const query = state.search.trim().toLowerCase();
+            return state.items.filter(item => {
+                if (state.category !== 'all' && item.category !== state.category) return false;
+                if (state.urgentHours !== null && (item.hours_left === null || item.hours_left > state.urgentHours)) return false;
+                if (!query) return true;
+                const haystack = [item.title, item.category, item.description, cleanText(item.long_description)]
+                    .join(' ')
+                    .toLowerCase();
+                return haystack.includes(query);
+            }).sort((a, b) => compareItems(a, b));
+        }
+
+        function compareItems(a, b) {
+            const dir = state.sortDirection === 'asc' ? 1 : -1;
+            const key = state.sortKey;
+            let av = a[key];
+            let bv = b[key];
+
+            if (key === 'days_left' || key === 'hours_left' || key === 'bundles_sold') {
+                av = av === null || av === undefined ? Number.POSITIVE_INFINITY : Number(av);
+                bv = bv === null || bv === undefined ? Number.POSITIVE_INFINITY : Number(bv);
+                return (av - bv) * dir;
+            }
+
+            av = (av || '').toString().toLowerCase();
+            bv = (bv || '').toString().toLowerCase();
+            return av.localeCompare(bv) * dir;
+        }
+
+        function render() {
+            const tbody = document.getElementById('bundle-table');
+            const items = getFilteredItems();
+
+            if (!items.length) {
+                tbody.innerHTML = '<tr><td colspan="6" class="loading">No bundles match current filters.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = items.map(item => {
+                const desc = cleanText(item.description || '').slice(0, 180);
+                const urgentClass = item.hours_left !== null && item.hours_left <= 24 ? 'danger' :
+                    item.hours_left !== null && item.hours_left <= 72 ? 'warning' : '';
+                return `
+                    <tr class="${urgentClass}">
+                        <td><span class="pill ${item.category}">${item.category}</span></td>
+                        <td><a class="bundle-link" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></td>
+                        <td>${item.days_left === null ? '—' : item.days_left.toFixed(2)}</td>
+                        <td>${formatDate(item.end_at)}</td>
+                        <td>${desc}${desc.length >= 180 ? '…' : ''}</td>
+                        <td>${formatNumber(item.bundles_sold)}</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function updateSummary(data) {
+            const items = data.items || [];
+            document.getElementById('count-all').textContent = items.length;
+            document.getElementById('count-urgent').textContent = items.filter(x => x.hours_left !== null && x.hours_left <= 72).length;
+            document.getElementById('count-today').textContent = items.filter(x => x.hours_left !== null && x.hours_left <= 24).length;
+            document.getElementById('generated-at').textContent = data.generated_at ? data.generated_at.replace('T', ' ').replace('Z', '') : '—';
+        }
+
+        document.getElementById('category-buttons').addEventListener('click', event => {
+            const button = event.target.closest('button');
+            if (!button) return;
+            document.querySelectorAll('#category-buttons button').forEach(btn => btn.classList.remove('active'));
+            button.classList.add('active');
+            state.category = button.dataset.category || 'all';
+            state.urgentHours = button.dataset.urgent ? Number(button.dataset.urgent) : null;
+            render();
         });
 
-        // Pointer-follow glow on cards
-        cards.forEach(function(card) {
-            card.addEventListener('mousemove', function(e) {
-                var rect = card.getBoundingClientRect();
-                var x = ((e.clientX - rect.left) / rect.width * 100).toFixed(1);
-                var y = ((e.clientY - rect.top) / rect.height * 100).toFixed(1);
-                card.style.setProperty('--mx', x + '%');
-                card.style.setProperty('--my', y + '%');
+        document.getElementById('search').addEventListener('input', event => {
+            state.search = event.target.value;
+            render();
+        });
+
+        document.querySelectorAll('th[data-sort]').forEach(th => {
+            th.addEventListener('click', () => {
+                const key = th.dataset.sort;
+                if (state.sortKey === key) {
+                    state.sortDirection = state.sortDirection === 'asc' ? 'desc' : 'asc';
+                } else {
+                    state.sortKey = key;
+                    state.sortDirection = 'asc';
+                }
+                render();
             });
         });
 
-        // Subtle parallax on orbs
-        var ticking = false;
-        document.addEventListener('mousemove', function(e) {
-            if (ticking) return;
-            ticking = true;
-            requestAnimationFrame(function() {
-                var x = (e.clientX / window.innerWidth - 0.5) * 20;
-                var y = (e.clientY / window.innerHeight - 0.5) * 20;
-                document.querySelector('.orb').style.transform =
-                    'translate(' + x + 'px, ' + y + 'px)';
-                document.querySelector('.orb-2').style.transform =
-                    'translate(' + (-x * 0.6) + 'px, ' + (-y * 0.6) + 'px)';
-                ticking = false;
+        fetch('./all.json', { cache: 'no-store' })
+            .then(response => {
+                if (!response.ok) throw new Error('Could not load all.json');
+                return response.json();
+            })
+            .then(data => {
+                state.items = data.items || [];
+                updateSummary(data);
+                render();
+            })
+            .catch(error => {
+                document.getElementById('bundle-table').innerHTML = `<tr><td colspan="6" class="loading error">${error.message}</td></tr>`;
             });
-        });
     </script>
 </body>
 </html>
