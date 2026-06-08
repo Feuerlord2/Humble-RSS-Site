@@ -17,21 +17,21 @@ jobs:
           go-version-file: go.mod
 
       - name: Build generator
-        run: go build ./...
+        run: go build -o gohumble ./cmd/
 
       - name: Generate RSS files
-        run: go run ./cmd/gohumble
+        run: cd docs && ../gohumble
 
       - name: Show generated files
         run: |
-          ls -la
-          grep -R "Bundle ends:" -n *.rss || true
+          ls -la docs
+          grep -R "Bundle ends:" -n docs/*.rss || true
 
       - name: Upload generated RSS
         uses: actions/upload-artifact@v4
         with:
           name: generated-rss
           path: |
-            books.rss
-            games.rss
-            software.rss
+            docs/books.rss
+            docs/games.rss
+            docs/software.rss
