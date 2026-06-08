@@ -52,7 +52,7 @@
                     <tr>
                         <th data-sort="category">Category</th>
                         <th data-sort="title">Title</th>
-                        <th data-sort="days_left">Days left</th>
+                        <th data-sort="hours_left">Time left</th>
                         <th data-sort="end_at">Ends</th>
                         <th>Description</th>
                         <th data-sort="bundles_sold">Sold</th>
@@ -71,7 +71,7 @@
             category: 'all',
             urgentHours: null,
             search: '',
-            sortKey: 'days_left',
+            sortKey: 'hours_left',
             sortDirection: 'asc'
         };
 
@@ -96,6 +96,23 @@
         function formatNumber(value) {
             if (value === null || value === undefined || value === 0) return '—';
             return new Intl.NumberFormat().format(value);
+        }
+
+        function formatTimeLeft(hours) {
+            if (hours === null || hours === undefined || Number.isNaN(Number(hours))) return '—';
+            const totalMinutes = Math.max(0, Math.round(Number(hours) * 60));
+            const days = Math.floor(totalMinutes / 1440);
+            const remainingMinutes = totalMinutes % 1440;
+            const wholeHours = Math.floor(remainingMinutes / 60);
+            const minutes = remainingMinutes % 60;
+
+            if (days > 0) {
+                return `${days}d ${wholeHours}h`;
+            }
+            if (wholeHours > 0) {
+                return `${wholeHours}h ${minutes}m`;
+            }
+            return `${minutes}m`;
         }
 
         function getFilteredItems() {
@@ -145,7 +162,7 @@
                     <tr class="${urgentClass}">
                         <td><span class="pill ${item.category}">${item.category}</span></td>
                         <td><a class="bundle-link" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></td>
-                        <td>${item.days_left === null ? '—' : item.days_left.toFixed(2)}</td>
+                        <td>${formatTimeLeft(item.hours_left)}</td>
                         <td>${formatDate(item.end_at)}</td>
                         <td>${desc}${desc.length >= 180 ? '…' : ''}</td>
                         <td>${formatNumber(item.bundles_sold)}</td>
