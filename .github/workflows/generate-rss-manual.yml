@@ -1,0 +1,37 @@
+name: Generate RSS Manual
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Build generator
+        run: go build ./...
+
+      - name: Generate RSS files
+        run: go run ./cmd/gohumble
+
+      - name: Show generated files
+        run: |
+          ls -la
+          grep -R "Bundle ends:" -n *.rss || true
+
+      - name: Upload generated RSS
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-rss
+          path: |
+            books.rss
+            games.rss
+            software.rss
