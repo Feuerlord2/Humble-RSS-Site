@@ -4,12 +4,19 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 22 Jun 2026 13:36:57 +0000</pubDate>
+    <pubDate>Mon, 22 Jun 2026 19:31:45 +0000</pubDate>
+    <item>
+      <title>Game Development - Mega Bundle</title>
+      <link>https://humblebundle.com/software/game-development-mega-bundle-software</link>
+      <description>The Ultimate Game Dev Bundle</description>
+      <content:encoded><![CDATA[Kick off your summer learning program with the latest Game Development Mega Bundle by Packt! Unlock helpful tools that speed up your dev cycle with <em>Procedural Weapon Generation with Blender 4.4</em> and <em>Procedural Maze Building - Unity 6 and Blender Compatible</em>. Gear up for development combat with <em>Unity Game Creation Bootcamp - Unity 6 Compatible</em> and <em>Blender 5 Project Based Bootcamp - 40+ Hands-On Mini Projects</em>, and tackle your next project with the firepower you need to succeed. Unlock the assets, tools, and courses you need to elevate your game, and help support the Girls Make Games Scholarship Fund with your purchase! <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem your keys before July 13, 2027.</span>]]></content:encoded>
+      <pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Professional Developer Pathways Bundle</title>
       <link>https://humblebundle.com/software/professional-developer-pathways-bundle-software</link>
-      <description>Carve your own pathways in tech</description>
-      <content:encoded><![CDATA[Don’t stress that upcoming test—master the skills and techniques you need to ace your AWS, Azure, and JavaScript certification exams with a curated bundle of Prep & Pass learning courses from the experts at Zenva! Pay what you want for in-demand courses like <em>Microsoft Azure Developer Associate</em>, <em>AWS Certified Developer – Associate</em>, <em>Git and Github for Beginners</em>, and more! Take your career to the next level with the Professional Developer Pathways Bundle, and help support Alzheimer’s Research UK with your purchase.]]></content:encoded>
+      <description>Build modern developer skills</description>
+      <content:encoded><![CDATA[Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git & GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.]]></content:encoded>
       <pubDate>Thu, 18 Jun 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -90,13 +97,6 @@
       <pubDate>Mon, 01 Jun 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Complete Business and AI Certification Bundle</title>
-      <link>https://humblebundle.com/software/complete-business-and-ai-certification-bundle-software</link>
-      <description>Bolster your business with AI support </description>
-      <content:encoded><![CDATA[It’s time to level up your business tech skills—develop the fundamental knowledge needed to prepare for operation-changing AI certification exams with our latest Software Bundle. This comprehensive curriculum contains everything you need to develop pivotal AI skills across the most popular business platforms from companies like Microsoft and Google. Highlighted by courses like <em>Asana Workflow Specialist Certificate with Practice Exam</em> and <em>Project Management Institute - Project Management Professional (PMP) with Practice Exam</em>, two of many first-time Humble Bundle Exclusives. Streamline your business with AI support and help Make-A-Wish with your purchase! <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem your keys before Jun 22, 2027. </span>]]></content:encoded>
-      <pubDate>Mon, 01 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Melodic Mayhem Vol. 2: A Comprehensive Audio and Music Bundle</title>
       <link>https://humblebundle.com/software/melodic-mayhem-vol-2-comprehensive-audio-and-music-bundle-software</link>
       <description>So much melodic mayhem we had to drop a Vol. 2!</description>
@@ -109,6 +109,13 @@
       <description>Master Unreal Engine with ease</description>
       <content:encoded><![CDATA[Harness the power of Unreal Engine with our latest Software Learning Bundle by Zenva. This expert-led collection contains specialized courses designed to help you build any genre of game: integrate strategy and base building into your next project with <em>Build a Tower Defense Game in Unreal Engine</em>, scare the pants off players with <em>Make a Horror Game in Unreal Engine</em>, or add a splash of retro fun with <em>Develop a Classic Shoot 'em Up with Unreal Engine</em>. Get serious about game design for a price you choose and help support Girls Who Code with your purchase!  <br/><br/><span style="color: #ef9741;">Keys Expire. Please redeem before June 18th, 2027. </span>]]></content:encoded>
       <pubDate>Thu, 28 May 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Music for Dummies 2026</title>
+      <link>https://humblebundle.com/software/music-for-dummies-2026-software</link>
+      <description>Amazing music lessons For Dummies</description>
+      <content:encoded><![CDATA[The sweet sounds of savings have arrived to make your foray into musical stardom even easier with the 2026 Music for Dummies Bundle! The professionals from the <em>For Dummies</em> series are back again to help you unleash your inner musician. Learn a variety of digital instruments with in-depth lessons like <em>eMedia Guitar For Dummies Level 1-2</em>, <em>eMedia Piano For Dummies Level 1-2</em>, and <em>eMedia Singing For Dummies Level 1-2</em>. Take your passion for digital music to superstar levels of greatness, and help support the World Wildlife Fund with your purchase. <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem before December 16th, 2026 </span>]]></content:encoded>
+      <pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>The Cybersecurity &amp; AI Defense Mega Bundle by Packt</title>
@@ -130,13 +137,6 @@
       <description>Royalty-free instrument essentials for you</description>
       <content:encoded><![CDATA[Create the perfect audioscape for your next game or creative project with IK Multimedia’s curated collection of studio essentials! Capture the magic of classic instruments from this extensive 1,000+ asset library of commercial-ready string, bass, and drum samples from themed packs like <em>MODO BASS Studio Upright</em>, <em>Pianoverse - Grand Piano Y7</em>, <em>Miroslav Philharmonik 2</em>, and more! Explore a variety of genres, from lo-fi to classical and everything in between. Get the assets you need to achieve the sound you’re looking for, and support Music Will with your purchase! <br/><br/><span style="color: #ef9741;">Keys Expire. Please redeem before June 2nd, 2027 </span>]]></content:encoded>
       <pubDate>Wed, 20 May 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build &amp; Launch AI Apps Bundle</title>
-      <link>https://humblebundle.com/software/build-launch-ai-apps-bundle-software</link>
-      <description>Build and launch AI apps in no time</description>
-      <content:encoded><![CDATA[Build and launch AI apps in no time with a curated collection of twenty instructor-led courses by Zenva! Learn to harness Claude Code to vibe code a real-world slide presentation web app from start to finish and so much more! Access practical tools like live coding lessons where you can practice and instantly see the results of the changes you make to the code! Pay what you want for courses like <em>AI-Assisted Development with Claude Code</em> and <em>Agentic AI with Claude Code & MCP</em> today! <br><br><span style="color: #ef9741;">Keys expire. Please redeem before June 8th, 2027. </span>]]></content:encoded>
-      <pubDate>Mon, 18 May 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
