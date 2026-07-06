@@ -1,11 +1,13 @@
 package gohumble
 
 import (
-	"bufio"
 	"encoding/json"
+	"errors"
 	"fmt"
+	"log/slog"
 	"net/http"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 	"sync"
@@ -13,165 +15,170 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gorilla/feeds"
-	log "github.com/sirupsen/logrus"
 )
 
-func Run() {
-	wg := sync.WaitGroup{}
-	for _, category := range []string{"books", "games", "software"} {
+var categories = []string{"books", "games", "software"}
+
+var httpClient = &http.Client{Timeout: 30 * time.Second}
+
+// Run updates the RSS feed for every category and writes the .rss files into
+// outDir. It returns an error if any category fails, so a scheduled run can
+// exit non-zero and surface the failure instead of silently going stale.
+func Run(outDir string) error {
+	var (
+		wg   sync.WaitGroup
+		mu   sync.Mutex
+		errs []error
+	)
+	for _, category := range categories {
 		wg.Add(1)
-		go updateCategory(&wg, category)
+		go func(category string) {
+			defer wg.Done()
+			if err := updateCategory(category, outDir); err != nil {
+				slog.Error("updating category failed", "category", category, "error", err)
+				mu.Lock()
+				errs = append(errs, fmt.Errorf("%s: %w", category, err))
+				mu.Unlock()
+			} else {
+				slog.Info("feed updated", "category", category)
+			}
+		}(category)
 	}
 	wg.Wait()
+	return errors.Join(errs...)
 }
 
-func createFeed(products []Product, category string) feeds.Feed {
-	feed := feeds.Feed{
+func updateCategory(category, outDir string) error {
+	products, err := fetchProducts(category)
+	if err != nil {
+		return err
+	}
+
+	feed, err := createFeed(products, category)
+	if err != nil {
+		return err
+	}
+
+	return writeFeedToFile(feed, filepath.Join(outDir, category+".rss"))
+}
+
+func fetchProducts(category string) ([]Product, error) {
+	req, err := http.NewRequest(http.MethodGet, "https://www.humblebundle.com/"+category, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", "gohumble-rss/1.0 (+https://github.com/Feuerlord2/Humble-RSS-Site)")
+
+	resp, err := httpClient.Do(req)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected HTTP status %d", resp.StatusCode)
+	}
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	data := doc.Find("script#landingPage-json-data").First().Text()
+	if data == "" {
+		return nil, errors.New("script#landingPage-json-data not found in page")
+	}
+
+	return parseProducts([]byte(data), category)
+}
+
+func parseProducts(data []byte, category string) ([]Product, error) {
+	var page landingPage
+	if err := json.Unmarshal(data, &page); err != nil {
+		return nil, err
+	}
+
+	raw, ok := page.Data[category]
+	if !ok {
+		return nil, fmt.Errorf("no %q section found in page data", category)
+	}
+
+	var cd categoryData
+	if err := json.Unmarshal(raw, &cd); err != nil {
+		return nil, err
+	}
+	if len(cd.Mosaic) == 0 {
+		return nil, fmt.Errorf("no mosaic data found for %s", category)
+	}
+
+	// Collect products across all mosaic sections, deduplicated by URL.
+	seen := make(map[string]bool)
+	var products []Product
+	for _, section := range cd.Mosaic {
+		for _, p := range section.Products {
+			if p.ProductURL == "" || seen[p.ProductURL] {
+				continue
+			}
+			seen[p.ProductURL] = true
+			products = append(products, p)
+		}
+	}
+	return products, nil
+}
+
+func createFeed(products []Product, category string) (*feeds.Feed, error) {
+	feed := &feeds.Feed{
 		Title:       fmt.Sprintf("Go Humble! RSS %s", strings.ToUpper(category[:1])+category[1:]),
 		Link:        &feeds.Link{Href: "https://feuerlord2.github.io/Humble-RSS-Site/"},
 		Description: fmt.Sprintf("Awesome RSS Feeds about HumbleBundle %s bundles!", category),
 		Author:      &feeds.Author{Name: "Daniel Winter", Email: "DanielWinterEmsdetten+rss@gmail.com"},
-		Created:     time.Now(),
 	}
 
-	validProducts := make([]*feeds.Item, 0, len(products))
-
 	for _, product := range products {
-		// Skip products without a valid date
 		if product.StartDateDatetime == "" {
-			log.WithField("product", product.TileShortName).Warn("skipping product with empty StartDateDatetime")
+			slog.Warn("skipping product with empty start date", "product", product.TileShortName)
 			continue
 		}
 
 		// Need to add a Z in order to make it RFC3339 parseable.
 		dt, err := time.Parse(time.RFC3339, product.StartDateDatetime+"Z")
 		if err != nil {
-			log.WithFields(log.Fields{
-				"product": product.TileShortName,
-				"date":    product.StartDateDatetime,
-			}).Warn("skipping product with invalid date format")
+			slog.Warn("skipping product with invalid date format",
+				"product", product.TileShortName, "date", product.StartDateDatetime)
 			continue
 		}
 
-		validProducts = append(validProducts, &feeds.Item{
+		link := "https://www.humblebundle.com" + product.ProductURL
+		feed.Items = append(feed.Items, &feeds.Item{
 			Title:       product.TileShortName,
-			Link:        &feeds.Link{Href: fmt.Sprintf("https://humblebundle.com%s", product.ProductURL)},
+			Link:        &feeds.Link{Href: link},
+			Id:          link,
 			Content:     product.DetailedMarketingBlurb,
 			Created:     dt,
 			Description: product.ShortMarketingBlurb,
 		})
 	}
 
-	feed.Items = validProducts
+	// Never publish an empty feed: an upstream markup change should fail the
+	// run loudly rather than wipe the existing feed file.
+	if len(feed.Items) == 0 {
+		return nil, fmt.Errorf("no valid products for %s", category)
+	}
 
 	// Sort items so that latest bundles are on the top.
 	sort.Slice(feed.Items, func(i, j int) bool { return feed.Items[i].Created.After(feed.Items[j].Created) })
 
-	return feed
+	// Stamp the feed with the newest item date instead of time.Now() so the
+	// output file only changes when the bundles actually change.
+	feed.Created = feed.Items[0].Created
+
+	return feed, nil
 }
 
-func parseProducts(data []byte, category string) ([]Product, error) {
-	switch category {
-	case "books":
-		var books BooksData
-		err := json.Unmarshal(data, &books)
-		if err != nil {
-			return nil, err
-		}
-		if len(books.Data.Books.Mosaic) == 0 {
-			return nil, fmt.Errorf("no mosaic data found for %s", category)
-		}
-		return books.Data.Books.Mosaic[0].Products, nil
-	case "games":
-		var games GamesData
-		err := json.Unmarshal(data, &games)
-		if err != nil {
-			return nil, err
-		}
-		if len(games.Data.Games.Mosaic) == 0 {
-			return nil, fmt.Errorf("no mosaic data found for %s", category)
-		}
-		return games.Data.Games.Mosaic[0].Products, nil
-	case "software":
-		var software SoftwareData
-		err := json.Unmarshal(data, &software)
-		if err != nil {
-			return nil, err
-		}
-		if len(software.Data.Software.Mosaic) == 0 {
-			return nil, fmt.Errorf("no mosaic data found for %s", category)
-		}
-		return software.Data.Software.Mosaic[0].Products, nil
-	default:
-		return nil, fmt.Errorf("unknown category %s", category)
-	}
-}
-
-func updateCategory(wg *sync.WaitGroup, category string) {
-	defer wg.Done()
-
-	resp, err := http.Get(fmt.Sprintf("https://www.humblebundle.com/%s", category))
-	if err != nil {
-		log.WithField("category", category).Error(err)
-		return
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		log.WithFields(log.Fields{
-			"category": category,
-			"status":   resp.StatusCode,
-		}).Error("unexpected HTTP status")
-		return
-	}
-
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		log.WithField("category", category).Error(err)
-		return
-	}
-
-	doc.Find("script#landingPage-json-data").Each(func(idx int, s *goquery.Selection) {
-		node := s.Nodes[0]
-		data := node.FirstChild.Data
-
-		products, err := parseProducts([]byte(data), category)
-		if err != nil {
-			log.WithField("step", "parsing").Error(err)
-			return
-		}
-
-		feed := createFeed(products, category)
-
-		if err := writeFeedToFile(feed, category); err != nil {
-			log.WithField("step", "writing").Error(err)
-		}
-	})
-}
-
-func writeFeedToFile(feed feeds.Feed, category string) error {
-	f, err := os.OpenFile(
-		fmt.Sprintf("%s.rss", category),
-		os.O_CREATE|os.O_TRUNC|os.O_WRONLY,
-		0644,
-	)
-	if err != nil {
-		return err
-	}
-	defer f.Close()
-
-	w := bufio.NewWriter(f)
+func writeFeedToFile(feed *feeds.Feed, path string) error {
 	rss, err := feed.ToRss()
 	if err != nil {
 		return err
 	}
-
-	if _, err := w.WriteString(rss); err != nil {
-		return err
-	}
-
-	if err := w.Flush(); err != nil {
-		return err
-	}
-	return nil
+	return os.WriteFile(path, []byte(rss+"\n"), 0o644)
 }
