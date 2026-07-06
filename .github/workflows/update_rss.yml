@@ -25,7 +25,7 @@ jobs:
       - name: Test
         run: go test ./...
       - name: Build
-        run: go build ./cmd/
+        run: go build -o /dev/null ./cmd/
 
   update_rss_feeds:
     # Only refresh and commit the feeds on scheduled/manual/main runs,
