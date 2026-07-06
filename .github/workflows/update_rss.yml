@@ -4,25 +4,49 @@ on:
   pull_request:
   push:
     branches:
-    - main
+      - main
   schedule:
-    - cron: "0 */8 * * *"
-    - cron: "0 20 * * *"
-    - cron: "0 22 * * *"
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  update_rss_feeds:
+  test:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
         with:
-          go-version: '1.20.1'
-      - name: Build gohumble
-        run: go build -o gohumble ./cmd/
-      - name: Run gohumble
-        run: cd docs && ../gohumble
+          go-version-file: go.mod
+      - name: Vet
+        run: go vet ./...
+      - name: Test
+        run: go test ./...
+      - name: Build
+        run: go build ./cmd/
+
+  update_rss_feeds:
+    # Only refresh and commit the feeds on scheduled/manual/main runs,
+    # never on pull requests (fork PRs have no write token anyway).
+    if: github.event_name != 'pull_request'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: update-rss
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      - name: Update feeds
+        run: go run ./cmd/ -out docs
       - uses: EndBug/add-and-commit@v9
         with:
+          add: "docs/*.rss"
+          message: "Update RSS feeds"
           default_author: github_actions
