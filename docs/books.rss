@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 04 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Red Team &amp; Blue Team: The Hacker&#39;s Complete Playbook by Packt</title>
+      <link>https://www.humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books</link>
+      <description>Get Defending APIs, Digital Forensics Cookbook and more!</description>
+      <content:encoded><![CDATA[Turn your curiosity about computer hacking into a fast-paced, proven, and ethical career with our latest collaboration with the tech experts at Packt. Pay what you want for industry-leading insights from eBooks like <em>Cybersecurity Blue Team Strategies</em> and <em>Cybersecurity Attacks - Red Team Strategies</em>, all designed to help you combat bad hackers and secure your slice of cyberspace. Learn the latest defensive and offensive cybersecurity techniques and deepen your understanding, whether you’re a novice or a seasoned professional. Take control of your future, and help support The Global FoodBanking Network!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books</guid>
+      <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The John Scalzi Collection: Old Man&#39;s War &amp; More by TOR Books</title>
       <link>https://www.humblebundle.com/books/john-scalzi-collection-old-mans-war-more-tor-books-books</link>
@@ -68,14 +76,6 @@
       <content:encoded><![CDATA[Experience the boundless imagination of best-selling science fiction and fantasy author Tad Williams with this vast collection of eBooks. Feel hums of energy radiating off the page with the techno-thriller <em>City of Golden Shadow</em>—your intro to the acclaimed <em>Otherland</em> series, where vast conspiracies harness wondrous VR worlds for wicked ends. Journey into Williams’ beloved fantasy world of Osten Ard with the <em>The Witchwood Crown</em>. Unlock 20+ amazing eBooks all for a price you choose, and help support the ACLU with your purchase!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/tad-williams-otherland-osten-ard-and-more-daw-books-books</guid>
       <pubDate>Tue, 09 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Professor DM&#39;s Dungeon Crawl Classics Essentials Bundle Presented by Dungeon Craft</title>
-      <link>https://www.humblebundle.com/books/professor-dms-dungeon-crawl-classics-essentials-bundle-presented-dungeon-craft-books</link>
-      <description>This one’s for the dungeon crawlers</description>
-      <content:encoded><![CDATA[If you’re an avid follower of Dungeon Craft or simply want to test your mettle on a new adventure, you’ll want to snag this bundle of TTRPG rulebooks, adventures, inspiration manuals, and more presented by the one, the only Professor DM! In this library of over 100 ebooks and PDFs, you’ll find Dungeon Crawl Classics adventures like <em>The Croaking Fane</em> and <em>Intrigue at the Court of Chaos</em>, eldritch alphabets, how-to manuals, horror and romance tales, and a lot more—even hard copies of four random adventures with your purchase! This bundle has everything you need and more to kick off your next campaign, so get it now at the price of your choice, and support St. Jude Children’s Hospital! <br><br> <a style="color: #EF9741;"><strong><em>The titles in this bundle are available through DTRPG.</em></strong></a> <br><br> <span style="color: #ef9741;">Keys expire. Please redeem your digital tier keys before June 29th, 2027, and your physical tier key before December 31st, 2026.</span>]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/professor-dms-dungeon-crawl-classics-essentials-bundle-presented-dungeon-craft-books</guid>
-      <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
