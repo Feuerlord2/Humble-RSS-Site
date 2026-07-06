@@ -39,6 +39,11 @@ const sampleJSON = `{
 						"start_date|datetime": "not-a-date"
 					},
 					{
+						"product_url": "/books/zoned-date",
+						"tile_short_name": "Zoned Date",
+						"start_date|datetime": "2026-06-01T12:00:00Z"
+					},
+					{
 						"product_url": "/books/no-date",
 						"tile_short_name": "No Date"
 					}
@@ -53,9 +58,9 @@ func TestParseProducts(t *testing.T) {
 	if err != nil {
 		t.Fatalf("parseProducts: %v", err)
 	}
-	// 5 entries in the JSON, one is a duplicate URL -> 4 unique products.
-	if len(products) != 4 {
-		t.Fatalf("got %d products, want 4", len(products))
+	// 6 entries in the JSON, one is a duplicate URL -> 5 unique products.
+	if len(products) != 5 {
+		t.Fatalf("got %d products, want 5", len(products))
 	}
 	if products[0].TileShortName != "Cool Bundle" {
 		t.Errorf("got first product %q, want %q", products[0].TileShortName, "Cool Bundle")
@@ -85,9 +90,10 @@ func TestCreateFeed(t *testing.T) {
 		t.Fatalf("createFeed: %v", err)
 	}
 
-	// Products without a parseable start date are dropped.
-	if len(feed.Items) != 2 {
-		t.Fatalf("got %d feed items, want 2", len(feed.Items))
+	// Products without a parseable start date are dropped; zone-suffixed
+	// timestamps are accepted.
+	if len(feed.Items) != 3 {
+		t.Fatalf("got %d feed items, want 3", len(feed.Items))
 	}
 	// Newest bundle first.
 	if feed.Items[0].Title != "Cool Bundle" {

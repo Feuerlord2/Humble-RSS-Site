@@ -140,8 +140,12 @@ func createFeed(products []Product, category string) (*feeds.Feed, error) {
 			continue
 		}
 
-		// Need to add a Z in order to make it RFC3339 parseable.
-		dt, err := time.Parse(time.RFC3339, product.StartDateDatetime+"Z")
+		// Humble Bundle emits naive UTC timestamps ("2026-07-01T18:00:00");
+		// also accept a zone-suffixed RFC3339 value in case that ever changes.
+		dt, err := time.Parse("2006-01-02T15:04:05", product.StartDateDatetime)
+		if err != nil {
+			dt, err = time.Parse(time.RFC3339, product.StartDateDatetime)
+		}
 		if err != nil {
 			slog.Warn("skipping product with invalid date format",
 				"product", product.TileShortName, "date", product.StartDateDatetime)
