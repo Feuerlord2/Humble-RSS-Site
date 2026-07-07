@@ -45,7 +45,7 @@ jobs:
           go-version-file: go.mod
       - name: Update feeds
         run: go run ./cmd/ -out docs
-      - uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v10
         with:
           add: "docs/*.rss"
           message: "Update RSS feeds"
