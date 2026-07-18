@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Sat, 18 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>The Ultimate Python Development Bundle by Packt</title>
+      <link>https://www.humblebundle.com/books/ultimate-python-development-bundle-packt-books</link>
+      <description>Learn Python without the spendy pricetag </description>
+      <content:encoded><![CDATA[Build websites and software, automate tasks, analyze data, and more using Python—the star of our latest Tech Book Bundle with Packt. Pay what you want for a curated 21-title selection that can help transform your development cycle and career prospects. Unlock fundamental eBooks like <em>Python Illustrated</em>, a visual deep dive into the basics of Python coding, <em>Time Series Analysis with Python Cookbook - 2E</em>, and everything else you need to dip your toes into one of the most versatile programming languages on the market, while helping support the Python Software Foundation with your purchase. ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/ultimate-python-development-bundle-packt-books</guid>
+      <pubDate>Sat, 18 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Framing, Carpentry, and Fine Woodworking by Taunton Press</title>
       <link>https://www.humblebundle.com/books/framing-carpentry-and-fine-woodworking-taunton-press-books</link>
