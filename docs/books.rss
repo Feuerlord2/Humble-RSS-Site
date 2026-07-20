@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 18 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>AI, ML, and Decision Engines by Pragmatic</title>
+      <link>https://www.humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books</link>
+      <description>Start creating decision assisting tools</description>
+      <content:encoded><![CDATA[Break into the ever-growing world of AI, machine learning, and decision engines with a 15+ title bundle of eBooks curated by the experts at The Pragmatic Bookshelf! Learn time-efficient coding techniques from <em>Process Over Magic: Beyond Vibe Coding</em>, dip your toes into the latest in-demand skill sets with <em>A Common-Sense Guide to AI Engineering</em>, discover what content resonates with your audience from <em>Next-Level A/B Testing</em>, and so much more. Save big on the tools you need to succeed, and support Save the Children's emergency response in Venezuela with your purchase!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books</guid>
+      <pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Ultimate Python Development Bundle by Packt</title>
       <link>https://www.humblebundle.com/books/ultimate-python-development-bundle-packt-books</link>
