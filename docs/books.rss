@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Software Architecture by Apress</title>
+      <link>https://www.humblebundle.com/books/software-architecture-apress-books</link>
+      <description>Simplify Software Architecture with elite eBooks</description>
+      <content:encoded><![CDATA[Looking to break into the tech world or land your first software design role? This curated selection of Software Architecture and AI eBooks is the perfect toolkit for building your job-ready portfolio, mastering enterprise-level AI, and more. Practical, approachable, and focused on growing your knowledge base, titles like <em>Mastering Software Architecture</em> and <em>Mastering Machine Learning Architecture and Solutions</em> have everything you need to flourish in AI. Plus, your purchase helps support Girls Who Code!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/software-architecture-apress-books</guid>
+      <pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI, ML, and Decision Engines by Pragmatic</title>
       <link>https://www.humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books</link>
