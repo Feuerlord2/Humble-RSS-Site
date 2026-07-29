@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 28 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Disney Masters Collection and Originals by Fantagraphics</title>
+      <link>https://www.humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books</link>
+      <description>Comics starring your favorite Disney legends!</description>
+      <content:encoded><![CDATA[Iconic Disney characters take the world of comics by storm in this bundle of Disney Masters and original comic series from Fantagraphics! The greedy Scrooge McDuck journeys from the Yukon to Atlantis and beyond in <em>Walt Disney’s Uncle Scrooge: The Diamond Jubilee Collection</em>! Mickey Mouse goes steampunk in the retrofuturist odyssey <em>Walt Disney’s Mickey Mouse Versus The Mouseton Society of Evil</em>! Epic Mickey hops from your console to the pages of his own comics in the video game inspired <em>Disney Epic Mickey: The Comics Collection</em>! Join Mickey Mouse, Donald Duck, Uncle Scrooge, and more of your favorite Disney legends in new tales and classic adventures in this bundle for old fans and newcomers alike! Grab this collection now at the price of your choice, and support First Book charity with your purchase. ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books</guid>
+      <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>From Rivers to Fjords - Explore the Worlds of Basic Roleplaying by Chaosium</title>
       <link>https://www.humblebundle.com/books/from-rivers-to-fjords-explore-worlds-basic-roleplaying-chaosium-books</link>
@@ -126,14 +134,6 @@
       <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Linux: All the Things by O&#39;Reilly</title>
-      <link>https://www.humblebundle.com/books/linux-all-things-oreilly-books</link>
-      <description>Learn Linux with O’Reilly</description>
-      <content:encoded><![CDATA[Tired of that stale operating system? Add color, customization, and optimization to your workstation with the all-new Linux: All the Things Bundle by O'Reilly! Master the fundamentals of Linux with 15 eBooks that cover everything you need to know. Pay what you want for an expertly curated Linux library designed to streamline your learning journey with foundational eBooks like <em>Learning Git</em>, <em>Linux Pocket Guide</em>, and <em>Practical Linux System Administration</em>. Unlock what’s possible with Linux, and help support Code for America with your purchase! ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/linux-all-things-oreilly-books</guid>
-      <pubDate>Wed, 08 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Tanith Lee Collection by DAW Books</title>
       <link>https://www.humblebundle.com/books/tanith-lee-collection-daw-books-books</link>
       <description>New worlds, strange visions</description>
@@ -156,14 +156,6 @@
       <content:encoded><![CDATA[Looking for a leg up on apps and AI? We’ve partnered with Manning Publications to curate the perfect summer reading series for curious, tech-focused minds! It all begins with the AI Foundations and Applications Bundle—embark on your learning journey with <em>AI-Powered Search</em>, <em>Build a Large Language Model (From Scratch)</em>, or <em>Deep Learning with Python, 3e</em> and watch your confidence grow in these red-hot fields of tech. Make summer ’26 the season of growth for your career, and help support Feeding America with your purchase. ]]></content:encoded>
       <guid>https://www.humblebundle.com/books/ai-foundations-and-applications-manning-books</guid>
       <pubDate>Thu, 02 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Craft Your Cosplay Dreams</title>
-      <link>https://www.humblebundle.com/books/craft-your-cosplay-dreams-books</link>
-      <description>Give yourself main character energy</description>
-      <content:encoded><![CDATA[With this bundle of how-to books on crafting the perfect cosplay, you have everything you need to turn yourself into the main character! Or the charming sidekick. Or the character nobody understands better than you. Try your hand at blacksmithing without all the fuss and craft the swords, shields, and armor of your wildest imagination. Collect patterns for masks, ears, pouches, and witch hats. Learn the ins and outs of 3D printing, cosplay as a business, and how to give your photos the aura they deserve. There’s a lot more included in the pages of this bundle, so get it now at the price of your choice, and choose your own charity to support with your purchase! ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/craft-your-cosplay-dreams-books</guid>
-      <pubDate>Wed, 01 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
