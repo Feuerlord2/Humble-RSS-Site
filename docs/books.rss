@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+    <pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>The Ultimate Vegan Cookbook Bundle by Page Street Publishing</title>
+      <link>https://www.humblebundle.com/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books</link>
+      <description>Powered by plants</description>
+      <content:encoded><![CDATA[Whether you’re committed to the plant-based lifestyle or thinking about giving it a try, there’s never been a better time to go vegan—especially with this bundle of over 60 vegan cookbooks! We’ve teamed up with Page Street Publishing for a treasure trove of recipes that bring the joys of veganism right to your home kitchen. If you’re looking for Southern soul food with a vegetarian twist, scrumptious Mexican food that keeps things verde, delicious Asian-inspired meals for herbivores, or just tips on how to save while keeping your meals cruelty-free, you’ll find all of that and so much more in this bundle! Grab these cooking ebooks at the price of your choice, and help support World Central Kitchen with your purchase!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/ultimate-vegan-cookbook-bundle-page-street-publishing-books</guid>
+      <pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Disney Masters Collection and Originals by Fantagraphics</title>
       <link>https://www.humblebundle.com/books/disney-masters-collection-and-originals-fantagraphics-books</link>
@@ -156,14 +164,6 @@
       <content:encoded><![CDATA[Turn your curiosity about computer hacking into a fast-paced, proven, and ethical career with our latest collaboration with the tech experts at Packt. Pay what you want for industry-leading insights from eBooks like <em>Cybersecurity Blue Team Strategies</em> and <em>Cybersecurity Attacks - Red Team Strategies</em>, all designed to help you combat bad hackers and secure your slice of cyberspace. Learn the latest defensive and offensive cybersecurity techniques and deepen your understanding, whether you’re a novice or a seasoned professional. Take control of your future, and help support The Global FoodBanking Network!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books</guid>
       <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Foundations and Applications by Manning</title>
-      <link>https://www.humblebundle.com/books/ai-foundations-and-applications-manning-books</link>
-      <description>The hottest AI summer reading list</description>
-      <content:encoded><![CDATA[Looking for a leg up on apps and AI? We’ve partnered with Manning Publications to curate the perfect summer reading series for curious, tech-focused minds! It all begins with the AI Foundations and Applications Bundle—embark on your learning journey with <em>AI-Powered Search</em>, <em>Build a Large Language Model (From Scratch)</em>, or <em>Deep Learning with Python, 3e</em> and watch your confidence grow in these red-hot fields of tech. Make summer ’26 the season of growth for your career, and help support Feeding America with your purchase. ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/ai-foundations-and-applications-manning-books</guid>
-      <pubDate>Thu, 02 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
