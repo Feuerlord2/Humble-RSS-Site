@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 01 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Tech Career Library in the Age of AI by Apress</title>
+      <link>https://www.humblebundle.com/books/tech-career-library-in-age-ai-apress-books</link>
+      <description>Take control of your tech career</description>
+      <content:encoded><![CDATA[Master the skills you need to succeed in the age of AI with an all-new career-building bundle by Apress! Learn every aspect of the AI ecosystem with expert-published titles across Claude Coding, Copilot, ChatGPT, and business intelligence platforms in this curated collection. Unlock building-block eBooks like <em>A Friendly Guide to Data Science</em>, <em>Responsible AI in Practice</em>, <em>Foundations of Modern Information Security</em>, and more. Save big on leading AI eBooks and help support Save the Children with your purchase. ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/tech-career-library-in-age-ai-apress-books</guid>
+      <pubDate>Mon, 03 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI &amp; Automation for Networking Professionals by Packt</title>
       <link>https://www.humblebundle.com/books/ai-automation-for-networking-professionals-packt-books</link>
@@ -118,14 +126,6 @@
       <pubDate>Tue, 14 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cameras and Photography for Dummies by Wiley</title>
-      <link>https://www.humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books</link>
-      <description>Become a photography pro</description>
-      <content:encoded><![CDATA[Love taking photos but frustrated with your phone camera? Got a new digital camera with all the bells and whistles but no clue where to start with it? This bundle of camera and photography books from Wiley’s ever-useful For Dummies series has everything you need to go from point-and-shoot novice to National Geographic-level artistry. Learn the ins and outs of digital cameras, from pixels and aesthetics to DSLR technical specs! Become an expert in Canon, Nikon, GoPro, and more! Figure out how to turn your iPhone or Android lens into a professional-level camera! This bundle is for beginners as well as seasoned professionals, so get it now at the price of your choice and support Active Minds with your purchase! ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/cameras-and-photography-for-dummies-wiley-books</guid>
-      <pubDate>Mon, 13 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pathfinder Second Edition Bundle of Frogs! By Paizo Inc.</title>
       <link>https://www.humblebundle.com/books/pathfinder-second-edition-bundle-frogs-paizo-inc-books</link>
       <description>Hop to your next adventure!</description>
@@ -156,14 +156,6 @@
       <content:encoded><![CDATA[Discover the unforgettable tales of one of science fiction and fantasy’s greatest authors in this bundle of Tanith Lee ebooks from DAW! Meet a Martian vampire desperate to evade the prying eyes of a private detective in <em>Sabella</em>. Follow people living on the dark side of a planet that might be about to contact another civilization in <em>Day by Night</em>. Explore the mysteries of a medieval-inspired world with a reluctant goddess in <em>The Birthgrave</em>. There are 26 books in total in this bundle from the master fantasist, so grab them all now at the price of your choice, and support BINC with your purchase!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/tanith-lee-collection-daw-books-books</guid>
       <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Team &amp; Blue Team: The Hacker&#39;s Complete Playbook by Packt</title>
-      <link>https://www.humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books</link>
-      <description>Get Defending APIs, Digital Forensics Cookbook and more!</description>
-      <content:encoded><![CDATA[Turn your curiosity about computer hacking into a fast-paced, proven, and ethical career with our latest collaboration with the tech experts at Packt. Pay what you want for industry-leading insights from eBooks like <em>Cybersecurity Blue Team Strategies</em> and <em>Cybersecurity Attacks - Red Team Strategies</em>, all designed to help you combat bad hackers and secure your slice of cyberspace. Learn the latest defensive and offensive cybersecurity techniques and deepen your understanding, whether you’re a novice or a seasoned professional. Take control of your future, and help support The Global FoodBanking Network!]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/red-team-blue-team-hackers-complete-playbook-packt-books</guid>
-      <pubDate>Mon, 06 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
