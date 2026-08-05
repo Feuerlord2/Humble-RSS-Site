@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 04 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>The Modern Indie Game Studio Bundle by Packt</title>
+      <link>https://www.humblebundle.com/books/modern-indie-game-studio-bundle-packt-books</link>
+      <description>Build and launch your own indie games</description>
+      <content:encoded><![CDATA[Step into the world of indie game development with an all-in-one Tech Book Bundle from Packt! Make your passion a real-world career and learn how to build games using Unity, Unreal Engine 5, Godot, and Roblox. Master essential technical and creative fundamentals like C++, C#, GDScript, AI, multiplayer systems, and 3D modeling with Blender and ZBrush. Whether you’re creating your first game or refining your studio pipeline, this collection equips you with everything you need to design, develop, and launch your own games. Plus, your purchase supports the AbleGamers Foundation in building a better world for gamers with disabilities. ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/modern-indie-game-studio-bundle-packt-books</guid>
+      <pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>One-Shots &amp; Fast Reads by Image Comics</title>
       <link>https://www.humblebundle.com/books/oneshots-fast-reads-image-comics-books</link>
@@ -148,14 +156,6 @@
       <content:encoded><![CDATA[Are you on the side of humanity or technology? Lose yourself in the renowned <em>Blade Runner</em> comic series in this bundle from Titan Comics! Follow the continued stories of Rick Deckard and Roy Batty alongside new original characters in thrilling graphic novels and comics like <em>Blade Runner Black Lotus: Las Vegas #1</em> and <em>Blade Runner 2019: Vol. 1: Los Angeles</em>, and see a new side of this iconic dystopian universe. Uncover what’s new with the Tyrell Corporation, and help support Direct Relief with your purchase!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/blade-runner-collection-titan-comics-books</guid>
       <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux: All the Things by O&#39;Reilly</title>
-      <link>https://www.humblebundle.com/books/linux-all-things-oreilly-books</link>
-      <description>Learn Linux with O’Reilly</description>
-      <content:encoded><![CDATA[Tired of that stale operating system? Add color, customization, and optimization to your workstation with the all-new Linux: All the Things Bundle by O'Reilly! Master the fundamentals of Linux with 15 eBooks that cover everything you need to know. Pay what you want for an expertly curated Linux library designed to streamline your learning journey with foundational eBooks like <em>Learning Git</em>, <em>Linux Pocket Guide</em>, and <em>Practical Linux System Administration</em>. Unlock what’s possible with Linux, and help support Code for America with your purchase! ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/linux-all-things-oreilly-books</guid>
-      <pubDate>Wed, 08 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Tanith Lee Collection by DAW Books</title>
