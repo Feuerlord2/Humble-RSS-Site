@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>The Codex Mastery Bundle by Zenva</title>
+      <link>https://www.humblebundle.com/books/codex-mastery-bundle-zenva-books</link>
+      <description>Master Codex and simplify your AI</description>
+      <content:encoded><![CDATA[We’ve assembled a hands-on bundle from Zenva that brings together 10 practical eBooks for developers who want to stop guessing and build a clear, repeatable agentic coding workflow. Start with Codex CLI fundamentals, then sharpen your day-to-day practice with 101 battle-tested tips, a pocket reference, and advanced guides to automation, delegation, verification, and real-world codebases. From safer prompts and reusable workflows to shipping complete projects, this collection helps you move faster while keeping your work structured and under control. Pay what you want for The Codex Mastery Bundle, learn at your own pace, and support charity while gaining AI coding skills you can apply immediately. ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/codex-mastery-bundle-zenva-books</guid>
+      <pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The BattleTech RPG Collection Encore by Catalyst Game Labs</title>
       <link>https://www.humblebundle.com/books/battletech-rpg-collection-catalyst-game-labs-books-encore</link>
