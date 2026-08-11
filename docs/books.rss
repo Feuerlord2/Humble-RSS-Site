@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Software Engineering by Manning</title>
+      <link>https://www.humblebundle.com/books/software-engineering-manning-books</link>
+      <description>Surefire software engineering ebooks by Manning</description>
+      <content:encoded><![CDATA[We see a bright future for you as a software engineer—let us and Manning Publications help you see the vision. Master the art of writing efficient programs with elite eBooks that start from square one or build your existing skill set. Pay what you want for expert-led titles like <em>Architecture Modernization</em>, <em>Think Distributed Systems</em>, <em>Advanced Algorithms and Data Structures</em>, <em>100 SQL Server Mistakes and How to Avoid Them</em>, and more. Help support charity, develop your skills, and save some dough—you can’t beat that!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/software-engineering-manning-books</guid>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Codex Mastery Bundle by Zenva</title>
       <link>https://www.humblebundle.com/books/codex-mastery-bundle-zenva-books</link>
@@ -110,14 +118,6 @@
       <pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Software Architecture by Apress</title>
-      <link>https://www.humblebundle.com/books/software-architecture-apress-books</link>
-      <description>Simplify Software Architecture with elite eBooks</description>
-      <content:encoded><![CDATA[Looking to break into the tech world or land your first software design role? This curated selection of Software Architecture and AI eBooks is the perfect toolkit for building your job-ready portfolio, mastering enterprise-level AI, and more. Practical, approachable, and focused on growing your knowledge base, titles like <em>Mastering Software Architecture</em> and <em>Mastering Machine Learning Architecture and Solutions</em> have everything you need to flourish in AI. Plus, your purchase helps support Girls Who Code!]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/software-architecture-apress-books</guid>
-      <pubDate>Tue, 21 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI, ML, and Decision Engines by Pragmatic</title>
       <link>https://www.humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books</link>
       <description>Start creating decision assisting tools</description>
@@ -150,28 +150,12 @@
       <pubDate>Wed, 15 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Robotics and Electronics from Beginner to Expert by Apress</title>
-      <link>https://www.humblebundle.com/books/robotics-and-electronics-from-beginner-to-expert-apress-books</link>
-      <description>Make your robots rock</description>
-      <content:encoded><![CDATA[If you’re a robot enthusiast or just looking to get into a new tech hobby, this bundle of robotics and electronics books from Apress will have you building supercomputers and monster-fighting mech suits in no time! (Well, probably not exactly those things, but dream big!) These books will teach you how to build robotics operating systems with AI and Raspberry Pi, master analog and digital electronics and circuitry, and even craft robots with your favorite LEGO! If you’ve ever wanted to dive into robotics, this is the bundle for you. Get over $1,000-worth of tech books for the price of your choice, and support Room to Read charity with your purchase!]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/robotics-and-electronics-from-beginner-to-expert-apress-books</guid>
-      <pubDate>Tue, 14 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Blade Runner Collection by Titan Comics</title>
       <link>https://www.humblebundle.com/books/blade-runner-collection-titan-comics-books</link>
       <description>Discover the next chapter of Blade Runner’s story</description>
       <content:encoded><![CDATA[Are you on the side of humanity or technology? Lose yourself in the renowned <em>Blade Runner</em> comic series in this bundle from Titan Comics! Follow the continued stories of Rick Deckard and Roy Batty alongside new original characters in thrilling graphic novels and comics like <em>Blade Runner Black Lotus: Las Vegas #1</em> and <em>Blade Runner 2019: Vol. 1: Los Angeles</em>, and see a new side of this iconic dystopian universe. Uncover what’s new with the Tyrell Corporation, and help support Direct Relief with your purchase!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/blade-runner-collection-titan-comics-books</guid>
       <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Tanith Lee Collection by DAW Books</title>
-      <link>https://www.humblebundle.com/books/tanith-lee-collection-daw-books-books</link>
-      <description>New worlds, strange visions</description>
-      <content:encoded><![CDATA[Discover the unforgettable tales of one of science fiction and fantasy’s greatest authors in this bundle of Tanith Lee ebooks from DAW! Meet a Martian vampire desperate to evade the prying eyes of a private detective in <em>Sabella</em>. Follow people living on the dark side of a planet that might be about to contact another civilization in <em>Day by Night</em>. Explore the mysteries of a medieval-inspired world with a reluctant goddess in <em>The Birthgrave</em>. There are 26 books in total in this bundle from the master fantasist, so grab them all now at the price of your choice, and support BINC with your purchase!]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/tanith-lee-collection-daw-books-books</guid>
-      <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
