@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Sat, 15 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>React in Production Mega Bundle 2026 by Packt</title>
+      <link>https://www.humblebundle.com/books/react-in-production-mega-bundle-2026-packt-books</link>
+      <description>Design, build, and deploy production-ready React applications</description>
+      <content:encoded><![CDATA[React remains the most widely used web framework, powering more production applications and appearing in more job listings than any other framework. As AI-assisted development becomes the norm, knowing React well matters more, not less. This bundle brings together 17 books written by expert React practitioners and developers who build with it every day. Learn the design patterns and best practices behind React 19, get comfortable with hooks and state management, and understand the architecture decisions that separate a working demo from something that scales. Go further with TypeScript across the stack, full-stack development with popular frameworks and React Native for mobile. Whether you're learning React for the first time, prepping for your next interview, or leveling up how you build in production, this bundle gives you the depth to back it up. A portion of every purchase supports Breast Cancer Research Foundation. Build your complete React library before the deal ends!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/react-in-production-mega-bundle-2026-packt-books</guid>
+      <pubDate>Sat, 15 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The EC Comics Artists Library by Fantagraphics</title>
       <link>https://www.humblebundle.com/books/ec-comics-artists-library-fantagraphics-books</link>
@@ -118,14 +126,6 @@
       <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Body Counts &amp; Bloodshed: An Epic True Crime Bundle by Open Road Media</title>
-      <link>https://www.humblebundle.com/books/body-counts-bloodshed-an-epic-true-crime-bundle-open-road-media-books</link>
-      <description>Murders and mayhem and massacres, oh my!</description>
-      <content:encoded><![CDATA[<a style="color: #ef9741;"><strong>The content in this bundle is intended for mature audiences.</strong></a><br><br>True crime heads, this one’s for you. Take a peek inside this giant ebook bundle full of killer true stories that test the boundaries of belief, courtesy of Open Road Media! Discover the truth behind the shocking “Goodbar” murder in Lacey Fosburgh’s <em>Closing Time</em>! Decide whether the dingoes really are to blame in the case of Lindy Chamberlain’s lost baby in John Bryson’s <em>Evil Angels</em>! Follow one heroic sheriff’s hunt for the kidnappers of an Olympic athlete in Johnny France and Malcolm McConnell’s <em>Incident at Big Sky</em>! These ripped-from-the-headlines nailbiters assemble all the gory details of real criminal cases both famous and obscure! These books must be experienced to be believed, so grab this bundle now at the price of your choice and support Active Minds with your purchase! ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/body-counts-bloodshed-an-epic-true-crime-bundle-open-road-media-books</guid>
-      <pubDate>Sat, 25 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Dark Horse 40th Anniversary Bundle, Presented by IGN</title>
       <link>https://www.humblebundle.com/books/dark-horse-40th-anniversary-bundle-presented-ign-books</link>
       <description>Happy Birthday to Dark Horse!</description>
@@ -148,14 +148,6 @@
       <content:encoded><![CDATA[Break into the ever-growing world of AI, machine learning, and decision engines with a 15+ title bundle of eBooks curated by the experts at The Pragmatic Bookshelf! Learn time-efficient coding techniques from <em>Process Over Magic: Beyond Vibe Coding</em>, dip your toes into the latest in-demand skill sets with <em>A Common-Sense Guide to AI Engineering</em>, discover what content resonates with your audience from <em>Next-Level A/B Testing</em>, and so much more. Save big on the tools you need to succeed, and support Save the Children's emergency response in Venezuela with your purchase!]]></content:encoded>
       <guid>https://www.humblebundle.com/books/ai-ml-and-decision-engines-pragmatic-books</guid>
       <pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ultimate Python Development Bundle by Packt</title>
-      <link>https://www.humblebundle.com/books/ultimate-python-development-bundle-packt-books</link>
-      <description>Learn Python without the spendy pricetag </description>
-      <content:encoded><![CDATA[Build websites and software, automate tasks, analyze data, and more using Python—the star of our latest Tech Book Bundle with Packt. Pay what you want for a curated 21-title selection that can help transform your development cycle and career prospects. Unlock fundamental eBooks like <em>Python Illustrated</em>, a visual deep dive into the basics of Python coding, <em>Time Series Analysis with Python Cookbook - 2E</em>, and everything else you need to dip your toes into one of the most versatile programming languages on the market, while helping support the Python Software Foundation with your purchase. ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/ultimate-python-development-bundle-packt-books</guid>
-      <pubDate>Sat, 18 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
