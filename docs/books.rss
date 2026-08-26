@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 25 Aug 2026 18:00:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Microcontroller Classics and More by Make</title>
+      <link>https://www.humblebundle.com/books/microcontroller-classics-and-more-make-books</link>
+      <description>It’s time for a tech tuneup</description>
+      <content:encoded><![CDATA[Take your curiosity about homebrew tech to the next level and gain the skills you need to become a pro on Raspberry Pi, the ultimate portable personal processing platform. This bundle offers everything you need to get started, like <em>Wearable Electronics 2E</em>, <em>Getting Started with Raspberry Pi</em>, <em>Getting Started with Arduino 4E</em>, and a physical ESP32 Kit that ships within 3–4 weeks! Pay what you want for the skills you need to create the next great gadget, and help support Electronic Frontier Foundation! ]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/microcontroller-classics-and-more-make-books</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miniseries, Quick Hits, and Speedy Reads by Dynamite Comics</title>
       <link>https://www.humblebundle.com/books/miniseries-quick-hits-and-speedy-reads-dynamite-comics-books</link>
@@ -126,14 +134,6 @@
       <pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Modern Indie Game Studio Bundle by Packt</title>
-      <link>https://www.humblebundle.com/books/modern-indie-game-studio-bundle-packt-books</link>
-      <description>Build and launch your own indie games</description>
-      <content:encoded><![CDATA[Step into the world of indie game development with an all-in-one Tech Book Bundle from Packt! Make your passion a real-world career and learn how to build games using Unity, Unreal Engine 5, Godot, and Roblox. Master essential technical and creative fundamentals like C++, C#, GDScript, AI, multiplayer systems, and 3D modeling with Blender and ZBrush. Whether you’re creating your first game or refining your studio pipeline, this collection equips you with everything you need to design, develop, and launch your own games. Plus, your purchase supports the AbleGamers Foundation in building a better world for gamers with disabilities. ]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/modern-indie-game-studio-bundle-packt-books</guid>
-      <pubDate>Wed, 05 Aug 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>One-Shots &amp; Fast Reads by Image Comics</title>
       <link>https://www.humblebundle.com/books/oneshots-fast-reads-image-comics-books</link>
       <description>Unlock Can&#39;t-Miss Comic One-Shots</description>
@@ -188,14 +188,6 @@
       <content:encoded><![CDATA[Celebrate the 40th Anniversary of Dark Horse with this bundle of the publisher’s most legendary comic series, brought to you by IGN! Enjoy fabulous omnibus editions of series starring the likes of Hellboy, the Witcher, and Vampire Hunter D! Enter a new era with the superhumans and villains of Dark Horse Heroes! Rediscover classic favorites like the epic fantasy saga Elfquest, new bestsellers like Vikings-meets-Succession drama Kill All Immortals, and totally unique genre mashups like Anthony Bourdain’s Hungry Ghosts! Collected together in this bundle are 40 of Dark Horse’s best series and omnibus editions, so grab them now at the price of your choosing, and support comic creator charity Hero Initiative with your purchase!</p> <p><em>Founded in 1986, Dark Horse is one of the industry’s leading publishers of comics, graphic novels, books, manga, and collectibles. Known for championing creator-first storytelling, Dark Horse has published landmark titles including Hellboy, Sin City, The Umbrella Academy, and Black Hammer, as well as acclaimed licensed works based on Avatar: The Last Airbender, The Witcher, The Last of Us, and Critical Role. The company also helped define manga publishing in North America with classics such as Lone Wolf and Cub, Trigun, Berserk, and Blade of the Immortal.</em></p>]]></content:encoded>
       <guid>https://www.humblebundle.com/books/dark-horse-40th-anniversary-bundle-presented-ign-books</guid>
       <pubDate>Thu, 23 Jul 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teenage Mutant Ninja Turtles: Return to New York by IDW</title>
-      <link>https://www.humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books</link>
-      <description>Feel the Turtle Power</description>
-      <content:encoded><![CDATA[Grab a slice of pizza and dive into this giant bundle of comics starring everyone’s favorite sewer-dwelling reptile warriors, the Teenage Mutant Ninja Turtles!! Follow the Turtles as they clean up the streets of New York City, fighting off secret police, other mutants, and the nefarious Foot while making allies in unexpected places and working together as a family! Other highlights of this bundle include the <em>Saturday Morning Adventures</em> volumes and one-shots inspired by the charm and pandemonium of the ’90s cartoon, <em>Turtle Power Pack</em> adventures for younger readers, and both volumes of collected cover art from TMNT co-creator Kevin Eastman! There’s even more mutant mayhem to discover in this bundle of nearly 50 volumes and collections, so grab it now at the price of your choosing, and support the Make-A-Wish Foundation with your purchase! <br/><br/><span style="color: #ef9741;">Keys Expire. Please redeem before August 12, 2027.</span>]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/teenage-mutant-ninja-turtles-return-to-new-york-idw-books</guid>
-      <pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
