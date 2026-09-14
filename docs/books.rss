@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
+    <pubDate>Mon, 14 Sep 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>AI in Production: Governance, Reliability, and Application by Manning</title>
+      <link>https://www.humblebundle.com/books/ai-in-production-governance-reliability-and-application-manning-books</link>
+      <description>Streamline your production environments with AI</description>
+      <content:encoded><![CDATA[Master the governance, reliability, and application of AI tools in a production setting with our latest learning bundle by Manning! Learn how to safely and efficiently deploy large language model applications with <em>LLMs in Production</em>, access a practical playbook for deploying secure, responsible, and compliant Generative AI systems with <em>AI Governance (MEAP)</em>, or help users locate what they need with accuracy from <em>AI Powered Search</em>. Save big on vital lessons on AI in production and help support Feeding America with your purchase!]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/ai-in-production-governance-reliability-and-application-manning-books</guid>
+      <pubDate>Mon, 14 Sep 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dungeon Master&#39;s Guild Top Content from the D&amp;D Community</title>
       <link>https://www.humblebundle.com/books/dungeon-masters-guild-top-content-from-dd-community-books</link>
@@ -156,14 +164,6 @@
       <content:encoded><![CDATA[In Warmachine the earth shakes during fierce confrontations between six-ton constructs of iron and steel clash with the devastating force of a locomotive, towering warbeasts hurl themselves at their foes in a frenzy of claw and fang, and bold heroes set the battlefield ablaze with with a tempest of of arcane magic as they forge the fate of nations in the fires of destruction. <br><br>Immerse yourself in Warmachine lore with this bundle of novels and short story anthologies, set in iconic locations and telling the stories of heroes, villains, and some of the Iron Kingdoms' most pivotal events. Collect each volume of the Iron Kingdoms Excursions, Warcaster Chronicles, Warlock Sagas, and Called to Battle series and more as you learn the backstories of key characters like The Butcher of Khardov and encounter a wealth of different peoples and cultures. <br><br>Grab this 41-ebook bundle at the price of your choice, and support the Child's Play charity with your purchase! <br><br>Also returning by popular demand is a collection of 65 Iron Kingdoms RPG (IKRPG) items, including core and source books for the Full Metal Fantasy and 5e editions, GM toolkits, bestiary's, and maps, first presented in the March 2025 Iron Kingdoms Humble Bundle.<br><br>A world of adventure and full metal fantasy awaits in the Iron Kingdoms.]]></content:encoded>
       <guid>https://www.humblebundle.com/books/tales-from-iron-kingdoms-books</guid>
       <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Embedded Firmware Developer Toolkit by Packt</title>
-      <link>https://www.humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books</link>
-      <description>Build, Program, and Master the Brains behind Modern Devices</description>
-      <content:encoded><![CDATA[Take control of the hardware that powers the modern world with this hands-on embedded systems toolkit from Packt! Dive deep into microcontrollers, ARM Cortex-M development, RTOS, and embedded Linux as you build the skills needed to design, program, and optimize real-world devices. Whether you're an aspiring firmware engineer or an experienced developer expanding into embedded systems, this bundle equips you to write efficient code, manage hardware, and bring intelligent devices to life, while supporting charity with your purchase.]]></content:encoded>
-      <guid>https://www.humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books</guid>
-      <pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The EC Comics Artists Library by Fantagraphics</title>
