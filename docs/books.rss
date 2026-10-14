@@ -4,7 +4,15 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
+    <item>
+      <title>Java by Apress</title>
+      <link>https://www.humblebundle.com/books/java-apress-books</link>
+      <description>Find your groove with Java by Apress.</description>
+      <content:encoded><![CDATA[Level up your tech skills before fall takes form with our latest Java Mastery Bundle by Apress. Flip the script on your job prospects and learn how to speak standard languages used by computer experts, create efficient agentic assistants, and more with approachable lessons like <em>Pro Spring Boot 4: An Authoritative Guide with Best Practices</em> and <em>Go for Java Programmers: Learn Google's Go Programming Language</em>. Start a new career in tech or sharpen your existing toolset, and help support No Kid Hungry with your purchase.]]></content:encoded>
+      <guid>https://www.humblebundle.com/books/java-apress-books</guid>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DIY Halloween Displays and Holiday Gifts</title>
       <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
